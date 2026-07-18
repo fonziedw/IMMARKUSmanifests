@@ -1,0 +1,177 @@
+{
+  "@context": "https://iiif.io/api/presentation/2/context.json",
+  "id": "https://fonziedw.github.io/IMMARKUSmanifests/a83d676a81a08708/manifest.json",
+  "type": "Manifest",
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Chinese Title"
+        ]
+      },
+      "value": {
+        "none": [
+          "清陳士倌聖帝明王善端錄（唐後周）　冊　唐元宗"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Time"
+        ]
+      },
+      "value": {
+        "none": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Source"
+        ]
+      },
+      "value": {
+        "en": [
+          "This manifest is a derivative copy of the <a href=\"https://digitalarchive.npm.gov.tw/Integrate/GetJson?cid=6805&dept=P&imageName=\">original manifest</a>, annotated with <a href=\"https://immarkus.xmarkus.org\">IMMARKUS</a>."
+        ]
+      }
+    }
+  ],
+  "label": {
+    "none": [
+      "NPM 故宮 - 清陳士倌聖帝明王善端錄（唐後周）　冊　唐元宗 (annotated with IMMARKUS)"
+    ]
+  },
+  "provider": [
+    {
+      "id": "http://example.org/provider",
+      "type": "Agent",
+      "logo": [
+        {
+          "id": "https://www.npm.gov.tw/images/favicon/apple-icon-57x57.png",
+          "type": "Image"
+        }
+      ],
+      "label": {
+        "none": [
+          ""
+        ]
+      }
+    }
+  ],
+  "rendering": [
+    {
+      "id": "https://digitalarchive.npm.gov.tw/Collection/Detail?id=6805&dep=P",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "DigitalArchives"
+        ]
+      }
+    },
+    {
+      "id": "https://digitalarchive.npm.gov.tw/Integrate/IIIFViewer?id=6805&dep=P&imageName=",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "IIIF Viewer"
+        ]
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": "https://digitalarchive.npm.gov.tw/Canvas/K2A003131N000000015PAA",
+      "type": "Canvas",
+      "height": "629",
+      "width": "979",
+      "label": {
+        "none": [
+          "K2A003131N000000015PAA"
+        ]
+      },
+      "annotations": [
+        {
+          "id": "https://digitalarchive.npm.gov.tw/Integrate/GetJsonOtherContent?server=iiifod&n1=K2A&item=K2A003131N000000015PAA&ObjectID=6805&Dept=P",
+          "type": "AnnotationPage"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://digitalarchive.npm.gov.tw/Canvas/K2A003131N000000015PAA/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://digitalarchive.npm.gov.tw/Annotation/K2A003131N000000015PAA",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://digitalarchive.npm.gov.tw/Canvas/K2A003131N000000015PAA",
+              "body": {
+                "id": "https://iiifod.npm.gov.tw/iiif/2/K2A%252FK2A003131N000000015PAA/full/,300/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://iiifod.npm.gov.tw/iiif/2/K2A%2FK2A003131N000000015PAA",
+                    "@type": "Service",
+                    "@context": "https://iiif.io/api/image/2/context.json",
+                    "profile": "https://iiif.io/api/image/2/level1.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://digitalarchive.npm.gov.tw/Canvas/K2A003131N000000015PAB",
+      "type": "Canvas",
+      "height": "900",
+      "width": "733",
+      "label": {
+        "none": [
+          "K2A003131N000000015PAB"
+        ]
+      },
+      "annotations": [
+        {
+          "id": "https://fonziedw.github.io/IMMARKUSmanifests/a83d676a81a08708/annotations-2723572583.json",
+          "type": "AnnotationPage"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://digitalarchive.npm.gov.tw/Canvas/K2A003131N000000015PAB/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://digitalarchive.npm.gov.tw/Annotation/K2A003131N000000015PAB",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://digitalarchive.npm.gov.tw/Canvas/K2A003131N000000015PAB",
+              "body": {
+                "id": "https://iiifod.npm.gov.tw/iiif/2/K2A%252FK2A003131N000000015PAB/full/,300/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://iiifod.npm.gov.tw/iiif/2/K2A%2FK2A003131N000000015PAB",
+                    "@type": "Service",
+                    "@context": "https://iiif.io/api/image/2/context.json",
+                    "profile": "https://iiif.io/api/image/2/level1.json"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
