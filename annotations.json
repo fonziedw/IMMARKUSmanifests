@@ -1,0 +1,1791 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://fonziedw.github.io/IMMARKUSmanifests/道光_晉江縣志_36657_34_35_com/annotations.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "id": "7d722873-8632-48ff-95c1-d303805fc51b",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/道光_晉江縣志_36657_34_35_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"154.93383439174568,427.46831750916215 215.62150410092593,399.45864815017416 238.25597338528274,443.8073176842583 165.82648798396653,480.37549492663\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "d32f16b4-1ec7-49b9-a332-cd33a5bdfe91",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div><p><strong>name</strong>:<span>晉江城義成門</span></p><p><strong>direction</strong>:<span>west</span></p><p><strong>texture</strong>:<span>striped</span></p></div>"
+        }
+      ],
+      "created": "2025-07-14T19:02:39.653Z",
+      "creator": {
+        "isGuest": true,
+        "id": "RwwlI6qYW01eNGPSSFHS"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "23bd065e-1af6-4d5a-a5d1-d5f6fad7d433",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/道光_晉江縣志_36657_34_35_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"149.4649876709203,383.88197181340126 174.20422535399973,370.5450210040469 201.03563545529002,387.8561478409919 204.24094851654843,408.6984679118374 165.82648798396653,428.2463726743629 153.37776363487387,419.6878054306849 152.59970846967323,404.1268802075542\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "7d5e7002-eaa4-4eff-a542-ff10eeac915c",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div><p><strong>name</strong>:<span>晉江城義成門樓</span></p></div>"
+        }
+      ],
+      "created": "2025-07-14T19:02:44.893Z",
+      "creator": {
+        "isGuest": true,
+        "id": "RwwlI6qYW01eNGPSSFHS"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "79f69d04-a567-4c61-bd67-b6b7d4023602",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/道光_晉江縣志_36657_34_35_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"968.2982454250865,1267.7529160286865 972.6207191574105,1226.689278163521 1043.4014120251331,1217.5040146119284 1052.5867305399613,1265.0513630755797\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "7bfc3ab1-5aad-41c4-b52f-84221d89fcd0",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div><p><strong>name</strong>:<span>晉江城德濟門</span></p><p><strong>direction</strong>:<span>south</span></p><p><strong>texture</strong>:<span>striped</span></p></div>"
+        }
+      ],
+      "created": "2025-07-14T19:05:51.000Z",
+      "creator": {
+        "isGuest": true,
+        "id": "RwwlI6qYW01eNGPSSFHS"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "e6a3f24e-fea0-4ed5-b72b-fddb43ad50cf",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/道光_晉江縣志_36657_34_35_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"854.8004375194857,267.72557462149985 858.7785665307387,226.16146041779245 924.9130155651018,223.56799266736886 935.3065806721455,265.7122187358356\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "73c69898-d8ca-45e2-b904-97d84b91eeff",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div><p><strong>name</strong>:<span>晉江城朝天門</span></p><p><strong>direction</strong>:<span>north</span></p><p><strong>texture</strong>:<span>striped</span></p></div>"
+        }
+      ],
+      "created": "2025-07-19T11:15:11.817Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Xy89Krr8Vgpw67Ec_uVO"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "58e141a8-4046-49c9-a4c3-58141931f1af",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/道光_晉江縣志_36657_34_35_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"862.0204300744668,218.30754880971327 867.8557844646843,195.68719015796742 880.1749842882036,179.46388219253114 904.8193842311708,178.76777615414844 921.7440796712925,191.0753042878298 918.4288689265143,217.07872769695038\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "2a4d1a1e-1732-40b0-b09c-23922658517d",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div><p><strong>name</strong>:<span>晉江城朝天門樓</span></p></div>"
+        }
+      ],
+      "created": "2025-07-19T11:15:15.153Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Xy89Krr8Vgpw67Ec_uVO"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "5442149e-1e58-4d8c-b99e-a9fa4c49a416",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/道光_晉江縣志_36657_34_35_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"1350.3800663898262,500.7749305092057 1402.5318102052474,493.7580439233526 1425.9741119176033,542.775024661876 1386.293812948253,568.4625871946525\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "f28d3ccd-3462-4306-9228-0f30993ea2a0",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div><p><strong>name</strong>:<span>晉江城仁風門</span></p><p><strong>direction</strong>:<span>east</span></p><p><strong>texture</strong>:<span>striped</span></p></div>"
+        }
+      ],
+      "created": "2025-07-19T11:15:47.540Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Xy89Krr8Vgpw67Ec_uVO"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "d33bdab3-4cf7-4a53-bc3c-231fac4556b6",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/道光_晉江縣志_36657_34_35_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"1402.6601711635194,495.0050577006767 1407.1679772645211,482.01261144924774 1435.2431141849638,483.6337379973243 1450.2827036446663,489.03684390353806 1457.3295041913127,510.25803891374557 1447.6122737880794,522.5423994379236 1424.3610643449022,536.584390651571\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "c22ab63e-492f-485b-886e-dc4c45937094",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div><p><strong>name</strong>:<span>晉江城仁風門樓</span></p></div>"
+        }
+      ],
+      "created": "2025-07-19T11:15:54.331Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Xy89Krr8Vgpw67Ec_uVO"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "e4b036d1-4139-4d76-a23b-2af2bacd0098",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/道光_晉江縣志_36657_34_35_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"1400.0289663195176,1049.722214386556 1455.8615251820172,1032.5891928474127 1484.2368473112283,1076.7187322948973 1403.0611412177905,1097.5457066283054\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "3c31f9e5-b81f-4a06-a32f-1e36e88c874f",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div><p><strong>name</strong>:<span>晉江城通准門</span></p><p><strong>direction</strong>:<span>southeast</span></p><p><strong>texture</strong>:<span>striped</span></p></div>"
+        }
+      ],
+      "created": "2025-07-19T11:16:28.140Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Xy89Krr8Vgpw67Ec_uVO"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "f3137a9d-08c7-4a64-af1f-fc57439b71c3",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/道光_晉江縣志_36657_34_35_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"1390.568653918193,1042.0676809624167 1396.357176281677,1022.2547965827438 1404.9613952595037,1002.4341322293551 1428.089275017121,999.1298055189903 1434.0187085311074,1007.0039952842559 1450.039901056285,1022.7150113330915 1450.8323548233348,1038.541591438831 1406.3325852964972,1051.9735085141451\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "9627179f-db0e-4904-87a8-217de373cbad",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div><p><strong>name</strong>:<span>晉江城通准門樓</span></p></div>"
+        }
+      ],
+      "created": "2025-07-19T11:16:33.708Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Xy89Krr8Vgpw67Ec_uVO"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "f93965cd-7acc-45ba-badc-72475e2b3beb",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/道光_晉江縣志_36657_34_35_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"976.3989742726333,1214.8023548524761 983.8047793547274,1200.7484124522844 996.8955657973298,1182.902790663116 1024.963282932161,1183.9182076280824 1030.5623930429651,1195.8663148311714 1039.0789108111915,1209.2785046784095 1036.9177014266475,1220.7961558855013 986.133604712827,1222.9071205181422\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "e82d23f4-3d8c-4a11-940d-991ce42061c1",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div><p><strong>name</strong>:<span>晉江城德濟門樓</span></p></div>"
+        }
+      ],
+      "created": "2025-07-19T11:17:23.358Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Xy89Krr8Vgpw67Ec_uVO"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "82dfdce9-300c-4c56-95a5-131c20266800",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/道光_晉江縣志_36657_34_35_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"572.5228858046233,1141.5961446508368 646.8324602649963,1177.167351515645 655.387373369565,1132.9809150128826 602.7070816234424,1105.125258337725\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "37adc1bb-0e65-4f3f-87f5-802ee359881c",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div><p><strong>name</strong>:<span>晉江城南薰門</span></p><p><strong>direction</strong>:<span>south</span></p><p><strong>texture</strong>:<span>striped</span></p></div>"
+        }
+      ],
+      "created": "2025-07-19T11:18:09.754Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Xy89Krr8Vgpw67Ec_uVO"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "d383d2aa-20d6-4733-b1ed-e6d65a97afd6",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/道光_晉江縣志_36657_34_35_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"609.4609640062095,1108.2777718226337 654.1328333620228,1130.8388267527598 666.1964954903585,1123.5880247542873 666.1936309953588,1082.2004043722563 643.2304235263721,1068.5983779337619 627.87977651158,1082.6495912228997 608.1067356369804,1092.9719909640246\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "7d740b2c-cf28-47c1-a573-2d26dd9fe7dd",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div><p><strong>name</strong>:<span>晉江城南薰門樓</span></p></div>"
+        }
+      ],
+      "created": "2025-07-19T11:18:14.427Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Xy89Krr8Vgpw67Ec_uVO"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "0b552fc2-32ac-451d-83fb-6c4c5d39d775",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/道光_晉江縣志_36657_34_35_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"192.3111219917474,1056.4903106789425 224.18944134208456,1019.2088854223916 281.4623419626554,1042.4422298264635 264.7127356386872,1086.207393163118\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "45440667-8a5d-4f62-aa66-b3744083c9a6",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div><p><strong>name</strong>:<span>晉江城臨漳門</span></p><p><strong>direction</strong>:<span>southwest</span></p><p><strong>texture</strong>:<span>striped</span></p></div>"
+        }
+      ],
+      "created": "2025-07-19T11:18:21.370Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Xy89Krr8Vgpw67Ec_uVO"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "d41cec63-74c1-4b68-9d21-4ffbf1bf774c",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/道光_晉江縣志_36657_34_35_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"227.4313103821363,1017.587937161557 230.13286333524314,997.5964617975369 244.72126027466726,986.2499476389734 260.9306534483816,977.0609839220916 281.46353207527727,988.893573311636 284.71821586724155,1022.3100696651794 278.85423102262723,1038.2608017899317\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "0d5e57e1-58b4-456e-b2fd-c2308ab4f54c",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div><p><strong>name</strong>:<span>晉江城臨漳門樓</span></p></div>"
+        }
+      ],
+      "created": "2025-07-19T11:18:25.970Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Xy89Krr8Vgpw67Ec_uVO"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "1e39454d-9787-4c81-b212-e8112129093c",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/道光_晉江縣志_36657_34_35_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"104.36284603552319,1001.0095386040189 149.10055634338423,1036.0216582806952 179.57407035663527,980.258440498724 154.2875248221728,956.2717623402751\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "074b0ac9-d46c-43c5-b0a7-adc9b97f3647",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div><p><strong>name</strong>:<span>晉江城水関</span></p></div>"
+        }
+      ],
+      "created": "2025-07-19T15:27:26.371Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Xy89Krr8Vgpw67Ec_uVO"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "6bc1d123-44f8-4f2e-b74a-b662bb770f1f",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/道光_晉江縣志_36657_34_35_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><g><path fill-rule=\"evenodd\" d=\"M 66.81518338671964,930.4372534479006 L 98.15559163893671,851.6417479585332 L 182.98433787752083,794.9092046473339 L 269.4434186751504,746.2906979862022 L 244.04049421647898,717.6461452607007 L 204.47602765006278,689.0162875261761 L 147.2762572439235,637.5836249558492 L 112.76576919890753,572.5480342740577 L 84.73833632287932,515.5685911655204 L 117.59816246452627,446.949544161635 L 146.24321496710616,425.901192934833 L 149.48505652554007,411.2886303429265 L 153.2235932793862,384.80904968803316 L 173.78194503496402,370.7094035871091 L 185.48718991618452,375.5179554724597 L 195.04936136124746,386.6559308531334 L 207.3868710410692,396.15991731655754 L 251.8945597087427,396.788808235001 L 328.84498511281254,413.9901868236429 L 386.8617171613154,403.184245270878 L 469.4398971457842,386.4343376780199 L 539.0404281941544,374.0071913455667 L 577.4109831510644,363.741323101702 L 627.6599017438334,313.4924216849441 L 694.7883609896555,263.2435492539996 L 742.7445037063384,236.22808489779166 L 814.6073235023196,220.59128948311698 L 854.5903291935949,212.99471503709043 L 881.5628142472776,179.99201536230024 L 903.2095806466154,178.39662846761888 L 920.5943447038585,187.7284636996582 L 924.4250368031724,214.08327285811606 L 966.7875327640982,209.2124886876671 L 995.4457012664483,212.45434398690992 L 1026.4090911713467,203.80938278145337 L 1104.7541130706363,187.60006506281226 L 1153.9223823135044,196.24501252745992 L 1209.0227849343655,216.2365428547155 L 1296.0240841358948,258.3807441897263 L 1359.2403930088158,310.76152200031345 L 1384.6349880198584,352.394829554352 L 1390.5908912899542,380.4678418392582 L 1394.9008837453407,482.609680520021 L 1405.7070955577678,482.069378173885 L 1426.7786497141915,478.8266529611507 L 1448.5856021789007,481.53783186793964 L 1454.554412456401,507.18522247390007 L 1435.4241780419434,531.7779360220802 L 1516.470794116767,555.5313004944036 L 1553.2119307679905,582.0267859108047 L 1580.7510219413193,633.8599571358736 L 1589.4597756333112,686.3067674814017 L 1588.3316846970895,744.1204768760215 L 1577.5622613494015,795.9897852931905 L 1540.2443721629304,797.6107198132164 L 1504.583843948193,812.7375391466811 L 1487.8322279210947,834.2764747170964 L 1482.9562820807603,865.1343942428039 L 1487.8342888432462,899.1891135981955 L 1499.1693954486893,931.0778084011818 L 1513.2288426318619,966.1393538268268 L 1519.1722921066385,1014.2752858895177 L 1502.9629743879973,1051.0163950591236 L 1476.6541036172785,1075.5652290686216 L 1399.7636186013742,1096.402492915804 L 1333.8409258854572,1113.1464221530673 L 1271.798622921094,1134.2241930368732 L 1220.9208350909953,1162.8513312874752 L 1178.7766749784112,1193.6583854868413 L 1139.3339578924629,1226.0770209241236 L 1075.053737854748,1256.3344194952433 L 993.450180869547,1264.9794219231267 L 950.7655672619292,1270.3862168840737 L 892.9523780360313,1252.0119457629194 L 841.6331358301069,1225.5367872820316 L 777.3258896577642,1212.5692836402068 L 683.8521686495385,1192.018050730941 L 574.7094350257119,1138.3128694515367 L 505.55965318991593,1107.208472431883 L 448.854089959647,1089.9061114880815 L 385.01956987392794,1087.7575179695377 L 324.00533710437713,1090.4590709226445 L 278.0992015417195,1084.5355211463334 L 185.11976095563406,1059.6137550479198 L 146.19033513064272,1027.2266481832398 L 97.61528235921247,969.9399922846237 Z M 139.26469185818902,897.0202538754005 L 140.29997503966536,919.1727909102684 L 165.1145411103748,970.428248969292 L 192.1559350058015,995.4041545208813 L 217.56436820026732,1011.5658661804192 L 238.63648947898594,990.4937311608917 L 262.41014997000264,977.374776813271 L 281.3210206417505,991.0340472478367 L 291.0462020360871,1033.7184327993039 L 336.9112462677269,1027.7505102429407 L 405.1805543449667,1032.2597895931588 L 461.244463807637,1031.5573965076749 L 533.1057613676319,1059.6534757677798 L 595.7355684107275,1098.5206728118512 L 606.5880071884615,1096.523019836243 L 628.2004033316985,1085.588428088194 L 644.4097485319573,1069.91939897488 L 663.8609078090324,1080.1853221819804 L 662.2399212054037,1127.7175951140928 L 711.4059014988934,1146.6435413173792 L 794.0758206083414,1167.175332768344 L 844.3186428840371,1170.999362099015 L 884.8212596214098,1194.7311234231224 L 920.5084452245869,1212.5613894025983 L 967.5154638604841,1224.9885494758603 L 975.6201227198047,1213.101705489543 L 984.2649672339035,1205.0093450714194 L 994.5264910677973,1183.9224692285547 L 1023.5245183961373,1181.1228644310363 L 1029.6987555169835,1188.2210336092073 L 1044.779867326693,1216.3435470479774 L 1078.8192694523946,1198.5136037655368 L 1120.9632340905657,1170.3724562402233 L 1174.0526595301535,1127.7337895311784 L 1215.5179919777513,1100.71705866971 L 1282.5163929439136,1077.4860520527086 L 1388.9575251832575,1050.4682909788833 L 1393.6588906326829,1021.9045140285523 L 1402.551820723145,1004.449199099875 L 1427.2139637200735,1000.0251645417709 L 1434.3437811794056,1006.2513031189839 L 1453.7949404564806,1031.5573278036306 L 1467.8430010966517,1013.7416276559071 L 1468.923884570319,985.6082563494076 L 1446.77091377105,939.7487383285774 L 1432.7228604001887,890.4860185168704 L 1428.9406696241465,832.724025709623 L 1448.9256665956477,785.6749354821505 L 1482.4807329951022,761.3509571045711 L 1533.7609518390316,754.4060395973867 L 1542.9461879090063,708.4516743087439 L 1531.0679470422317,652.2842853448357 L 1504.5842165735246,621.9545991227662 L 1465.150042197025,594.4543538970247 L 1420.835961450636,581.9991255128631 L 1386.2561166288094,570.4942314252953 L 1343.0312693791,489.2131601777052 L 1340.3297164259932,456.66691984205374 L 1341.4102386734119,392.3700474992877 L 1329.5235046135656,361.5723878044581 L 1296.6918919297464,321.17609353662374 L 1234.9245506004502,286.96198459187616 L 1140.4163776046878,249.187082037065 L 1095.654011079217,244.28962851986248 L 1054.5053920019948,256.302869657896 L 957.2493757636776,265.93746410546885 L 887.5493425514621,265.93746410546885 L 797.8817840980015,279.4452288710031 L 747.0209328100112,298.89639501848256 L 698.4405810057191,338.33614454292734 L 655.7560469092818,378.8600016385008 L 617.3996556234382,409.1146271076626 L 554.71795826914,430.23952746753224 L 513.6543204039747,435.05477103337677 L 463.1228796876785,438.2915120227756 L 379.6224018889937,458.2793009548508 L 340.217037327958,464.3962100067629 L 286.7316668416922,455.59075631149454 L 239.00075317414692,444.979877894686 L 179.15457659426085,474.0046851443929 L 139.75949062781157,498.8113788172312 L 153.76547521037105,543.116284133393 L 193.24999014183717,602.0037486240735 L 229.4320748467387,640.913039417195 L 278.61937837338587,675.492925461448 L 332.11009386696,719.7983842738341 L 333.19067107761435,774.3697525525114 L 294.78656595863896,788.9160584408332 L 251.06350527375477,817.0542837152761 L 187.84457595709023,860.2791309649857 Z\" /></g></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "4b07c9de-13f9-45f9-a977-af0c31621296",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div><p><strong>id</strong>:<span>jinjiang_cheng</span></p><p><strong>name</strong>:<span>晉江城</span></p><p><strong>TGAZ</strong>:<span>https://maps.cga.harvard.edu/tgaz/placename/hvd_40257</span></p><p><strong>texture</strong>:<span>striped</span></p><p><strong>road_presence</strong>:<span>intramural</span></p></div>"
+        }
+      ],
+      "created": "2025-07-19T15:30:46.155Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Xy89Krr8Vgpw67Ec_uVO"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "9e746663-d74b-4a07-9aa4-d23a183d790d",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/道光_晉江縣志_36657_34_35_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><ellipse cx=\"1061.526941825622\" cy=\"1127.0057713508122\" rx=\"26.64029857557159\" ry=\"25.327058935376613\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "9dc7b0ab-399c-4437-a25d-a2ac804b03a6",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div><p><strong>id</strong>:<span>?_chi</span></p><p><strong>name</strong>:<span>？池</span></p><p><strong>type</strong>:<span>lake</span></p><p><strong>relation to wall</strong>:<span>intramural</span></p></div>"
+        }
+      ],
+      "created": "2025-07-19T15:31:21.179Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Xy89Krr8Vgpw67Ec_uVO"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "0eb625f0-9a36-4e6e-be24-7450bcdeb3bb",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/道光_晉江縣志_36657_34_35_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><ellipse cx=\"1161.5218997580203\" cy=\"1106.1812987621677\" rx=\"17.447544756380466\" ry=\"16.134276489500508\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "79f4c7cd-c916-4324-8209-635a05fde92c",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div><p><strong>type</strong>:<span>lake</span></p><p><strong>relation to wall</strong>:<span>intramural</span></p></div>"
+        }
+      ],
+      "created": "2025-07-19T15:31:23.747Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Xy89Krr8Vgpw67Ec_uVO"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "56964e9f-e914-4550-9319-f3084c0ec3bb",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/道光_晉江縣志_36657_34_35_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><ellipse cx=\"1182.3523900239657\" cy=\"282.02621118468915\" rx=\"17.50447077733054\" ry=\"15.552656607086163\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "eaf4bef3-4f01-4aed-a5a9-cb9ab369fd10",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div><p><strong>type</strong>:<span>lake</span></p><p><strong>relation to wall</strong>:<span>intramural</span></p></div>"
+        }
+      ],
+      "created": "2025-07-19T15:31:33.515Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Xy89Krr8Vgpw67Ec_uVO"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "5b946e2f-fffe-4f8b-9079-972dd7076d8c",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/道光_晉江縣志_36657_34_35_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"1149.0995893737722,298.817372471969 1131.5395226601956,309.17331629833933 1115.7804637670722,336.6390977845211 1186.4711085339072,348.8100397950593 1202.2854783482546,334.8397813613829 1176.1530965360294,309.17333313274804 1169.7055067707356,301.85345667891977\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "9f7d7e9b-83a4-44ca-8526-063f0f158bfb",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div><p><strong>id</strong>:<span>??_shan</span></p><p><strong>name</strong>:<span>？？山</span></p><p><strong>type</strong>:<span>mountain</span></p><p><strong>relation to wall</strong>:<span>intramural</span></p></div>"
+        }
+      ],
+      "created": "2025-07-19T15:31:46.482Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Xy89Krr8Vgpw67Ec_uVO"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "22af5ad2-2566-4af9-b6b9-9af17ff9d0ae",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/道光_晉江縣志_36657_34_35_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><ellipse cx=\"912.6324669581236\" cy=\"511.2330831089183\" rx=\"14.858541242087654\" ry=\"11.616685942844782\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "e95c41da-dba2-4f06-b619-e7297f8bfcb6",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div><p><strong>type</strong>:<span>well</span></p><p><strong>relation to wall</strong>:<span>intramural</span></p></div>"
+        }
+      ],
+      "created": "2025-07-19T15:31:51.756Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Xy89Krr8Vgpw67Ec_uVO"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "8d8a09ae-baef-4a04-aa8f-e3a269aeba9c",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/道光_晉江縣志_36657_34_35_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><ellipse cx=\"855.089422034889\" cy=\"511.5032274115819\" rx=\"14.588396939424115\" ry=\"13.507764765534205\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "fe82034c-7593-414f-99be-4702e60598a2",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div><p><strong>type</strong>:<span>well</span></p><p><strong>relation to wall</strong>:<span>intramural</span></p></div>"
+        }
+      ],
+      "created": "2025-07-19T15:31:53.915Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Xy89Krr8Vgpw67Ec_uVO"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "f43ae264-16f4-4e61-a923-145dddf236de",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/道光_晉江縣志_36657_34_35_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><ellipse cx=\"489.04828268385927\" cy=\"530.6842458211956\" rx=\"14.337483468472527\" ry=\"12.156991724183001\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "664cf156-ee7f-4fb3-8962-bbf488b3f7b7",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div><p><strong>type</strong>:<span>well</span></p><p><strong>relation to wall</strong>:<span>intramural</span></p></div>"
+        }
+      ],
+      "created": "2025-07-19T15:31:59.354Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Xy89Krr8Vgpw67Ec_uVO"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "8502cd71-eada-485b-a1de-307617c49aa2",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/道光_晉江縣志_36657_34_35_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><ellipse cx=\"240.21601868764282\" cy=\"475.30241200010636\" rx=\"14.588386633817407\" ry=\"12.96745039619043\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "b2b213f7-0071-4cd3-b958-5cc9996bbc62",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div><p><strong>type</strong>:<span>lake</span></p><p><strong>relation to wall</strong>:<span>intramural</span></p></div>"
+        }
+      ],
+      "created": "2025-07-19T15:32:01.938Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Xy89Krr8Vgpw67Ec_uVO"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "f23caca4-5c59-451e-8572-614c1646dc7b",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/道光_晉江縣志_36657_34_35_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"266.97396236932315,844.2955046213044 351.1723719016923,847.9535881312576 322.3557887474742,804.2405275462474 313.7894888527389,800.6953083683396 304.66794015411045,803.5479899911019 302.0446335437328,798.8343845294838 279.58122322463066,807.4117077006698\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "2bbb9f5d-71ea-4c90-8410-f2ef46b7bac8",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div><p><strong>id</strong>:<span>??_shan</span></p><p><strong>name</strong>:<span>？？山</span></p><p><strong>type</strong>:<span>mountain</span></p><p><strong>relation to wall</strong>:<span>intramural</span></p></div>"
+        }
+      ],
+      "created": "2025-07-19T15:32:11.251Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Xy89Krr8Vgpw67Ec_uVO"
+      },
+      "modified": "2025-07-19T15:56:06.419Z",
+      "motivation": "commenting"
+    },
+    {
+      "id": "3a92ab90-0f0e-4d09-bc9e-5eccf3e4889b",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/道光_晉江縣志_36657_34_35_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"149.6803163548646,918.9204995213056 177.7764643190139,907.5739578811244 220.46102296339635,977.2740323157662 192.36486125843805,989.1608763020835\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "2d3021f6-009f-4700-be11-a3047d26ecea",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div><p><strong>id</strong>:<span>jinjiang_linzhang_qiao</span></p><p><strong>name</strong>:<span>晉江臨漳橋</span></p><p><strong>texture</strong>:<span>unadorned</span></p><p><strong>bridge_type</strong>:<span>text only</span></p><p><strong>relation to wall</strong>:<span>intramural</span></p><p><strong>bridge_cover</strong>:<span>no</span></p></div>"
+        }
+      ],
+      "created": "2025-07-19T15:32:16.602Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Xy89Krr8Vgpw67Ec_uVO"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "605894d2-2c7f-4a6d-a362-67dc0201401e",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/道光_晉江縣志_36657_34_35_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"202.6307569839205,857.8654000329291 242.07344658825107,854.0832423875502 266.9519604518017,961.0647145971252 227.44088415989293,969.7096895433906\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "09be5166-1039-4fa4-8de1-f337ac0720c3",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div><p><strong>id</strong>:<span>jinjiang_liuxianshengxiang_qiao</span></p><p><strong>name</strong>:<span>晉江留先生巷橋</span></p><p><strong>texture</strong>:<span>unadorned</span></p><p><strong>bridge_type</strong>:<span>text only</span></p><p><strong>relation to wall</strong>:<span>intramural</span></p><p><strong>bridge_cover</strong>:<span>no</span></p></div>"
+        }
+      ],
+      "created": "2025-07-19T15:32:19.571Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Xy89Krr8Vgpw67Ec_uVO"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "cd9cad57-9a04-4c9f-bb88-f140cd6a9eed",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/道光_晉江縣志_36657_34_35_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"290.325724530217,948.0972659185359 332.8165641032176,948.6375820054809 328.52308612443454,856.7847953406571 289.62074008866665,857.8654000329291\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "580313b3-c85b-44f4-bf1b-67800c6b1c19",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div><p><strong>id</strong>:<span>jinjiang_puzixiang_qiao</span></p><p><strong>name</strong>:<span>晉江舖仔巷橋</span></p><p><strong>texture</strong>:<span>unadorned</span></p><p><strong>bridge_type</strong>:<span>text only</span></p><p><strong>relation to wall</strong>:<span>intramural</span></p><p><strong>bridge_cover</strong>:<span>no</span></p></div>"
+        }
+      ],
+      "created": "2025-07-19T15:32:23.571Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Xy89Krr8Vgpw67Ec_uVO"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "3bd15b96-81de-40aa-b678-cd5cc8812e69",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/道光_晉江縣志_36657_34_35_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"357.1595639163378,861.1072553321719 352.24914539879165,947.556949831591 399.4322247936918,948.0972659185359 400.92587283148816,858.9460184660101\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "be3e426b-f5fc-4f1d-89fb-c9275a96a57a",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div><p><strong>id</strong>:<span>jinjiang_tongjin_qiao</span></p><p><strong>name</strong>:<span>晉江通津橋</span></p><p><strong>texture</strong>:<span>unadorned</span></p><p><strong>bridge_type</strong>:<span>text only</span></p><p><strong>relation to wall</strong>:<span>intramural</span></p><p><strong>bridge_cover</strong>:<span>no</span></p></div>"
+        }
+      ],
+      "created": "2025-07-19T15:32:26.691Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Xy89Krr8Vgpw67Ec_uVO"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "49db5f72-f3c3-460c-960e-532d9df9904b",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/道光_晉江縣志_36657_34_35_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"513.8402405103008,861.1072553321719 504.10546558713975,944.3150807915391 548.9698235869238,950.7988188716428 550.5907443661407,865.4297428053046\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "2b036a77-ce68-4d68-9bd4-6cb6bf2fa5e6",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div><p><strong>id</strong>:<span>jinjiang_diefang_qiao</span></p><p><strong>name</strong>:<span>晉江叠芳橋</span></p><p><strong>texture</strong>:<span>unadorned</span></p><p><strong>bridge_type</strong>:<span>text only</span></p><p><strong>relation to wall</strong>:<span>intramural</span></p><p><strong>bridge_cover</strong>:<span>no</span></p></div>"
+        }
+      ],
+      "created": "2025-07-19T15:32:30.667Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Xy89Krr8Vgpw67Ec_uVO"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "1cbdcc3f-4b70-47f8-ab7e-3eef4c59e28a",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/道光_晉江縣志_36657_34_35_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"564.6387977370022,876.2359546177321 557.1349890527629,959.984137386471 610.565252903054,969.1191037797468 596.4877978374333,876.8028609608646\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "2d132ca8-a361-4a66-918d-68d51028025b",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div><p><strong>id</strong>:<span>jinjiang_jingxiang_qiao</span></p><p><strong>name</strong>:<span>晉江井巷橋</span></p><p><strong>texture</strong>:<span>unadorned</span></p><p><strong>bridge_type</strong>:<span>text only</span></p><p><strong>relation to wall</strong>:<span>intramural</span></p><p><strong>bridge_cover</strong>:<span>no</span></p></div>"
+        }
+      ],
+      "created": "2025-07-19T15:32:33.506Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Xy89Krr8Vgpw67Ec_uVO"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "6586144d-fc98-42ef-af92-90dc6e86127b",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/道光_晉江縣志_36657_34_35_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"516.6605008154391,576.5884263304904 559.3450319782038,574.4271619827107 557.1837951120419,530.1216825591114 522.0636067216528,530.1216825591114\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "36a7ea55-8231-4a1b-b4bd-d20886da3d85",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div><p><strong>id</strong>:<span>jinjiang_unnamed_qiao2</span></p><p><strong>name</strong>:<span>晉江unnamed橋2</span></p><p><strong>texture</strong>:<span>unadorned</span></p><p><strong>bridge_type</strong>:<span>text only</span></p><p><strong>relation to wall</strong>:<span>intramural</span></p><p><strong>bridge_cover</strong>:<span>no</span></p></div>"
+        }
+      ],
+      "created": "2025-07-19T15:32:42.067Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Xy89Krr8Vgpw67Ec_uVO"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "1664cb77-9051-4ab4-8cfb-2862764b2870",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/道光_晉江縣志_36657_34_35_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"470.0229207424244,583.1145949887799 502.64637872107386,576.5899572202733 506.9370955068057,542.5137202446009 467.4922762865049,546.8706344570982\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "b3ade1ef-7b81-47af-874e-fb96b2013907",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div><p><strong>id</strong>:<span>jinjiang_unnamed_qiao1</span></p><p><strong>name</strong>:<span>晉江unnamed橋1</span></p><p><strong>texture</strong>:<span>unadorned</span></p><p><strong>bridge_type</strong>:<span>text only</span></p><p><strong>relation to wall</strong>:<span>intramural</span></p><p><strong>bridge_cover</strong>:<span>no</span></p></div>"
+        }
+      ],
+      "created": "2025-07-19T15:32:45.626Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Xy89Krr8Vgpw67Ec_uVO"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "22c021df-5cd5-4f35-a1f6-f68787778290",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/道光_晉江縣志_36657_34_35_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"487.06820509637345,1130.2853235208 546.0700952098739,1161.4071673714727 558.3892030583941,1100.5204598888233 531.1575360999007,1093.8364157753888\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "bd17642b-b49a-4cf7-9d1e-e8018a1ed562",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div><p><strong>name</strong>:<span>晉江城水関</span></p></div>"
+        }
+      ],
+      "created": "2025-07-19T15:32:57.796Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Xy89Krr8Vgpw67Ec_uVO"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "56652232-863a-4bde-a3b1-27c55e2ac993",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/道光_晉江縣志_36657_34_35_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"714.6457930026131,1070.6914868916087 759.3847336519731,1072.5599922757835 760.0330558303494,1010.3317223537504 713.9986861352897,1008.3911520450011\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "3fdbe919-aeed-48eb-b140-2f6389ecca16",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div><p><strong>id</strong>:<span>jinjiang_baxing_qiao</span></p><p><strong>name</strong>:<span>晉江八興橋</span></p><p><strong>texture</strong>:<span>unadorned</span></p><p><strong>bridge_type</strong>:<span>text only</span></p><p><strong>relation to wall</strong>:<span>intramural</span></p><p><strong>bridge_cover</strong>:<span>no</span></p></div>"
+        }
+      ],
+      "created": "2025-07-19T15:33:01.666Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Xy89Krr8Vgpw67Ec_uVO"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "91e2e28b-b118-4fe3-8847-7c498a385786",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/道光_晉江縣志_36657_34_35_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"866.3557767489174,1074.5344111827255 916.2908855212827,1077.1187152345394 907.8620534987659,1019.4135198349456 865.7178274302993,1019.4135342627949\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "df06d2eb-e4a3-47a9-a8d5-17f89710c149",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div><p><strong>id</strong>:<span>jinjiang_hua_qiao</span></p><p><strong>name</strong>:<span>晉江花橋</span></p><p><strong>texture</strong>:<span>unadorned</span></p><p><strong>bridge_type</strong>:<span>text only</span></p><p><strong>relation to wall</strong>:<span>intramural</span></p><p><strong>bridge_cover</strong>:<span>no</span></p></div>"
+        }
+      ],
+      "created": "2025-07-19T15:33:06.510Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Xy89Krr8Vgpw67Ec_uVO"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "4b434be5-bb2f-494e-9323-c2c3ef865b20",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/道光_晉江縣志_36657_34_35_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"1230.6004262928757,1389.0728965798494 1286.619765010852,1385.960755066106 1298.8689605136242,1364.2355650661118 1336.4809279445476,1336.9215232670617 1390.0425709801837,1298.8876239766241 1477.256691759862,1255.9953968418708 1541.8214556571195,1220.1273636882022 1579.1656578321804,1198.451300421866 1626.63396816272,1154.1025517407227 1649.228501557691,1142.431862770066 1646.0801935838056,1115.1497286142653 1611.9043051743392,1122.1418164171473 1583.0456764304156,1157.2249503153278 1549.5998478262366,1186.7829106836648 1507.585292990255,1195.3896933926849 1481.200281662764,1175.1102840315239 1465.5604801797247,1149.4343228507635 1438.3382568041484,1142.3709393336771 1418.819328627764,1151.4430598279005 1442.0796200628615,1178.053922131306 1463.292550169709,1201.6189522600846 1467.9070603937648,1218.7146374246038 1451.5495357314253,1236.5761870688316 1409.551109017446,1252.1364585248089 1361.3122693995263,1276.255926537519 1319.2977653610442,1304.2656750435663 1265.6123942710224,1339.2777617423014 1246.161292155712,1357.9508482659403\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "d98bda20-171a-4cf5-ac5f-f3b0d3d768be",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div><p><strong>id</strong>:<span>tianshui_huai</span></p><p><strong>name</strong>:<span>天水淮</span></p><p><strong>type</strong>:<span>river</span></p><p><strong>relation to wall</strong>:<span>extramural</span></p></div>"
+        }
+      ],
+      "created": "2025-07-19T15:34:30.475Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Xy89Krr8Vgpw67Ec_uVO"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "d0038eae-8da2-4ef9-b52f-e40a98eb3e3d",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/道光_晉江縣志_36657_34_35_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"1644.1428659436174,854.1736746690709 1645.2234981175072,1054.0885794581686 1629.014180398866,1067.0560556183757 1618.207968586439,1070.8382132637548 1603.1065933770503,1065.9754234444858 1591.7022116130947,1053.0234326400478 1586.8552665421523,1020.5758742527333 1591.7302926159718,961.6054835701744 1586.869903501251,926.5750426885684 1604.7000937194855,893.6025485097013 1621.4497551816373,859.0364644883396\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "9bf44520-ad14-41fb-9027-10de99c43625",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div><p><strong>id</strong>:<span>dong_hu</span></p><p><strong>name</strong>:<span>東湖</span></p><p><strong>type</strong>:<span>lake</span></p><p><strong>relation to wall</strong>:<span>extramural</span></p></div>"
+        }
+      ],
+      "created": "2025-07-19T15:34:40.499Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Xy89Krr8Vgpw67Ec_uVO"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "cf324fb0-018c-479f-b5b6-3d0f34fa237d",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/道光_晉江縣志_36657_34_35_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"51.74836064941902,1121.4493541445613 59.28948952863888,1135.7443405516653 80.64828416042285,1143.1229078181682 96.79835216851525,1139.4624694020551 101.31073127470425,1121.9736045381806 98.57586378054114,1066.938001765434 112.08304882505674,1041.7452791737692 93.17215885624834,1003.0312807432433 76.96285945868577,1023.2929164408706 61.17920687692872,1051.1597426618912 45.44418945643542,1087.2476972065651\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "2a31902c-1e77-4a9a-a1f6-7b2111d45702",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div><p><strong>id</strong>:<span>sun_jiang</span></p><p><strong>name</strong>:<span>筍江</span></p><p><strong>type</strong>:<span>lake</span></p><p><strong>relation to wall</strong>:<span>extramural</span></p></div>"
+        }
+      ],
+      "created": "2025-07-19T15:34:54.746Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Xy89Krr8Vgpw67Ec_uVO"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "d49ff4ff-5609-45a3-bfc0-95612ddd9ad3",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/道光_晉江縣志_36657_34_35_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"843.9688205050654,964.8777340837306 842.4495044004566,1000.5155819332105 932.9655690781084,999.6163259895308 927.5624540113553,959.5432950987156\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "84b90417-5396-4b08-ba1c-fc468ab73468",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div><p><strong>id</strong>:<span>jinjiang_zhennan_qiao</span></p><p><strong>name</strong>:<span>晉江鎮南橋</span></p><p><strong>texture</strong>:<span>unadorned</span></p><p><strong>bridge_type</strong>:<span>text only</span></p><p><strong>relation to wall</strong>:<span>intramural</span></p><p><strong>bridge_cover</strong>:<span>no</span></p></div>"
+        }
+      ],
+      "created": "2025-07-19T15:35:09.444Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Xy89Krr8Vgpw67Ec_uVO"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "8dac6fc4-7741-413a-8b99-49a5bdfccb95",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/道光_晉江縣志_36657_34_35_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"302.4363522896002,407.3413246450027 255.4423914815731,395.4541214502764 255.4272569832095,444.6224181747623 286.2400511764028,452.727049552465\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "5561adb2-8ef9-4560-a7cd-d9c8d3312290",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div><p><strong>name</strong>:<span>晉江城水関</span></p></div>"
+        }
+      ],
+      "created": "2025-07-19T15:35:35.162Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Xy89Krr8Vgpw67Ec_uVO"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "61770223-b509-4b79-9e7b-acb4a2612770",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/道光_晉江縣志_36657_34_35_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"1013.1712142901647,202.3617091777383 966.4281250550308,204.30681411279875 974.9171980918185,251.63802514902474 1000.8521064416443,245.80267736590224\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "dccb099c-cf08-41ae-afd6-fc0bb451dc0b",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div><p><strong>name</strong>:<span>晉江城水関</span></p></div>"
+        }
+      ],
+      "created": "2025-07-19T15:36:21.907Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Xy89Krr8Vgpw67Ec_uVO"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "7d3b9507-c7b8-4b02-b17f-c0f8d52c749f",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/道光_晉江縣志_36657_34_35_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"1410.9214097045808,412.510602952363 1388.062860029825,353.9208033103194 1356.3040339430634,376.63893384371846 1360.842623117518,408.40918997666665\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "d35728ce-c290-486b-93d0-dd74169f2dc9",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div><p><strong>name</strong>:<span>晉江城水関</span></p></div>"
+        }
+      ],
+      "created": "2025-07-19T15:37:30.627Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Xy89Krr8Vgpw67Ec_uVO"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "9bb714c9-10c1-43d5-9cd1-046e61c40a00",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/道光_晉江縣志_36657_34_35_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><g><path fill-rule=\"evenodd\" d=\"M 60.530972143236724,860.0342547485087 L 74.53310952422854,814.1392768033411 L 103.68561588642831,755.7457477240162 L 123.08998307368456,649.9638520369017 L 109.98988258592338,601.4950032197106 L 105.32159908295479,566.8658169649024 L 110.92354878416424,554.728298852478 L 147.3522191215462,626.590623681616 L 143.6015333049446,698.6787850545626 L 138.933249801976,742.3931627047574 L 121.19378198834237,795.611613633894 L 98.78600692762237,841.3608299535749 L 67.96103965267825,928.2350084821409 Z\" /><path fill-rule=\"evenodd\" d=\"M 66.97253470444255,937.5480068603218 L 117.54559032466733,994.5946567625964 L 146.0738257514839,1019.7521300832846 L 142.82789157442883,1033.6689014595904 L 161.03314141947953,1060.7387555034525 L 201.8203602705297,1091.8606614209818 L 251.10970523860277,1101.5860685979346 L 326.32161820269954,1110.6759231606459 L 395.0490329915019,1108.718362395642 L 459.23808945143884,1118.4439365378564 L 494.8110917001876,1129.059592904052 L 511.10784019520764,1111.8061378556374 L 546.1199928498255,1124.9276636253128 L 544.8052419090576,1163.8300261500513 L 573.4119803521717,1183.2812074124206 L 720.0231960406571,1238.3833140649047 L 787.2410080858065,1252.0087361058631 L 835.9993819502481,1254.6020574276856 L 933.9006050833036,1298.79783964647 L 992.8486506682193,1324.0131081595412 L 1036.2895693894716,1328.516704064827 L 1075.1799491818854,1317.5007347721019 L 1117.4438117392933,1292.8812845790526 L 1162.7177822626954,1251.3822705557814 L 1204.217296423985,1207.8625596162706 L 1271.6919946770572,1167.7506356811612 L 1327.3861258013992,1143.6242116671162 L 1387.6924333405818,1130.7631661486766 L 1445.4100440458058,1125.5814974096297 L 1485.6688852796292,1109.9579430496983 L 1518.0273673044926,1073.7849404321325 L 1536.1524087380758,1040.8333687011318 L 1538.4952752165273,1028.2643778409472 L 1537.200815433206,1028.2528171994727 L 1532.0131435425446,960.8227675081015 L 1527.4745378791195,935.5362714405509 L 1511.2652201604783,901.8209103725424 L 1511.2652201604783,870.5605091253996 L 1522.136179262392,846.7091971512215 L 1560.5339848290134,824.0262915545001 L 1589.0962965841488,799.3784176924703 L 1605.9276752108722,763.0691408075925 L 1611.7630559719357,730.6505053703104 L 1611.1146601786313,672.9453079095952 L 1592.9602210359592,624.9657670359471 L 1560.5493736020017,579.5998937152602 L 1520.9631973974726,545.8552708963675 L 1478.1886481553645,516.6873509052878 L 1448.9746111989366,490.10418175606276 L 1428.9219554034587,454.5500146468767 L 1414.657742619878,409.057602258942 L 1390.0195928787198,339.68177518786433 L 1340.0948811141288,274.18936197183257 L 1284.9681144829858,237.9323235184259 L 1222.795939602695,207.5593706813833 L 1155.276842165631,187.28456016830472 L 1098.7933740153103,180.82876756741828 L 989.9349938009518,202.8750610910628 L 923.7140612389177,207.54867765652696 L 923.0486052385755,187.44908411188246 L 960.6529193523553,187.44908411188246 L 998.9182091741822,184.85563285042943 L 1035.8341874413488,177.04861666144123 L 1084.4462697010692,163.9524144978098 L 1130.556515230554,166.0605849535251 L 1181.102998970557,172.5397104987262 L 1221.8577526195404,184.74939796453947 L 1267.3672059655503,200.45000913017205 L 1345.786373578938,254.8803048966971 L 1393.120016370731,298.97157661865185 L 1424.2394390834309,356.6743182231713 L 1451.4547324693665,449.3764850047994 L 1469.8231884325496,475.32649424347676 L 1516.3280350180494,511.00205365839497 L 1580.3433640328565,562.2221904694926 L 1610.9707742554845,600.4624220846946 L 1636.3241558676675,656.9376970144627 L 1642.0926510840986,737.917416552006 L 1633.0154397572478,775.5230699349886 L 1619.399606278001,801.4579782848144 L 1633.0574995730008,820.3028318141173 L 1644.6868190505243,827.39353738373 L 1644.037756019159,863.701731942043 L 1619.399606278001,862.250913492625 L 1614.1884358179632,839.0820165033617 L 1598.6459530410498,837.7614734622616 L 1575.9230934002042,846.1953806063028 L 1555.8416324302686,857.8663602344425 L 1541.5833551604217,882.5045502605172 L 1542.189385768193,904.4952999037216 L 1553.9185588701473,936.3289847845389 L 1564.9363867658433,982.3632981148182 L 1562.4313023494421,1028.4781471921253 L 1558.7989539466967,1028.4457071904076 L 1550.4872637357814,1069.167620566569 L 1532.2945596681232,1108.0699830913077 L 1501.1726828395088,1139.8402227352851 L 1481.0265179883727,1150.2275358916138 L 1428.5549633690039,1152.8076769101983 L 1393.554995585123,1153.4519397218933 L 1336.852813317077,1167.7962117045195 L 1288.4894013705891,1187.7993726756558 L 1240.5268533174815,1213.7431432517483 L 1204.864503081091,1240.3205108664067 L 1186.644950091054,1265.0021355447313 L 1134.6828813960328,1311.0106277375176 L 1087.5267454515847,1338.2422782070405 L 1039.988545257724,1348.6162151646176 L 996.0905775599086,1351.8580787083458 L 952.5432040560116,1337.5938989027065 L 897.5692825058916,1309.722067170875 L 852.831328567592,1288.2102882740962 L 824.3297964998139,1277.2952661500653 L 769.7965319687056,1272.1082702044075 L 711.367781203806,1262.3823840974433 L 632.2008300972311,1236.431931829565 L 546.1197949821776,1192.3584352282417 L 493.6480752699947,1159.9397997909593 L 455.9959950621215,1141.7853606482875 L 402.16233822288496,1137.2467384958916 L 343.1189586356943,1134.0048914411339 L 274.4689424796068,1132.0597865556151 L 225.20159458168723,1124.279302752155 L 158.4455094866387,1088.6187879054091 L 120.00180017686603,1055.5529387687902 L 88.36882090187223,1013.4521081606252 L 76.04977900923454,981.533979347572 Z\" /><path fill-rule=\"evenodd\" d=\"M 108.47789983991372,463.5332613648925 L 110.09882061913076,438.67899618160374 L 120.36468886299538,410.5828344766454 L 131.7112442439855,390.59128869098 L 143.98363017752274,383.77333776616933 L 141.9771124878502,383.56730494557706 L 170.07321922957294,367.89827583226315 L 207.96842493244708,364.65643427382906 L 247.33778758548814,374.3820139123667 L 300.2882144737352,379.24480373163544 L 320.8200059247001,378.70448764469046 L 412.1325177250057,354.3905110667289 L 554.8834908694621,332.5030652874474 L 579.5216406106199,322.1290953519288 L 608.0500661777812,297.4868652551106 L 646.3115625037863,261.8303343389416 L 691.0584259171954,228.76339772829306 L 724.2686722991464,214.5747916216663 L 764.9562089295208,202.18007827810234 L 833.0597206424136,195.6963511906459 L 831.7386575875666,215.14753245301523 L 786.3524684319785,216.48275272042505 L 737.7245091384207,228.130907305425 L 687.1513849462195,259.2368964344837 L 631.3649415391432,307.21647028607293 L 597.0276839599875,340.2834850276889 L 546.4546258690038,361.03540652307623 L 404.4577131472604,380.4867176509828 L 299.63966685701763,405.45034120146533 L 251.4450433897365,392.80168103167426 L 206.651599432724,390.2081967922799 L 147.1031278725017,384.0936533618083 L 155.48487725338438,400.85722735649017 L 147.9435861348998,411.11159816800034 L 133.7815092198367,440.8851813633367 Z\" /><path fill-rule=\"evenodd\" d=\"M 840.7041001461766,196.5346786144694 L 868.523720794955,193.9328111993389 L 845.2405990152322,215.32916335265116 Z\" /></g></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "a54ca619-16b7-43dd-8648-46a15f507d80",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div><p><strong>name</strong>:<span>晉江城池</span></p></div>"
+        }
+      ],
+      "created": "2025-07-19T15:38:38.498Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Xy89Krr8Vgpw67Ec_uVO"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "84caa3a9-86f5-466b-ad3a-cda5f115d387",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/道光_晉江縣志_36657_34_35_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"673.6493126615994,917.1466550532044 672.4145458589305,883.2514363115364 593.2307615964896,884.8935528558872 594.7316109890959,910.783412421813\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "0af9616c-3c6d-4114-a67f-ccb9fb6067d1",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div><p><strong>id</strong>:<span>jinjiang_??_qiao</span></p><p><strong>name</strong>:<span>晉江？？橋</span></p><p><strong>texture</strong>:<span>unadorned</span></p><p><strong>bridge_type</strong>:<span>text only</span></p><p><strong>relation to wall</strong>:<span>intramural</span></p><p><strong>bridge_cover</strong>:<span>no</span></p></div>"
+        }
+      ],
+      "created": "2025-07-19T15:39:23.603Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Xy89Krr8Vgpw67Ec_uVO"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "8970ba8c-be7b-4d1e-9bbb-b2fd96d52537",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/道光_晉江縣志_36657_34_35_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"1032.8783096799025,998.6733468766396 1072.6511955019903,999.7989863066514 1070.0246398837733,874.8521698592425 1032.1278706702567,877.8538972711402\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "0b04ff42-98bb-41d8-82ec-d41caf054028",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div><p><strong>id</strong>:<span>jinjiang_fuxue??_qiao</span></p><p><strong>name</strong>:<span>晉江府學？？橋</span></p><p><strong>texture</strong>:<span>unadorned</span></p><p><strong>bridge_type</strong>:<span>basic bridge</span></p><p><strong>relation to wall</strong>:<span>intramural</span></p><p><strong>bridge_cover</strong>:<span>no</span></p></div>"
+        }
+      ],
+      "created": "2025-07-19T15:39:44.779Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Xy89Krr8Vgpw67Ec_uVO"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "ccd504bf-2481-4bb9-ba8d-627e5ab0b80e",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/道光_晉江縣志_36657_34_35_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"1072.9658549563576,996.2965424848296 1116.115659068481,998.1726209244871 1109.3786792193346,929.5081481245758 1075.2171719852947,932.1346560316506\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "0515cb8d-40f9-4a44-acbd-0ab5c5e411e2",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div><p><strong>id</strong>:<span>jinjiang_zhusi_qiao</span></p><p><strong>name</strong>:<span>晉江洙泗橋</span></p><p><strong>texture</strong>:<span>unadorned</span></p><p><strong>bridge_type</strong>:<span>text only</span></p><p><strong>relation to wall</strong>:<span>intramural</span></p><p><strong>bridge_cover</strong>:<span>no</span></p></div>"
+        }
+      ],
+      "created": "2025-07-19T15:39:52.603Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Xy89Krr8Vgpw67Ec_uVO"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "06ebcf15-e38d-475d-982d-533e1831714c",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/道光_晉江縣志_36657_34_35_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"1155.1381058809227,999.2982603544989 1193.7853522729988,1001.1743387941565 1192.2844742537072,927.2568692645522 1161.5167802095411,931.7594460690563\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "ed08c61d-dd5b-4cae-bb02-e5ef9af8d405",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div><p><strong>id</strong>:<span>jinjiang_zushixiang_qiao</span></p><p><strong>name</strong>:<span>晉江祖師巷橋</span></p><p><strong>texture</strong>:<span>unadorned</span></p><p><strong>bridge_type</strong>:<span>text only</span></p><p><strong>relation to wall</strong>:<span>intramural</span></p><p><strong>bridge_cover</strong>:<span>no</span></p></div>"
+        }
+      ],
+      "created": "2025-07-19T15:39:56.250Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Xy89Krr8Vgpw67Ec_uVO"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "354bfa5c-b5a2-495c-82a3-512e1aab5f5e",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/道光_晉江縣志_36657_34_35_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"1214.003753384038,999.6709346893837 1249.3456230170113,1002.299762162631 1245.9403099941303,924.255132310426 1217.4461729318637,927.234573191274\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "93eeaa63-84d6-48c9-bdf2-52cdeb255311",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div><p><strong>id</strong>:<span>jinjiang_libaisi_qiao</span></p><p><strong>name</strong>:<span>晉江禮拜寺橋</span></p><p><strong>texture</strong>:<span>unadorned</span></p><p><strong>bridge_type</strong>:<span>text only</span></p><p><strong>relation to wall</strong>:<span>intramural</span></p><p><strong>bridge_cover</strong>:<span>no</span></p></div>"
+        }
+      ],
+      "created": "2025-07-19T15:39:59.282Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Xy89Krr8Vgpw67Ec_uVO"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "d3a08d24-7dd6-4405-9957-949b4612ac10",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/道光_晉江縣志_36657_34_35_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"1285.3378808891111,1003.4256367386369 1325.4860053004788,1005.6769346831171 1322.4233375130366,939.2027843850534 1285.3371337119072,935.1355599704005\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "a6ce0492-c3b8-4978-a7f7-f83d946e6579",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div><p><strong>id</strong>:<span>jinjiang_yinju_qiao</span></p><p><strong>name</strong>:<span>晉江隱居橋</span></p><p><strong>texture</strong>:<span>unadorned</span></p><p><strong>bridge_type</strong>:<span>text only</span></p><p><strong>relation to wall</strong>:<span>intramural</span></p><p><strong>bridge_cover</strong>:<span>no</span></p></div>"
+        }
+      ],
+      "created": "2025-07-19T15:40:02.523Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Xy89Krr8Vgpw67Ec_uVO"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "85101fab-2d52-438d-a65d-6a24c876a6a2",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/道光_晉江縣志_36657_34_35_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"1351.0007026149524,1000.1102351619376 1387.7718323984575,1002.6747820684972 1385.1453531180675,934.7779179556916 1361.506734243252,935.1364283343329\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "6478859f-8677-4292-83d9-b907dd635c11",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div><p><strong>id</strong>:<span>jinjiang_sherengong_qiao</span></p><p><strong>name</strong>:<span>晉江舎人宮橋</span></p><p><strong>texture</strong>:<span>unadorned</span></p><p><strong>bridge_type</strong>:<span>text only</span></p><p><strong>relation to wall</strong>:<span>intramural</span></p><p><strong>bridge_cover</strong>:<span>no</span></p></div>"
+        }
+      ],
+      "created": "2025-07-19T15:40:07.395Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Xy89Krr8Vgpw67Ec_uVO"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "9036a2d3-5331-4a87-9fa8-e6002586c0d0",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/道光_晉江縣志_36657_34_35_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"1416.2882094136864,999.298269896727 1450.057621327522,1001.5495678412074 1440.1303471370763,927.4603750216545 1416.0296362986498,928.6043350562857\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "150d3268-9295-4c2a-83b0-f78b33ba0b79",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div><p><strong>id</strong>:<span>jinjiang_bingmasi_qiao</span></p><p><strong>name</strong>:<span>晉江兵馬司橋</span></p><p><strong>texture</strong>:<span>unadorned</span></p><p><strong>bridge_type</strong>:<span>text only</span></p><p><strong>relation to wall</strong>:<span>intramural</span></p><p><strong>bridge_cover</strong>:<span>no</span></p></div>"
+        }
+      ],
+      "created": "2025-07-19T15:40:11.027Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Xy89Krr8Vgpw67Ec_uVO"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "7e9ecd12-5830-420d-92b4-db966e9202e0",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/道光_晉江縣志_36657_34_35_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"1540.517688146437,968.5305853947889 1535.1545695807429,1010.5547309924436 1495.8388742345726,1004.1760757482821 1491.5607186025723,969.5828087932115\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "ae560f76-3ec5-4281-92ea-938e5693787f",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div><p><strong>name</strong>:<span>晉江城水関</span></p></div>"
+        }
+      ],
+      "created": "2025-07-19T15:40:14.226Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Xy89Krr8Vgpw67Ec_uVO"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "b16b8dff-5efc-4391-ba73-c08598da84d8",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/道光_晉江縣志_36657_34_35_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"854.8912585724364,302.7111554650154 905.8580657253611,304.2745501888015 896.7762932682746,267.06566232837235 868.0236675711927,270.50513867255876\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "75b86fd8-8934-40cc-95bf-432e9eba7b95",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div><p><strong>id</strong>:<span>quan_shan</span></p><p><strong>name</strong>:<span>泉山</span></p><p><strong>type</strong>:<span>mountain</span></p><p><strong>relation to wall</strong>:<span>intramural</span></p></div>"
+        }
+      ],
+      "created": "2025-07-19T15:40:33.059Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Xy89Krr8Vgpw67Ec_uVO"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "af437b88-3c52-4f42-a677-bda0a0efaa14",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/道光_晉江縣志_36657_34_35_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"867.0857652494675,300.8350698686866 869.2745138868395,333.66643858676485 900.2590277042217,332.75761331128194 899.6044709265028,300.2097159551007\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "c1a83eff-6752-4e7f-943c-3e018b025aff",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div><p><strong>id</strong>:<span>jinjiang_unnamed_qiao4</span></p><p><strong>name</strong>:<span>晉江unnamed橋4</span></p><p><strong>texture</strong>:<span>unadorned</span></p><p><strong>bridge_type</strong>:<span>text only</span></p><p><strong>relation to wall</strong>:<span>intramural</span></p><p><strong>bridge_cover</strong>:<span>no</span></p></div>"
+        }
+      ],
+      "created": "2025-07-19T15:40:36.682Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Xy89Krr8Vgpw67Ec_uVO"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "a3810b75-50c8-457d-8b2f-2add83793f71",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/道光_晉江縣志_36657_34_35_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"668.9356652774385,400.2269528708514 712.0958124307749,458.42623864363316 753.7944469262399,430.28507159099854 720.3835834305953,375.5035630227647\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "90c6ba02-55d8-4357-ab0a-3064f0fa0629",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div><p><strong>id</strong>:<span>jinjiang_??_qiao</span></p><p><strong>name</strong>:<span>晉江？？橋</span></p><p><strong>texture</strong>:<span>unadorned</span></p><p><strong>bridge_type</strong>:<span>text only</span></p><p><strong>relation to wall</strong>:<span>intramural</span></p><p><strong>bridge_cover</strong>:<span>no</span></p></div>"
+        }
+      ],
+      "created": "2025-07-19T15:40:43.170Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Xy89Krr8Vgpw67Ec_uVO"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "a8d31bac-1b1a-4dfa-8e48-fa4dfcb48c6c",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/道光_晉江縣志_36657_34_35_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"805.9327717296527,360.49494504773287 791.674602306495,380.38137364543417 786.0463669875223,427.2833346368725 814.1875435823853,427.2833346368725 828.4457130055431,425.032036692392 816.4387842734953,369.1248982363748\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "2ec90aab-4db7-4d82-b1e3-acc17c97e8bc",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div><p><strong>id</strong>:<span>?_shan</span></p><p><strong>name</strong>:<span>？山</span></p><p><strong>type</strong>:<span>mountain</span></p><p><strong>relation to wall</strong>:<span>intramural</span></p></div>"
+        }
+      ],
+      "created": "2025-07-19T15:40:48.058Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Xy89Krr8Vgpw67Ec_uVO"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "f58cc1e1-8823-414d-922e-69ceb8dff7f6",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/道光_晉江縣志_36657_34_35_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"865.7835517692922,634.5176854935912 863.6224353825584,671.2605771103844 902.5247539367085,674.5024186688183 898.7426237729472,633.4388357668886\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "5017deca-387e-4a0e-9e4f-176f48f8ac22",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div><p><strong>id</strong>:<span>jinjiang_unnamed_qiao7</span></p><p><strong>name</strong>:<span>晉江unnamed橋7</span></p><p><strong>texture</strong>:<span>unadorned</span></p><p><strong>bridge_type</strong>:<span>text only</span></p><p><strong>relation to wall</strong>:<span>intramural</span></p><p><strong>bridge_cover</strong>:<span>no</span></p></div>"
+        }
+      ],
+      "created": "2025-07-19T15:42:23.522Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Xy89Krr8Vgpw67Ec_uVO"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "f6410d7e-6dc6-43b7-b25d-03756879b312",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/道光_晉江縣志_36657_34_35_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"584.7293820302897,532.7465265935472 585.9992681930877,572.1594241802991 621.9233398717641,568.356853743913 619.6486605135433,535.7126393501926\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "88df5b39-1810-4d8c-b803-3531f4c9530e",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div><p><strong>id</strong>:<span>jinjiang_unnamed_qiao3</span></p><p><strong>name</strong>:<span>晉江unnamed橋3</span></p><p><strong>texture</strong>:<span>unadorned</span></p><p><strong>bridge_type</strong>:<span>text only</span></p><p><strong>relation to wall</strong>:<span>intramural</span></p><p><strong>bridge_cover</strong>:<span>no</span></p></div>"
+        }
+      ],
+      "created": "2025-07-19T15:42:47.978Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Xy89Krr8Vgpw67Ec_uVO"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "75363907-835a-4c48-9714-93fb12e1d640",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/道光_晉江縣志_36657_34_35_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"1224.2039047346582,553.6667397554083 1259.3615419404716,551.4410105579592 1257.5605341200182,514.5197777049598 1224.2064931402097,516.7361899246476\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "7228e59c-0512-4c92-818c-015a5ff5f5d8",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div><p><strong>id</strong>:<span>jinjiang_unnamed_qiao5</span></p><p><strong>name</strong>:<span>晉江unnamed橋5</span></p><p><strong>texture</strong>:<span>unadorned</span></p><p><strong>bridge_type</strong>:<span>text only</span></p><p><strong>relation to wall</strong>:<span>intramural</span></p><p><strong>bridge_cover</strong>:<span>no</span></p></div>"
+        }
+      ],
+      "created": "2025-07-19T15:43:43.203Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Xy89Krr8Vgpw67Ec_uVO"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "9915a641-7525-40cc-a03f-dcea9d2eadf7",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/道光_晉江縣志_36657_34_35_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"1161.6554134452645,636.9901645049945 1239.1045686844286,638.3409318210087 1223.791356614377,603.1940202045732 1212.7115278343256,598.6687731542944 1205.5591555927338,600.0622064153594 1197.7030017249194,597.3669765937993 1188.60211361516,601.419668568532 1173.8086039306916,605.8979428421518 1167.466038473497,619.4700367459781\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "ff22aa14-373b-4f46-9412-1d7f19115d20",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div><p><strong>id</strong>:<span>??_shan</span></p><p><strong>name</strong>:<span>？？山</span></p><p><strong>type</strong>:<span>mountain</span></p><p><strong>relation to wall</strong>:<span>intramural</span></p></div>"
+        }
+      ],
+      "created": "2025-07-19T15:43:48.819Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Xy89Krr8Vgpw67Ec_uVO"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "1665b728-229b-40cd-a487-f90f682d5a3d",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/道光_晉江縣志_36657_34_35_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"1056.4926776080188,263.21629843170325 1051.089571701805,311.30393550068146 1095.395078607022,313.4651998484611 1082.9678910521422,260.5147454785963\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "4d43ae69-6464-4152-b178-da273aafeb6f",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div><p><strong>id</strong>:<span>jinjiang_??_qiao</span></p><p><strong>name</strong>:<span>晉江？？橋</span></p><p><strong>texture</strong>:<span>unadorned</span></p><p><strong>bridge_type</strong>:<span>text only</span></p><p><strong>relation to wall</strong>:<span>intramural</span></p><p><strong>bridge_cover</strong>:<span>no</span></p></div>"
+        }
+      ],
+      "created": "2025-07-19T15:43:57.731Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Xy89Krr8Vgpw67Ec_uVO"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "539895a4-3201-48b2-bb60-13489ebc79b1",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/道光_晉江縣志_36657_34_35_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"1165.0958040615749,277.2651007074357 1127.4068899572708,282.66748519039606 1087.6215295856348,290.7721440497166 1031.6383574614943,292.39307856974244 999.207151371094,286.98997266352876 971.10494477479,264.2969443464019 964.0990885489883,269.70005025261565 992.4654620634294,298.29156370325416 1025.3139407035972,305.9474915857649 1087.7886525252115,301.67188689861956 1135.5965585437389,296.12918700154825 1168.8772694646161,288.6108934427457\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "5131495b-1273-4a0b-9650-152941ca3fb3",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div><p><strong>type</strong>:<span>river</span></p><p><strong>relation to wall</strong>:<span>intramural</span></p></div>"
+        }
+      ],
+      "created": "2025-07-19T15:44:07.332Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Xy89Krr8Vgpw67Ec_uVO"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "47627901-ed06-4adf-bc8c-504a08f9ae2b",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/道光_晉江縣志_36657_34_35_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"1317.9316275012911,516.4884925043058 1284.4248641123463,518.4343523522089 1282.5487856726886,551.0781057515758 1314.0668900998153,554.0798427057018\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "b3f818b0-93e7-4624-bc17-a7f49eb2afbe",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div><p><strong>id</strong>:<span>jinjiang_unnamed_qiao6</span></p><p><strong>name</strong>:<span>晉江unnamed橋6</span></p><p><strong>texture</strong>:<span>unadorned</span></p><p><strong>bridge_type</strong>:<span>text only</span></p><p><strong>relation to wall</strong>:<span>intramural</span></p><p><strong>bridge_cover</strong>:<span>no</span></p></div>"
+        }
+      ],
+      "created": "2025-07-19T15:44:17.043Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Xy89Krr8Vgpw67Ec_uVO"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "e5f0b5eb-71c0-4b05-b495-a6bf63ae832a",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/道光_晉江縣志_36657_34_35_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><g><path fill-rule=\"evenodd\" d=\"M 169.59649839383735,972.1758680329339 L 189.92161486796547,957.4958706964402 L 219.6466285487154,943.6893338415474 L 259.6502002930393,933.3711092947696 L 308.7399160462758,923.710547260669 L 363.13143502728747,918.0695079874001 L 440.0760558636609,916.8313797748741 L 479.6742704995676,917.7445269346005 L 482.1969734688128,914.4917360003714 L 489.36368332500234,801.4767662151322 L 488.0503519413532,724.4825024713175 L 479.49541593543637,576.7976197246844 L 494.8042343241203,573.645807373526 L 504.2596513389158,785.2674439162215 L 515.0658585710735,777.6258500949484 L 528.1233599308204,756.9024372320877 L 539.3798305687654,721.3306815321534 L 538.4793031993971,679.0203433061023 L 534.8764848480569,618.6726608919428 L 530.029511242183,573.1955267917276 L 545.6834495457451,571.3944917759231 L 551.5368280182855,659.1949555952242 L 552.8875953342996,735.2886925274641 L 534.880703380667,774.9079989454121 L 517.3026992641995,796.5198352792178 L 506.2888917391237,803.6196490306905 L 503.03780963347504,854.4129618430179 L 501.42731318664386,899.7721634099514 L 501.4853729080979,921.9207245329378 L 564.205210307354,932.1529066006135 L 644.235865074693,948.5893874322786 L 644.6084608652103,939.2422359163297 L 637.6010183235752,881.9692803325232 L 627.8587995780066,812.809563207253 L 622.9960097587378,757.6978719712263 L 648.3905635473537,754.4489871689474 L 647.8503299052621,778.6956408840657 L 651.6324600690233,839.2770990134416 L 662.4386718814507,901.4205220544518 L 666.7612005770101,934.9197621840058 L 678.1937759437202,955.4357256025012 L 688.3331648673818,957.4799528130187 L 755.5861707757167,965.6096292322776 L 852.1353573198697,969.4736824579994 L 850.8619921291272,780.3784739770699 L 861.884324880009,778.4333690420094 L 867.0582845912413,970.5164979088239 L 911.1729413756539,973.2360125147094 L 911.5981563157868,960.8266401539072 L 908.8966216837586,907.6961308046933 L 907.5458543677441,774.4194966951417 L 920.6033328261428,771.7179277110911 L 922.5637780895682,952.844169950452 L 924.6856017905402,972.1053292614619 L 938.7895761275494,970.9251673172216 L 1034.469563827112,970.6088835641903 L 1138.9423859206463,966.257655520927 L 1267.5886138647477,974.9026579488102 L 1355.1139782104492,978.6848155941891 L 1418.0352457620475,977.7112783645384 L 1412.3526490756474,937.9331114559378 L 1400.6578228097903,887.3118896755077 L 1382.5274648998184,853.6446593190043 L 1363.8309251677636,838.8199423235786 L 1303.2428218435177,845.1715203857444 L 1257.3420235187969,842.6196378322813 L 1235.0079237684633,840.0274777893665 L 1237.2316910340987,816.0391048698456 L 1252.6071161309853,816.0391048698456 L 1256.7481573604166,828.3581797404245 L 1314.4483964374085,826.4130583163934 L 1350.1088954184188,819.929331228937 L 1369.5600766807881,822.4961697547485 L 1398.0554585924858,847.159940448423 L 1418.6245430078593,889.9805579640913 L 1431.1616592217083,931.4683076565907 L 1451.691326659563,981.2343962001288 L 1476.6868047741405,984.6282375873478 L 1468.58214591482,1012.1840832053612 L 1401.628586489665,1004.7083138188594 L 1330.7680235630135,1003.5239023073744 L 1205.9912208581293,998.1360298344998 L 1017.9931030846465,998.6034854509815 L 1019.6678385983262,1035.7038561581185 L 1018.0439286492998,1072.985308896287 L 923.0547734097083,1074.0177896067541 L 936.2316823162289,1083.3719817225601 L 952.8602391210155,1086.0280615364663 L 967.4249477463703,1090.138608533415 L 978.3672333714547,1099.9440877804182 L 985.4498379640775,1099.1606010718406 L 1009.8600114074387,1099.5358205766636 L 1048.8825599182442,1107.447435998733 L 1041.3797415519136,1120.1726643284396 L 1010.610412248171,1110.417071709786 L 982.0947443383648,1110.7922704696086 L 964.5011766086524,1121.298214232215 L 944.1977030918003,1136.306051494923 L 917.1818952822214,1161.9038744781365 L 903.6865329445511,1180.5695633021915 L 898.4154724440787,1198.2173013823121 L 884.1496089052367,1201.9650715918353 L 889.3836767990196,1180.614402987762 L 905.5500005428923,1155.8181069707907 L 920.1340458813451,1140.488063161436 L 941.6322366567731,1120.9234877763472 L 956.2041374981025,1108.9586399873983 L 955.8289179932796,1101.7870612677734 L 944.266789733737,1096.5352306662132 L 925.6756081874254,1095.4188641869873 L 908.9269760862979,1084.1788511563177 L 903.4451860631983,1073.9796861757195 L 823.5321709888426,1073.5255975016144 L 689.5016825212543,1069.6958386395756 L 643.0005286076752,1073.0055448143487 L 593.9002172087913,1098.9202337350835 L 563.6808937668998,1080.5483461028164 L 584.1746217361188,1067.5821755084555 L 637.6381276088963,1048.6713048367076 L 706.2472988599964,1042.7703196738548 L 801.9951162112721,1046.4959639886793 L 898.6043853398616,1051.37262844234 L 964.6091987827774,1048.671273844991 L 991.5700681966791,1051.384184431574 L 990.1221186560737,997.8433728487171 L 961.2305068176782,997.0554251422277 L 907.7367614841379,998.6763459214446 L 799.1372884088411,992.7329514099038 L 745.1062293467041,990.5992234416769 L 692.1047718579832,985.6605419968425 L 657.0326390400212,977.0611808771828 L 611.1092138652517,970.0400055376301 L 549.5137708083126,955.4515811165885 L 523.5789009327517,954.9113199928789 L 490.6199219269069,942.4640510032732 L 448.4757068510873,941.943843832672 L 332.39994709575683,944.105053217216 L 271.76349794976414,954.3709489426986 L 233.4038806266804,965.7174493604531 L 187.50520290623356,988.4105051591977 Z\" /><path fill-rule=\"evenodd\" d=\"M 591.2964260746247,568.6016061147509 L 613.9989040412211,566.4403692485889 L 612.9225574806462,615.603466369912 L 622.5553271325025,693.4098941336977 L 636.1516712346385,725.8319797410838 L 610.216746395842,727.4529005203008 L 609.6763890864705,715.5660840156014 L 602.6515714004694,683.1741434449713 L 594.5322220936806,616.6892569245381 Z\" /><path fill-rule=\"evenodd\" d=\"M 596.8337527350043,533.8365469581236 L 611.4017694138714,515.0588676617101 L 630.5523365054945,483.67795640041834 L 653.7826396247119,461.0853994665072 L 692.0742121299933,429.1119541519297 L 691.6972269431405,428.3064385286444 L 755.3616184235002,382.425139654879 L 807.6940538040523,342.9301586695073 L 840.7826181516037,327.26830560181156 L 872.6833369019688,313.7606068060349 L 912.0967760121882,306.1877563673252 L 959.1032856392056,314.84122823896575 L 1014.7553204437951,330.510216129853 L 1086.0762744352273,363.47613971678845 L 1129.346985192725,394.37581537313895 L 1124.570118057422,384.11875185212944 L 1193.6238615724903,382.9815386481734 L 1262.6623744195224,377.3406134790991 L 1267.5401390709717,423.50479093932046 L 1336.5798218334774,421.2535025370684 L 1336.5798218334774,405.8696459727569 L 1342.8693411616614,408.49616342206025 L 1342.2186842289755,434.7751882877707 L 1294.930905282874,436.26213005432874 L 1300.1839210970236,521.0608507170552 L 1284.424853377339,521.0608698015121 L 1285.1752935797633,435.8869010072776 L 1255.5332580500658,437.3877694843404 L 1249.5298223107272,388.26942004612954 L 1135.9016444949102,399.05650683694415 L 1150.3802294299282,409.39568478486945 L 1195.7162407680567,449.92592378998046 L 1234.7694362603675,496.9826277873269 L 1251.3334652952549,545.2888019277217 L 1249.2502486852343,679.5508356859631 L 1253.5726674543228,782.2098204224053 L 1230.339323050251,778.5240027722139 L 1231.9602438294683,740.0656053465858 L 1185.436032941822,740.1322496606992 L 1186.8593149593582,718.1679969189172 L 1228.784064284925,720.1243708992362 L 1227.6118830716478,680.6189199952476 L 1232.4982298182863,673.6062974773686 L 1236.177473781031,610.5489033233946 L 1235.2020304246666,554.1987333171364 L 1229.2586908763615,518.1626223298896 L 1194.6788460545354,468.74316592312135 L 1150.3733666309358,434.7901044695015 L 1104.987200070211,395.88774125772244 L 1023.3427112214671,347.74388160131616 L 967.7483430303243,328.34891743005136 L 937.5153268435326,324.54248547480387 L 896.4098187646763,321.3240491743336 L 862.8755086419463,329.96978750584526 L 833.2105252713142,346.17918252505547 L 824.0258303551878,349.42102496796116 L 800.2521698641713,366.1706587735472 L 731.092071881633,420.6622916941951 L 707.1234405247474,440.9087505884894 L 708.2219963122133,443.3764677803676 L 669.6639360510072,474.0966617196806 L 640.3079291241484,500.0670968753745 L 623.4232327094591,523.3304580764539 L 615.1684990256398,537.213465248159 Z\" /><path fill-rule=\"evenodd\" d=\"M 661.5462525048722,735.5575198747961 L 672.3524643172996,720.9691624401974 L 678.8361749157854,700.4406888407627 L 677.7555702235132,637.796641692445 L 673.9733850965165,575.085289231619 L 688.5617820359406,571.843433932376 L 689.6423867282127,710.1629506277701 L 683.1586761297269,735.0172158110587 L 666.4090423241408,747.9846919712659 Z\" /><path fill-rule=\"evenodd\" d=\"M 734.5976098927093,518.1093863814029 L 772.4193787178228,479.7473564325799 L 811.8620408405357,455.9737096823722 L 855.0868880902451,435.44188387938505 L 861.0303100834038,450.57060377615846 L 835.6357288131702,456.51399828769934 L 805.9186463289949,474.8812622494474 L 776.2015638448196,498.117897276574 L 755.6940186047684,519.7303209014289 Z\" /><path fill-rule=\"evenodd\" d=\"M 847.6780367516437,658.1520779837143 L 848.4492529189662,517.8399059792798 L 859.7057235569115,520.3737253659261 L 857.4544828658013,565.5481005304135 L 855.9535666775963,622.9003176845584 L 858.9553227161792,648.0397477830668 L 905.1068828668855,649.165396755307 L 907.3581617269091,516.714266549268 L 918.6146323648542,520.0912039237603 L 916.3633562989174,645.7924956092265 L 962.1396750662569,643.1619133048264 L 976.5035827654084,648.2373807490884 L 982.8639194172815,649.6528501252901 L 1037.2240685368158,651.0452563094365 L 1058.2114501405142,650.4502762832989 L 1058.9452385809757,640.9106439870312 L 1011.2929149177188,631.0934964861275 L 997.4099268304703,616.5216242714833 L 987.2790956225368,584.6282717128485 L 985.7782176032456,534.7245928517409 L 986.9038952021709,497.57822447895643 L 999.6612056836501,498.32498182692336 L 1002.2877217400188,573.7405072963046 L 1007.915877957487,610.8972838627261 L 1031.9220974640846,621.3994205808103 L 1066.7978949266846,625.5267778804914 L 1081.8334184461455,621.7746210011763 L 1095.341187028571,621.0241819915307 L 1097.9676663089608,607.5164324935618 L 1107.3480585072484,605.2674387298398 L 1108.4737361061739,507.7090556868897 L 1123.4852293593005,506.9586357617008 L 1120.105426248942,618.022483206318 L 1108.5029549743354,618.397683626684 L 1107.7233113694288,650.3125231459042 L 1081.9183854932883,650.2881469485737 L 1080.0085086987926,734.398954053192 L 1091.6739844734275,735.5246129652535 L 1141.9656249718764,729.3960909370765 L 1143.2035858954157,742.5286384243077 L 1102.4702812823784,744.8453828644986 L 1076.205183127173,747.4718907715734 L 1063.44787263885,745.9710270656245 L 1059.4184311118681,668.285983231086 L 1032.68014042577,666.8005226374138 L 935.1240997324921,667.9261716096539 L 916.3633153359168,665.6972747169679 L 911.8955925513209,661.5474972810357 L 856.3173083278083,661.5805553628977 Z\" /><path fill-rule=\"evenodd\" d=\"M 896.6908271525208,1346.8025882223242 L 921.314461898209,1307.9153256764205 L 944.0450950639424,1282.613744057884 L 964.7314834487382,1268.997877600696 L 990.1168172965304,1262.5141505132397 L 990.0564906163054,1269.6457356965789 L 966.7150994838152,1283.1655049324968 L 941.4285374603821,1299.471342147035 L 924.5708734153485,1323.4611455618005 L 912.2517655668281,1347.4509489765658 Z\" /><path fill-rule=\"evenodd\" d=\"M 1034.6941423724654,1265.6841042373374 L 1036.5246643206776,1256.1390905271353 L 1055.856295892938,1226.973484682655 L 1059.9070249010238,1195.4509546078618 L 1060.3296367560479,1163.43568545438 L 1057.6573699554915,1145.4650001142177 L 1070.2645621067545,1145.915252069331 L 1071.615375225465,1169.3287316074704 L 1070.2645621067545,1221.1084850913442 L 1059.0080914688092,1245.8727204948234 L 1049.5526744540139,1259.3804852603578 Z\" /><path fill-rule=\"evenodd\" d=\"M 1083.8179529699019,1128.042152018424 L 1085.094022310922,1117.0264853844526 L 1107.051100665741,1115.0779002886793 L 1149.2080651286517,1104.7962811457264 L 1150.3334198254847,1116.1540118753103 L 1104.349689457631,1128.042152018424 Z\" /></g></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "7414e271-a1e6-4cf6-8f51-e2cb9add7ca4",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div><p><strong>type</strong>:<span>river</span></p><p><strong>relation to wall</strong>:<span>both inside and outside the wall</span></p></div>"
+        }
+      ],
+      "created": "2025-07-19T15:47:40.171Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Xy89Krr8Vgpw67Ec_uVO"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "dfd2d8db-b533-49af-8220-851e92bd8c17",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/道光_晉江縣志_36657_34_35_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=993,1240,39,35"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "238725de-6b0b-48a5-a079-2c316d5c3c7e",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div><p><strong>id</strong>:<span>jinjiang_unnamed_qiao</span></p><p><strong>name</strong>:<span>晉江unnamed橋</span></p><p><strong>texture</strong>:<span>unadorned</span></p><p><strong>bridge_type</strong>:<span>text only</span></p><p><strong>relation to wall</strong>:<span>extramural</span></p><p><strong>bridge_cover</strong>:<span>no</span></p></div>"
+        }
+      ],
+      "created": "2026-05-29T07:52:55.502Z",
+      "creator": {
+        "isGuest": true,
+        "id": "BljnLff_LO64JiASGpB7"
+      },
+      "motivation": "commenting"
+    }
+  ]
+}
