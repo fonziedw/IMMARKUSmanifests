@@ -1,0 +1,345 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://fonziedw.github.io/IMMARKUSmanifests/973af053335c17ae/manifest.json",
+  "type": "Manifest",
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Repository"
+        ]
+      },
+      "value": {
+        "none": [
+          "Bibliothèque nationale de France"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Digitised by"
+        ]
+      },
+      "value": {
+        "none": [
+          "Bibliothèque nationale de France"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Source Images"
+        ]
+      },
+      "value": {
+        "none": [
+          "https://gallica.bnf.fr/ark:/12148/btv1b52525514s"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Metadata Source"
+        ]
+      },
+      "value": {
+        "none": [
+          "http://oai.bnf.fr/oai2/OAIHandler?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:bnf.fr:gallica/ark:/12148/btv1b52525514s"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Shelfmark"
+        ]
+      },
+      "value": {
+        "none": [
+          "Bibliothèque nationale de France, département Estampes et photographie, VH-560-FOL"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Title"
+        ]
+      },
+      "value": {
+        "none": [
+          "[Description géographique, historique, chronologique, politique et physique de l'Empire de la Chine et de la Tartarie chinoise]. I, Pl. V, Villes de la province de Chensi : [plan, dessin] / [Jean-Baptiste Bourguignon d'Anville]"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Date"
+        ]
+      },
+      "value": {
+        "none": [
+          "173."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Language"
+        ]
+      },
+      "value": {
+        "none": [
+          "Sans contenu linguistique"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Format"
+        ]
+      },
+      "value": {
+        "none": [
+          "1 dess. ; 48 x 32 cm",
+          "image/jpeg",
+          "Nombre total de vues :  2"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Creator"
+        ]
+      },
+      "value": {
+        "none": [
+          "Anville, Jean-Baptiste d' (1697-1782). Dessinateur",
+          "Du Halde, Jean-Baptiste (1674-1743). Directeur de publication"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Relation"
+        ]
+      },
+      "value": {
+        "none": [
+          "Notice de recueil : http://catalogue.bnf.fr/ark:/12148/cb40367185d"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Relation"
+        ]
+      },
+      "value": {
+        "none": [
+          "Appartient à : [Recueil. Cartes manuscrites de la Chine pour servir à illustrer le livre de J. B. Du Halde, Description géographique, historique.. . de l'empire de la Chine et de la Tartarie chinoise...]"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Relation"
+        ]
+      },
+      "value": {
+        "none": [
+          "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb42648187q"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Type"
+        ]
+      },
+      "value": {
+        "none": [
+          "Image"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Source"
+        ]
+      },
+      "value": {
+        "en": [
+          "This manifest is a derivative copy of the <a href=\"https://gallica.bnf.fr/iiif/ark:/12148/btv1b52525514s/manifest.json\">original manifest</a>, annotated with <a href=\"https://immarkus.xmarkus.org\">IMMARKUS</a>."
+        ]
+      }
+    }
+  ],
+  "label": {
+    "none": [
+      "BnF, département Estampes et photographie, VH-560-FOL (annotated with IMMARKUS)"
+    ]
+  },
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Bibliothèque nationale de France"
+      ]
+    }
+  },
+  "summary": {
+    "none": [
+      "[Description géographique, historique, chronologique, politique et physique de l'Empire de la Chine et de la Tartarie chinoise]. I, Pl. V, Villes de la province de Chensi : [plan, dessin] / [Jean-Baptiste Bourguignon d'Anville]"
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://gallica.bnf.fr/ark:/12148/btv1b52525514s.thumbnail",
+      "type": "Image"
+    }
+  ],
+  "provider": [
+    {
+      "id": "http://example.org/provider",
+      "type": "Agent",
+      "homepage": [
+        {
+          "id": "http://example.org/undefined/127",
+          "type": "unknown"
+        }
+      ],
+      "logo": [
+        {
+          "id": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+          "type": "Image"
+        }
+      ],
+      "label": {
+        "none": [
+          ""
+        ]
+      }
+    }
+  ],
+  "seeAlso": [
+    {
+      "id": "http://example.org/undefined/128",
+      "type": "unknown"
+    }
+  ],
+  "items": [
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52525514s/canvas/f1",
+      "type": "Canvas",
+      "height": 7988,
+      "width": 5570,
+      "label": {
+        "none": [
+          "NP"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://gallica.bnf.fr/ark:/12148/btv1b52525514s/f1.thumbnail",
+          "type": "Image"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52525514s/canvas/f1/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/oa:Annotation/125",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52525514s/canvas/f1",
+              "body": {
+                "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52525514s/f1/full/full/0/native.jpg",
+                "type": "Image",
+                "height": 7988,
+                "width": 5570,
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52525514s/f1",
+                    "@type": "ImageService1",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://fonziedw.github.io/IMMARKUSmanifests/973af053335c17ae/annotations-466924072.json",
+          "type": "AnnotationPage"
+        }
+      ]
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52525514s/canvas/f2",
+      "type": "Canvas",
+      "height": 7988,
+      "width": 5570,
+      "label": {
+        "none": [
+          "NP"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://gallica.bnf.fr/ark:/12148/btv1b52525514s/f2.thumbnail",
+          "type": "Image"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52525514s/canvas/f2/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/oa:Annotation/126",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52525514s/canvas/f2",
+              "body": {
+                "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52525514s/f2/full/full/0/native.jpg",
+                "type": "Image",
+                "height": 7988,
+                "width": 5570,
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52525514s/f2",
+                    "@type": "ImageService1",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

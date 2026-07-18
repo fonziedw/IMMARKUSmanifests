@@ -1,0 +1,406 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://fonziedw.github.io/IMMARKUSmanifests/973af053335c17ae/annotations-466924072.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "id": "47eba6a5-7953-4cc1-ae06-d779c347e8b4",
+      "target": {
+        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52525514s/canvas/f1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=3907,399,376,139"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "3c7b06f1-d270-434c-8f28-d0e1596b62d1",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div><p><strong>type</strong>:<span>map to text</span></p></div>"
+        },
+        {
+          "id": "58954d35-0a9d-40f4-b5d7-095ad518b782",
+          "type": "TextualBody",
+          "format": "text/plain",
+          "value": "pl. v."
+        }
+      ],
+      "motivation": "commenting"
+    },
+    {
+      "id": "18dc9285-9904-48d0-877e-9de9253abc73",
+      "target": {
+        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52525514s/canvas/f1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=2324,879,621,174"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "0ca6ac19-3b71-4d23-9352-8b13a1569bad",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div><p><strong>hierarchy</strong>:<span>top</span></p><p><strong>type</strong>:<span>river</span></p></div>"
+        },
+        {
+          "id": "38093d82-8eff-4dab-8a14-29737695acc3",
+          "type": "TextualBody",
+          "format": "text/plain",
+          "value": "[Riviere CORR] Ouei ho R."
+        }
+      ],
+      "motivation": "commenting"
+    },
+    {
+      "id": "3394d209-6a41-4084-9aea-c097c2051a1b",
+      "target": {
+        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52525514s/canvas/f1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=770,5712,558,273"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "c5ef4b82-5d6e-4534-9fdb-482d2226ddda",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div><p><strong>hierarchy</strong>:<span>top</span></p><p><strong>type</strong>:<span>river</span></p></div>"
+        },
+        {
+          "id": "64edbb23-d616-4846-957e-5cbae8526829",
+          "type": "TextualBody",
+          "format": "text/plain",
+          "value": "King-Ho R"
+        }
+      ],
+      "motivation": "commenting"
+    },
+    {
+      "id": "eecc830d-2c5e-421f-bafd-432977f9d34a",
+      "target": {
+        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52525514s/canvas/f1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=1176,5456,671,177"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "format": "text/plain",
+          "value": "KING-TCHEOU"
+        },
+        {
+          "id": "f2e9ed18-2cbe-4dcc-b185-f41349b0a56d",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div></div>"
+        }
+      ],
+      "motivation": "commenting"
+    },
+    {
+      "id": "936d1365-fc8c-44c9-a384-524143ae063b",
+      "target": {
+        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52525514s/canvas/f1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=692,3963,900,197"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "format": "text/plain",
+          "value": "LAN-TCHEOU ou demeure le 2. Vice-roy de Chensi"
+        },
+        {
+          "id": "97631422-c746-4273-8f51-f104562d8081",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div></div>"
+        }
+      ],
+      "motivation": "commenting"
+    },
+    {
+      "id": "387039e5-c24e-4737-a389-c715972dba14",
+      "target": {
+        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52525514s/canvas/f1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=3666,6264,61,51"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "5ee28d87-518f-4816-9bdf-a6ccbf26302c",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div><p><strong>note type</strong>:<span>letter legend</span></p></div>"
+        },
+        {
+          "id": "ac3a586e-d958-4610-ba36-c1176b6a6ab7",
+          "type": "TextualBody",
+          "format": "text/plain",
+          "value": "A"
+        }
+      ],
+      "motivation": "commenting"
+    },
+    {
+      "id": "71547db4-f8b8-4ad3-9969-f66e5a91de69",
+      "target": {
+        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52525514s/canvas/f1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=2999,6807,1486,257"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "725d9ddc-2e17-4115-9a71-5d3e03ba2a7f",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div><p><strong>note type</strong>:<span>legend, map description</span></p></div>"
+        },
+        {
+          "id": "cd1fb559-588a-4267-9be6-5074b8853629",
+          "type": "TextualBody",
+          "format": "text/plain",
+          "value": "A. plan du tribunal du Tsiang Kun ou commandant general des troupes."
+        }
+      ],
+      "motivation": "commenting"
+    },
+    {
+      "id": "a56d8573-5153-4f06-ae37-18d74b53f7f7",
+      "target": {
+        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52525514s/canvas/f1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=3348,5490,863,150"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "format": "text/plain",
+          "value": "COU-YUEN-TCHEOU"
+        },
+        {
+          "id": "dff7bd27-d5cd-4226-9d99-dffc70d5fd80",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div></div>"
+        }
+      ],
+      "motivation": "commenting"
+    },
+    {
+      "id": "3f0cad45-99ba-4a3f-8df6-199e700cafc1",
+      "target": {
+        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52525514s/canvas/f1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=3365,4982,1551,248"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "format": "text/plain",
+          "value": "CAN-TCHEOU ou demeure le general des troupes qui gardent la grande muraille"
+        },
+        {
+          "id": "42649e74-e7c2-443c-9451-2452ee94778e",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div></div>"
+        }
+      ],
+      "motivation": "commenting"
+    },
+    {
+      "id": "edf94d03-fb3b-4248-83fa-b413bb8e57bf",
+      "target": {
+        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52525514s/canvas/f1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=1749,1999,378,203"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "41ce84fa-84a1-4380-b780-1b96de35e425",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div><p><strong>note type</strong>:<span>headquarters</span></p></div>"
+        },
+        {
+          "id": "e2caa0e0-565f-4de7-b48b-4c116dddb961",
+          "type": "TextualBody",
+          "format": "text/plain",
+          "value": "quartier des Tartares qui font la garnison"
+        }
+      ],
+      "motivation": "commenting"
+    },
+    {
+      "id": "9ca0c0e1-086a-4a96-a945-c6dc23ac0946",
+      "target": {
+        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52525514s/canvas/f1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=708,875,936,200"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "format": "text/plain",
+          "value": "SI-NGAN-FOU capitale\nelle a pres de 4 lieues d'enceinte"
+        },
+        {
+          "id": "555c7274-577b-4028-b68f-d2f8fca84338",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div></div>"
+        }
+      ],
+      "motivation": "commenting"
+    },
+    {
+      "id": "a4394755-0558-4333-b0d2-c7b160c80ca0",
+      "target": {
+        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52525514s/canvas/f1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=3773,712,684,192"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "format": "text/plain",
+          "value": "TCHOUANG - LAN"
+        },
+        {
+          "id": "98578435-0b7f-4e2a-8ab9-b9dc66d4ab76",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div></div>"
+        }
+      ],
+      "motivation": "commenting"
+    },
+    {
+      "id": "ca8ed77f-670c-4156-b628-38701418060a",
+      "target": {
+        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52525514s/canvas/f1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=3630,3605,500,196"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "ce3cd9bd-9c56-4419-9f81-2ce4e18100a6",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div><p><strong>hierarchy</strong>:<span>top</span></p><p><strong>type</strong>:<span>river</span></p></div>"
+        },
+        {
+          "id": "4acbf25a-5229-4304-9b88-70e611195a11",
+          "type": "TextualBody",
+          "format": "text/plain",
+          "value": "He Ho R."
+        }
+      ],
+      "motivation": "commenting"
+    },
+    {
+      "id": "5078ff42-ea2d-41e6-8d61-abbe2c3908d6",
+      "target": {
+        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52525514s/canvas/f1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=1607,401,2121,166"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "format": "text/plain",
+          "value": "VILLES DE LA PROVINCE DE CHENSI"
+        },
+        {
+          "id": "708eaa4a-2314-4a2e-904a-7bc4c0cff4be",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div></div>"
+        }
+      ],
+      "motivation": "commenting"
+    }
+  ]
+}
