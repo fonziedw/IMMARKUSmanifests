@@ -1,0 +1,645 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://fonziedw.github.io/IMMARKUSmanifests/3095fcba6b3229db/manifest.json",
+  "type": "Manifest",
+  "behavior": [
+    "paged"
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Cote"
+        ]
+      },
+      "value": {
+        "none": [
+          "France, Aix-en-Provence, Bibliothèque Méjanes, fonds principal, 25 (914)"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Auteur, titre, oeuvre"
+        ]
+      },
+      "value": {
+        "none": [
+          "ISIDORUS, Etymologiae"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Support"
+        ]
+      },
+      "value": {
+        "none": [
+          "parchemin"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Datation"
+        ]
+      },
+      "value": {
+        "none": [
+          "12e s. (milieu)"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Dimensions (mm)"
+        ]
+      },
+      "value": {
+        "none": [
+          "390 x 270"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Foliotation"
+        ]
+      },
+      "value": {
+        "none": [
+          "444 p."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Notes"
+        ]
+      },
+      "value": {
+        "none": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Provider"
+        ]
+      },
+      "value": {
+        "none": [
+          "Arca &ndash; IRHT-CNRS"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Source images"
+        ]
+      },
+      "value": {
+        "none": [
+          "https://arca.irht.cnrs.fr/ark:/63955/md579s161956"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Source métadonnées"
+        ]
+      },
+      "value": {
+        "none": [
+          "http://arca.irht.cnrs.fr/ark:/63955/md579s161956"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Source"
+        ]
+      },
+      "value": {
+        "en": [
+          "This manifest is a derivative copy of the <a href=\"https://api.irht.cnrs.fr/ark:/63955/f9gw8g2z3sw4/manifest.json\">original manifest</a>, annotated with <a href=\"https://immarkus.xmarkus.org\">IMMARKUS</a>."
+        ]
+      }
+    }
+  ],
+  "label": {
+    "none": [
+      "France, Aix-en-Provence, Bibliothèque Méjanes, fonds principal, 25 (914) (décor) (annotated with IMMARKUS)"
+    ]
+  },
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Bibliothèque Méjanes de Aix-en-Provence"
+      ]
+    }
+  },
+  "thumbnail": [
+    {
+      "id": "https://iiif.irht.cnrs.fr/iiif/ark:/63955/vielu65sfaj1/full/200,/0/default.jpg",
+      "type": "Image",
+      "service": [
+        {
+          "@id": "https://iiif.irht.cnrs.fr/iiif/ark:/63955/vielu65sfaj1",
+          "@type": "ImageService2",
+          "profile": "level2"
+        }
+      ]
+    }
+  ],
+  "provider": [
+    {
+      "id": "http://example.org/provider",
+      "type": "Agent",
+      "logo": [
+        {
+          "id": "https://arca.irht.cnrs.fr/logo-arca.svg",
+          "type": "Image"
+        }
+      ],
+      "label": {
+        "none": [
+          ""
+        ]
+      }
+    }
+  ],
+  "partOf": [
+    {
+      "id": "https://arca.irht.cnrs.fr/315556101/collection.json",
+      "type": "Collection"
+    }
+  ],
+  "seeAlso": "",
+  "items": [
+    {
+      "id": "https://arca.irht.cnrs.fr/iiif/103895/canvas/canvas-1245998",
+      "type": "Canvas",
+      "height": 3151,
+      "width": 2100,
+      "label": {
+        "none": [
+          "p. 069 - vue 1"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://arca.irht.cnrs.fr/iiif/103895/canvas/canvas-1245998/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/oa:Annotation/14",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://arca.irht.cnrs.fr/iiif/103895/canvas/canvas-1245998",
+              "body": {
+                "id": "https://iiif.irht.cnrs.fr/iiif/ark:/63955/vielu65sfaj1/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 3151,
+                "width": 2100,
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://iiif.irht.cnrs.fr/iiif/ark:/63955/vielu65sfaj1",
+                    "@type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://arca.irht.cnrs.fr/iiif/103895/canvas/canvas-1245999",
+      "type": "Canvas",
+      "height": 3102,
+      "width": 2100,
+      "label": {
+        "none": [
+          "p. 069 - vue 2"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://arca.irht.cnrs.fr/iiif/103895/canvas/canvas-1245999/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/oa:Annotation/15",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://arca.irht.cnrs.fr/iiif/103895/canvas/canvas-1245999",
+              "body": {
+                "id": "https://iiif.irht.cnrs.fr/iiif/ark:/63955/vrq3pltj5epz/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 3102,
+                "width": 2100,
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://iiif.irht.cnrs.fr/iiif/ark:/63955/vrq3pltj5epz",
+                    "@type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://arca.irht.cnrs.fr/iiif/103895/canvas/canvas-1246001",
+      "type": "Canvas",
+      "height": 3134,
+      "width": 2100,
+      "label": {
+        "none": [
+          "p. 070"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://arca.irht.cnrs.fr/iiif/103895/canvas/canvas-1246001/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/oa:Annotation/16",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://arca.irht.cnrs.fr/iiif/103895/canvas/canvas-1246001",
+              "body": {
+                "id": "https://iiif.irht.cnrs.fr/iiif/ark:/63955/vwsa1lqc4s3v/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 3134,
+                "width": 2100,
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://iiif.irht.cnrs.fr/iiif/ark:/63955/vwsa1lqc4s3v",
+                    "@type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://arca.irht.cnrs.fr/iiif/103895/canvas/canvas-1246003",
+      "type": "Canvas",
+      "height": 3102,
+      "width": 2100,
+      "label": {
+        "none": [
+          "p. 090 - vue 1"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://arca.irht.cnrs.fr/iiif/103895/canvas/canvas-1246003/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/oa:Annotation/17",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://arca.irht.cnrs.fr/iiif/103895/canvas/canvas-1246003",
+              "body": {
+                "id": "https://iiif.irht.cnrs.fr/iiif/ark:/63955/vccuusj5qn2j/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 3102,
+                "width": 2100,
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://iiif.irht.cnrs.fr/iiif/ark:/63955/vccuusj5qn2j",
+                    "@type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://arca.irht.cnrs.fr/iiif/103895/canvas/canvas-1246002",
+      "type": "Canvas",
+      "height": 2100,
+      "width": 3102,
+      "label": {
+        "none": [
+          "p. 090 - vue 2"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://arca.irht.cnrs.fr/iiif/103895/canvas/canvas-1246002/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/oa:Annotation/18",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://arca.irht.cnrs.fr/iiif/103895/canvas/canvas-1246002",
+              "body": {
+                "id": "https://iiif.irht.cnrs.fr/iiif/ark:/63955/vvsgpcl32k6s/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2100,
+                "width": 3102,
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://iiif.irht.cnrs.fr/iiif/ark:/63955/vvsgpcl32k6s",
+                    "@type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://arca.irht.cnrs.fr/iiif/103895/canvas/canvas-1245997",
+      "type": "Canvas",
+      "height": 3151,
+      "width": 2100,
+      "label": {
+        "none": [
+          "p. 213"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://arca.irht.cnrs.fr/iiif/103895/canvas/canvas-1245997/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/oa:Annotation/19",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://arca.irht.cnrs.fr/iiif/103895/canvas/canvas-1245997",
+              "body": {
+                "id": "https://iiif.irht.cnrs.fr/iiif/ark:/63955/v5tp0s2bq9os/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 3151,
+                "width": 2100,
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://iiif.irht.cnrs.fr/iiif/ark:/63955/v5tp0s2bq9os",
+                    "@type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://arca.irht.cnrs.fr/iiif/103895/canvas/canvas-1245996",
+      "type": "Canvas",
+      "height": 3151,
+      "width": 2100,
+      "label": {
+        "none": [
+          "p. 214 - vue 1"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://arca.irht.cnrs.fr/iiif/103895/canvas/canvas-1245996/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/oa:Annotation/20",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://arca.irht.cnrs.fr/iiif/103895/canvas/canvas-1245996",
+              "body": {
+                "id": "https://iiif.irht.cnrs.fr/iiif/ark:/63955/vrlh61xuqukk/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 3151,
+                "width": 2100,
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://iiif.irht.cnrs.fr/iiif/ark:/63955/vrlh61xuqukk",
+                    "@type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://fonziedw.github.io/IMMARKUSmanifests/3095fcba6b3229db/annotations-1050452433.json",
+          "type": "AnnotationPage"
+        }
+      ]
+    },
+    {
+      "id": "https://arca.irht.cnrs.fr/iiif/103895/canvas/canvas-1245995",
+      "type": "Canvas",
+      "height": 2100,
+      "width": 3102,
+      "label": {
+        "none": [
+          "p. 214 - vue 2"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://arca.irht.cnrs.fr/iiif/103895/canvas/canvas-1245995/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/oa:Annotation/21",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://arca.irht.cnrs.fr/iiif/103895/canvas/canvas-1245995",
+              "body": {
+                "id": "https://iiif.irht.cnrs.fr/iiif/ark:/63955/vc28qtbsjy95/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2100,
+                "width": 3102,
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://iiif.irht.cnrs.fr/iiif/ark:/63955/vc28qtbsjy95",
+                    "@type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://arca.irht.cnrs.fr/iiif/103895/canvas/canvas-1246000",
+      "type": "Canvas",
+      "height": 2100,
+      "width": 3102,
+      "label": {
+        "none": [
+          "p. 280"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://arca.irht.cnrs.fr/iiif/103895/canvas/canvas-1246000/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/oa:Annotation/22",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://arca.irht.cnrs.fr/iiif/103895/canvas/canvas-1246000",
+              "body": {
+                "id": "https://iiif.irht.cnrs.fr/iiif/ark:/63955/v3pr51ifpay4/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2100,
+                "width": 3102,
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://iiif.irht.cnrs.fr/iiif/ark:/63955/v3pr51ifpay4",
+                    "@type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://arca.irht.cnrs.fr/iiif/103895/canvas/canvas-1245994",
+      "type": "Canvas",
+      "height": 3102,
+      "width": 2100,
+      "label": {
+        "none": [
+          "p. 293 - vue 1"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://arca.irht.cnrs.fr/iiif/103895/canvas/canvas-1245994/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/oa:Annotation/23",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://arca.irht.cnrs.fr/iiif/103895/canvas/canvas-1245994",
+              "body": {
+                "id": "https://iiif.irht.cnrs.fr/iiif/ark:/63955/vptb94uydby7/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 3102,
+                "width": 2100,
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://iiif.irht.cnrs.fr/iiif/ark:/63955/vptb94uydby7",
+                    "@type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://fonziedw.github.io/IMMARKUSmanifests/3095fcba6b3229db/annotations-2602155363.json",
+          "type": "AnnotationPage"
+        }
+      ]
+    },
+    {
+      "id": "https://arca.irht.cnrs.fr/iiif/103895/canvas/canvas-1245993",
+      "type": "Canvas",
+      "height": 2100,
+      "width": 3102,
+      "label": {
+        "none": [
+          "p. 293 - vue 2"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://arca.irht.cnrs.fr/iiif/103895/canvas/canvas-1245993/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/oa:Annotation/24",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://arca.irht.cnrs.fr/iiif/103895/canvas/canvas-1245993",
+              "body": {
+                "id": "https://iiif.irht.cnrs.fr/iiif/ark:/63955/vhltccfffopx/full/full/0/default.jpg",
+                "type": "Image",
+                "height": 2100,
+                "width": 3102,
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://iiif.irht.cnrs.fr/iiif/ark:/63955/vhltccfffopx",
+                    "@type": "ImageService2",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://fonziedw.github.io/IMMARKUSmanifests/3095fcba6b3229db/annotations-2352565579.json",
+          "type": "AnnotationPage"
+        }
+      ]
+    }
+  ]
+}

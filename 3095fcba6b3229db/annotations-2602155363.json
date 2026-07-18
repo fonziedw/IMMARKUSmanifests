@@ -1,0 +1,29 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://fonziedw.github.io/IMMARKUSmanifests/3095fcba6b3229db/annotations-2602155363.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "id": "b2a8f8f0-751d-4812-ae51-a9e4a8ea316e",
+      "target": {
+        "source": "https://arca.irht.cnrs.fr/iiif/103895/canvas/canvas-1245994",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=391,1953,426,363"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "format": "text/plain",
+          "value": "germania    fertha alimeni\nmetta macedonia    roma\npalmaria    achaia\npannonia europa ariena\ngallia belgica italia cura\ngallia    capania\n\nadriania    narbona\n            burdigali\n            terracom\n            hyspania\n            cartago\n            lufitana\n            gallicia"
+        }
+      ],
+      "motivation": "commenting"
+    }
+  ]
+}
