@@ -1,0 +1,44 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://fonziedw.github.io/IMMARKUSmanifests/道光_大同縣志_35652_59_60_com/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "道光_大同縣志_35652_59_60_com.png"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://fonziedw.github.io/IMMARKUSmanifests/道光_大同縣志_35652_59_60_com/canvas/1",
+      "type": "Canvas",
+      "height": 1294,
+      "width": 1785,
+      "items": [
+        {
+          "id": "https://fonziedw.github.io/IMMARKUSmanifests/道光_大同縣志_35652_59_60_com/page/p1/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://fonziedw.github.io/IMMARKUSmanifests/道光_大同縣志_35652_59_60_com/annotation/p0001-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://fonziedw.github.io/IMMARKUSmanifests/道光_大同縣志_35652_59_60_com/道光_大同縣志_35652_59_60_com.png",
+                "type": "Image",
+                "height": 1294,
+                "width": 1785
+              },
+              "target": "https://fonziedw.github.io/IMMARKUSmanifests/道光_大同縣志_35652_59_60_com/canvas/1"
+            }
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://fonziedw.github.io/IMMARKUSmanifests/道光_大同縣志_35652_59_60_com/annotations.json",
+          "type": "AnnotationPage"
+        }
+      ]
+    }
+  ]
+}
