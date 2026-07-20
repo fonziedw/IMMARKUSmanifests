@@ -1,0 +1,49 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://fonziedw.github.io/IMMARKUSmanifests/d8def57ba3c323b0/annotations-4117911871.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "id": "ff325faf-cd43-4f73-9951-c8c2e39fcd51",
+      "target": {
+        "source": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00084490/canvas/10",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=591,539,855,140"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [],
+      "created": "2025-09-08T18:58:32.714Z",
+      "creator": {
+        "isGuest": true,
+        "id": "1xk4DIysbGeAT60vN_6J"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "5cb7d691-58aa-4a5b-9e86-f0df734dabcc",
+      "target": {
+        "source": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00084490/canvas/10",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=864,934,565,357"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [],
+      "created": "2025-09-08T18:59:40.414Z",
+      "creator": {
+        "isGuest": true,
+        "id": "1xk4DIysbGeAT60vN_6J"
+      },
+      "motivation": "commenting"
+    }
+  ]
+}

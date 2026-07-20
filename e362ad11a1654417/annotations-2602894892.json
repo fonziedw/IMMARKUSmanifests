@@ -1,0 +1,1025 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://fonziedw.github.io/IMMARKUSmanifests/e362ad11a1654417/annotations-2602894892.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "id": "9d35202d-c004-4cd6-a97f-e4fab26ce55d",
+      "target": {
+        "source": "https://nrs.lib.harvard.edu/URN-3:FHCL:14518374:MANIFEST:2/canvas/canvas-drs:50820332",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><g><path fill-rule=\"evenodd\" d=\"M 409.34827166852335,1886.8964777416625 L 416.4121387708805,1613.733897393828 L 451.7313395506075,1291.10250794905 L 501.1782296243627,1093.3643302570454 L 623.4106711358297,970.9244162563839 L 720.2044401521849,883.7876410011008 L 826.1148812889204,824.9385031346292 L 1026.409833334415,761.2111739252784 L 1167.533867070302,735.4632349122714 L 1200.4984903932627,690.7255446627347 L 1278.200714144388,678.9524777361592 L 1299.3922705407733,704.8532115014198 L 1494.8251635576553,674.2432330012542 L 1744.414146472511,662.4701660746787 L 1951.6201962373414,657.7609437951169 L 2287.8682719803587,683.6620143905245 L 2385.073527968966,719.5374205116702 L 2408.414936997568,791.9743289185305 L 2549.6917401164765,900.0673913651473 L 2603.8479198358223,1037.1502365130966 L 2641.5216980723158,1083.9476570504773 L 2643.8762755290822,1229.9323377479113 L 2622.6848987754415,1263.7590583037006 L 2592.0748529092466,1267.6661787692603 L 2549.6917401164765,1882.1602634444798 L 2493.180982940364,2084.656978653032 L 2398.9964475277584,2193.0658705938376 L 2104.6699540061104,2263.6076498298066 L 1930.4060505425962,2287.153783682958 L 1708.0711058871404,2306.5722510812784 L 1546.3546300548353,2315.2546582295445 L 1087.4769535856954,2334.245871746516 L 866.1432594375232,2346.0189386730913 L 562.3981417140075,2287.1536040402125 L 465.85902884463565,2221.431803471363 L 411.7028940359757,2070.567221053751 Z M 583.589720565735,1877.6241148278089 L 607.1358544188864,1902.3083706685425 L 633.0366106394902,1931.6067044113724 L 630.7484715371866,2013.8787523955193 L 585.7363797597191,2047.190242297435 L 656.183152701378,2138.812754176203 L 869.3326506650611,2167.068042942886 L 987.7929995766491,2155.294976016311 L 1005.0655973763802,2129.394264706393 L 1073.3494214790683,2127.039687249627 L 1110.5744885050915,2174.132073279315 L 1267.2143405390889,2174.1348520195247 L 1504.7524670839443,2161.8499841515018 L 1669.0666798208968,2134.1034196199257 L 1925.7194849274235,2122.3303526933496 L 1949.265618780575,2091.720306827155 L 2035.925590059297,2075.238084987047 L 2076.414597873397,2110.557285766774 L 2255.3653588715433,2068.174172974004 L 2354.259049197681,2006.954260884359 L 2323.6490033314863,1966.9259051910997 L 2347.195137184638,1882.159769426931 L 2396.6421619904518,1882.159769426931 L 2403.7058943607503,1743.2377234075336 L 2441.379672597244,1467.747759718643 L 2439.0250951404773,1232.286421187129 L 2406.0604718175164,1201.6764651423066 L 2406.0604718175164,1100.428062627344 L 2436.670517683711,1095.7188628031254 L 2443.7344296967544,1034.6734259479467 L 2417.833538744092,931.0018962661909 L 2307.1667814913785,839.0662822500295 L 2144.6983770653987,801.3922120940756 L 1942.2156735426584,803.7468083159645 L 1471.3450931632776,836.6451947528298 L 1294.682980895182,860.2575691822972 L 1106.3139100699707,904.8546353960647 L 830.824126023825,966.2150367894201 L 689.5469581572427,1019.4423769037884 L 658.9356325115127,1107.8990943476406 L 670.507879837985,1192.2578858511245 L 680.1288334351069,1218.1586869824146 L 682.4834558025594,1293.5063332767734 L 625.792170063395,1321.641068517201 L 607.7399199200095,1498.7542414093639 L 635.3912330069427,1536.0314939999585 L 649.5188773902844,1545.4498936483956 L 637.7458104637087,1646.6982512526722 L 595.3627874923106,1655.9485766296732 Z\" /></g></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "2fb03104-53c0-44dc-929e-5ba1b7e5b941",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div data-entity-id=\"city_wall\">\n  <h2>city_wall</h2>\n  <div>\n      <p><strong>id:</strong> <span>jian'an_cheng<span></p>\n    <p><strong>name:</strong> <span>建安城<span></p>\n    <p><strong>TGAZ:</strong> <span>https://maps.cga.harvard.edu/tgaz/placename/hvd_40228<span></p>\n    <p><strong>texture:</strong> <span>striped<span></p>\n    <p><strong>road_presence:</strong> <span>both inside and outside the city<span></p>\n  </div>\n\n</div>"
+        }
+      ],
+      "created": "2025-05-08T15:31:43.939Z",
+      "creator": {
+        "isGuest": true,
+        "id": "22OagXzwUQ5n7e39pQHu"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "1ba368e3-be35-422f-a1ce-0c62602c8e49",
+      "target": {
+        "source": "https://nrs.lib.harvard.edu/URN-3:FHCL:14518374:MANIFEST:2/canvas/canvas-drs:50820332",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"2470.3036213228525,1043.5293090703858 2604.385722530313,1017.21486062285 2647.2850994386504,1092.9330713017669 2650.1738252316577,1202.141947586743 2630.548819644404,1262.808104712834 2553.6962833324055,1269.181903373337 2481.7498582156286,1274.085178098779 2489.925599136862,1207.0441274950483 2517.8637076916357,1161.119299841311 2499.748553889364,1081.1367375263326\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "4f419bca-ea08-4466-a8b8-f7f2b279c697",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div data-entity-id=\"city_wall_gate\">\n  <h2>city_wall_gate</h2>\n  <div>\n      <p><strong>name:</strong> <span>建安城高門<span></p>\n    <p><strong>direction:</strong> <span>east<span></p>\n    <p><strong>texture:</strong> <span>striped<span></p>\n  </div>\n\n</div>"
+        },
+        {
+          "id": "91b10dd0-d277-4b1b-9229-e36eae843fcb",
+          "type": "TextualBody",
+          "format": "text/plain",
+          "value": "I will assume that everywhere were there are two gate names, that it is like here and there is a barbican outside the inner gate, and all gates have their own proper name"
+        }
+      ],
+      "created": "2025-05-08T15:34:25.850Z",
+      "creator": {
+        "isGuest": true,
+        "id": "22OagXzwUQ5n7e39pQHu"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "b39a47f8-a54d-4580-b447-a4714f478ce4",
+      "target": {
+        "source": "https://nrs.lib.harvard.edu/URN-3:FHCL:14518374:MANIFEST:2/canvas/canvas-drs:50820332",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"2493.33190835023,1088.2027673931561 2420.6586383903928,1087.240980164822 2394.541740205303,1124.639640638142 2386.5930512185882,1197.3126921855278 2439.8568868315756,1221.1586291957715 2482.244379459114,1240.4624272731537 2517.1778886771076,1155.2984593436418\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "ce9f6295-6f19-4ab2-9186-c618011595ac",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div data-entity-id=\"city_wall_gate\">\n  <h2>city_wall_gate</h2>\n  <div>\n      <p><strong>name:</strong> <span>建安城寧遠門<span></p>\n    <p><strong>direction:</strong> <span>east<span></p>\n    <p><strong>texture:</strong> <span>striped<span></p>\n  </div>\n\n</div>"
+        }
+      ],
+      "created": "2025-05-08T15:34:36.002Z",
+      "creator": {
+        "isGuest": true,
+        "id": "22OagXzwUQ5n7e39pQHu"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "49f1a406-4902-48e4-8ad6-4dc251be635d",
+      "target": {
+        "source": "https://nrs.lib.harvard.edu/URN-3:FHCL:14518374:MANIFEST:2/canvas/canvas-drs:50820332",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"1802.7152968694952,818.9022539876936 1894.762785850237,813.0979612705981 1887.8793514322751,750.6766280661404 1868.575466721625,730.2372844263845 1819.748177088666,740.4569995628965 1800.4442923780157,777.9290934719207\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "9593a2eb-63fa-4ee4-a00a-415b1e6cfa76",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div data-entity-id=\"city_wall_gate\">\n  <h2>city_wall_gate</h2>\n  <div>\n      <p><strong>name:</strong> <span>建安城拱北門<span></p>\n    <p><strong>direction:</strong> <span>north<span></p>\n    <p><strong>texture:</strong> <span>unadorned<span></p>\n  </div>\n\n</div>"
+        }
+      ],
+      "created": "2025-05-08T15:34:43.755Z",
+      "creator": {
+        "isGuest": true,
+        "id": "22OagXzwUQ5n7e39pQHu"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "499768c8-c8e9-4fb2-8a69-5e351e748f5e",
+      "target": {
+        "source": "https://nrs.lib.harvard.edu/URN-3:FHCL:14518374:MANIFEST:2/canvas/canvas-drs:50820332",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"1160.011236221434,883.5324050411883 1316.7129718650428,855.144415731351 1294.002580417173,791.5553370039693 1265.4605249664316,765.2843077030244 1208.727616666991,767.696149552205 1173.6223055217954,800.7925894291268 1172.5003737002137,816.6696736492675\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "15fbfc55-649c-4f12-bdca-a7a18bda87f3",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div data-entity-id=\"city_wall_gate\">\n  <h2>city_wall_gate</h2>\n  <div>\n      <p><strong>name:</strong> <span>建安城北門<span></p>\n    <p><strong>direction:</strong> <span>north<span></p>\n    <p><strong>texture:</strong> <span>unadorned<span></p>\n  </div>\n\n</div>"
+        }
+      ],
+      "created": "2025-05-08T15:34:50.562Z",
+      "creator": {
+        "isGuest": true,
+        "id": "22OagXzwUQ5n7e39pQHu"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "97fca5c0-df83-4e68-be94-ebc117d99a36",
+      "target": {
+        "source": "https://nrs.lib.harvard.edu/URN-3:FHCL:14518374:MANIFEST:2/canvas/canvas-drs:50820332",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"1188.3992255312712,764.3028715981891 1296.2735849086528,747.2700780122866 1303.08668501636,707.5268929785146 1278.1052890770104,685.9520254347017 1209.9741147334012,691.6296232966691 1172.3747699553528,722.2886604146202\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "470fe185-2e88-4bc7-9782-720a5cd9bbaf",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div data-entity-id=\"city_wall_gate\">\n  <h2>city_wall_gate</h2>\n  <div>\n      <p><strong>name:</strong> <span>建安城朝天門<span></p>\n    <p><strong>direction:</strong> <span>north<span></p>\n  </div>\n\n</div>"
+        }
+      ],
+      "created": "2025-05-08T15:34:54.970Z",
+      "creator": {
+        "isGuest": true,
+        "id": "22OagXzwUQ5n7e39pQHu"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "50132344-a3b7-432e-84d0-8d8be536ce64",
+      "target": {
+        "source": "https://nrs.lib.harvard.edu/URN-3:FHCL:14518374:MANIFEST:2/canvas/canvas-drs:50820332",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"781.8831839610946,981.1870709403745 851.1498605504438,960.7477056423014 839.7946648265089,914.1914096716636 805.5048412478433,908.5138118096961 787.1934163031283,922.3825490351244 780.6738329420547,940.320296304789\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "823691e6-dc7e-4747-b56c-3864a4012f6f",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div data-entity-id=\"city_wall_watergate\">\n  <h2>city_wall_watergate</h2>\n  <div>\n      <p><strong>name:</strong> <span>建安城水門<span></p>\n  </div>\n\n</div>"
+        }
+      ],
+      "created": "2025-05-08T15:35:01.218Z",
+      "creator": {
+        "isGuest": true,
+        "id": "22OagXzwUQ5n7e39pQHu"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "cbfe22d8-bca7-4a4b-8e82-f3e3847b43a8",
+      "target": {
+        "source": "https://nrs.lib.harvard.edu/URN-3:FHCL:14518374:MANIFEST:2/canvas/canvas-drs:50820332",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"466.99709689988146,1192.7299410631306 573.281666499959,1198.1803778326623 577.3695785445442,1236.3338510590718 573.281666499959,1274.6286041813355 545.8444072479604,1303.1215692492624 487.2637728171181,1315.4480396584852 441.9975768026351,1312.666062062929\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "1c262be6-903b-4741-a7ad-9bd71be5b38e",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div data-entity-id=\"city_wall_gate\">\n  <h2>city_wall_gate</h2>\n  <div>\n      <p><strong>name:</strong> <span>建安城西門<span></p>\n    <p><strong>direction:</strong> <span>west<span></p>\n    <p><strong>texture:</strong> <span>unadorned<span></p>\n  </div>\n\n</div>"
+        }
+      ],
+      "created": "2025-05-08T15:35:09.051Z",
+      "creator": {
+        "isGuest": true,
+        "id": "22OagXzwUQ5n7e39pQHu"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "4f2a51a5-c7eb-4094-9ab8-630eea607cb4",
+      "target": {
+        "source": "https://nrs.lib.harvard.edu/URN-3:FHCL:14518374:MANIFEST:2/canvas/canvas-drs:50820332",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"635.962534023939,1184.5541689539207 656.4018863270217,1181.828911584184 679.5664440198801,1222.7076161903497 680.929046714768,1260.8610894167591 680.929046714768,1290.8006756137925 645.3325130721129,1311.4418630244481 623.6704377628253,1311.305909111353 620.9736964603292,1284.0256730995982\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "594db287-a8c2-4e25-aaf3-7e1e243b3aee",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div data-entity-id=\"city_wall_gate\">\n  <h2>city_wall_gate</h2>\n  <div>\n      <p><strong>name:</strong> <span>建安城威武門<span></p>\n    <p><strong>direction:</strong> <span>west<span></p>\n  </div>\n\n</div>"
+        }
+      ],
+      "created": "2025-05-08T15:35:14.667Z",
+      "creator": {
+        "isGuest": true,
+        "id": "22OagXzwUQ5n7e39pQHu"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "1b8f1379-8fd7-4fef-aff5-ce6d3c85e838",
+      "target": {
+        "source": "https://nrs.lib.harvard.edu/URN-3:FHCL:14518374:MANIFEST:2/canvas/canvas-drs:50820332",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"428.843909563257,1519.7595259324942 427.4813068683691,1653.2966172499764 531.040671078671,1645.1208971207275 547.3921113371684,1606.9674498842987 547.5121703095022,1570.296659735484 533.7451956904105,1537.1783949013613 489.8226185555624,1515.2982700281646\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "20da489c-4fd5-4afc-bfac-d10df6e12661",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div data-entity-id=\"city_wall_gate\">\n  <h2>city_wall_gate</h2>\n  <div>\n      <p><strong>name:</strong> <span>建安城院汀門<span></p>\n    <p><strong>direction:</strong> <span>west<span></p>\n    <p><strong>texture:</strong> <span>unadorned<span></p>\n  </div>\n\n</div>"
+        }
+      ],
+      "created": "2025-05-08T15:35:25.450Z",
+      "creator": {
+        "isGuest": true,
+        "id": "22OagXzwUQ5n7e39pQHu"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "d2b71b1a-b035-40bf-b7de-93a701d02985",
+      "target": {
+        "source": "https://nrs.lib.harvard.edu/URN-3:FHCL:14518374:MANIFEST:2/canvas/canvas-drs:50820332",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"586.9084211682899,1532.0231061263673 582.8205091237047,1646.544717836007 610.0729788611483,1654.6610869694355 652.3142861622018,1634.2199196217425 660.4900062914508,1563.3634879083966 626.4244191196461,1533.385760801216\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "da0a2eb9-7505-44a3-8169-b4638d7780e3",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div data-entity-id=\"city_wall_gate_tower\">\n  <h2>city_wall_gate_tower</h2>\n  <div>\n      <p><strong>name:</strong> <span>建安城院汀門樓<span></p>\n  </div>\n\n</div>"
+        }
+      ],
+      "created": "2025-05-08T15:35:30.371Z",
+      "creator": {
+        "isGuest": true,
+        "id": "22OagXzwUQ5n7e39pQHu"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "c6f1117e-3810-42e3-b9c4-3c4732108366",
+      "target": {
+        "source": "https://nrs.lib.harvard.edu/URN-3:FHCL:14518374:MANIFEST:2/canvas/canvas-drs:50820332",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"412.3559370154798,1918.961270301898 413.49152589448767,2039.326327648954 504.33309168596685,2031.377681978873 531.5854921167962,2002.9156963620903 534.9920854872838,1976.7479601627324 512.3761023007239,1933.810183366058 479.81748278057955,1922.8314530148682\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "9c7bd9d0-716e-4a46-bece-4d7622981b3d",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div data-entity-id=\"city_wall_gate\">\n  <h2>city_wall_gate</h2>\n  <div>\n      <p><strong>name:</strong> <span>建安城邀清門<span></p>\n    <p><strong>direction:</strong> <span>west<span></p>\n    <p><strong>texture:</strong> <span>unadorned<span></p>\n  </div>\n\n</div>"
+        }
+      ],
+      "created": "2025-05-08T15:35:43.699Z",
+      "creator": {
+        "isGuest": true,
+        "id": "22OagXzwUQ5n7e39pQHu"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "ee027896-98b3-49c3-948a-b8c952b436d0",
+      "target": {
+        "source": "https://nrs.lib.harvard.edu/URN-3:FHCL:14518374:MANIFEST:2/canvas/canvas-drs:50820332",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"976.8285395527668,2335.923589842702 1104.4328492418795,2329.382972155334 1092.92391093199,2242.720193241407 1070.0319361540621,2218.1930328536605 989.9096501755961,2239.4498220217697\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "5e78fbfd-6357-4a07-b051-7027a9782791",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div data-entity-id=\"city_wall_gate\">\n  <h2>city_wall_gate</h2>\n  <div>\n      <p><strong>name:</strong> <span>建安城南門<span></p>\n    <p><strong>direction:</strong> <span>south<span></p>\n    <p><strong>texture:</strong> <span>unadorned<span></p>\n  </div>\n\n</div>"
+        }
+      ],
+      "created": "2025-05-08T15:35:54.403Z",
+      "creator": {
+        "isGuest": true,
+        "id": "22OagXzwUQ5n7e39pQHu"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "fc837de5-c3cb-4434-a1d6-ba1b6d254b66",
+      "target": {
+        "source": "https://nrs.lib.harvard.edu/URN-3:FHCL:14518374:MANIFEST:2/canvas/canvas-drs:50820332",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"990.3885097330865,2189.6476191313077 1109.7543147078995,2186.377372663577 1103.2136970205315,2149.8517197796664 1075.4161654131483,2126.623840045716 1014.9157324967857,2125.8484128207538 988.7533241232678,2147.1326809248076\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "a2e8c1af-8364-45e3-b9db-05449fc18fd4",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div data-entity-id=\"city_wall_gate\">\n  <h2>city_wall_gate</h2>\n  <div>\n      <p><strong>name:</strong> <span>建安廣德門<span></p>\n    <p><strong>direction:</strong> <span>south<span></p>\n  </div>\n\n</div>"
+        }
+      ],
+      "created": "2025-05-08T15:36:05.427Z",
+      "creator": {
+        "isGuest": true,
+        "id": "22OagXzwUQ5n7e39pQHu"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "68df1b60-4d37-4766-b80e-5ddbd98c30e9",
+      "target": {
+        "source": "https://nrs.lib.harvard.edu/URN-3:FHCL:14518374:MANIFEST:2/canvas/canvas-drs:50820332",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"1937.2913988209527,2279.5808940167776 2063.1992295816785,2258.183050352201 2046.6940246781658,2165.1202716157013 1996.0044559169012,2155.30934508465 1951.4092329082932,2170.0257036932508 1953.2318176874694,2201.093481768365\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "bfa6b3d4-f6e6-4efd-b4ea-fbe800df874e",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div data-entity-id=\"city_wall_gate\">\n  <h2>city_wall_gate</h2>\n  <div>\n      <p><strong>name:</strong> <span>建安城通仙門<span></p>\n    <p><strong>direction:</strong> <span>south<span></p>\n    <p><strong>texture:</strong> <span>unadorned<span></p>\n  </div>\n\n</div>"
+        }
+      ],
+      "created": "2025-05-08T15:36:11.667Z",
+      "creator": {
+        "isGuest": true,
+        "id": "22OagXzwUQ5n7e39pQHu"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "3f765b84-8e87-41fb-a0ea-d96106e8fe75",
+      "target": {
+        "source": "https://nrs.lib.harvard.edu/URN-3:FHCL:14518374:MANIFEST:2/canvas/canvas-drs:50820332",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"1951.7104694626662,2137.4915106760595 2042.2512893020878,2125.9016322095285 2066.327547508213,2101.3500489662674 2040.1532822388913,2070.2816270286344 1971.2737506178973,2073.551935872318\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "9a111a28-803b-49b3-b9ac-5526ac648511",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div data-entity-id=\"city_wall_gate_tower\">\n  <h2>city_wall_gate_tower</h2>\n  <div>\n      <p><strong>name:</strong> <span>建安城通仙門樓<span></p>\n  </div>\n\n</div>"
+        }
+      ],
+      "created": "2025-05-08T15:36:15.292Z",
+      "creator": {
+        "isGuest": true,
+        "id": "22OagXzwUQ5n7e39pQHu"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "2a13fff1-f33b-4513-8e38-458b4d801bca",
+      "target": {
+        "source": "https://nrs.lib.harvard.edu/URN-3:FHCL:14518374:MANIFEST:2/canvas/canvas-drs:50820332",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"2494.7245273602152,2045.754404264934 2543.778972887614,1919.8480439787065 2444.0348338470453,1927.8716512619922 2406.0869759971006,1964.00690324904 2430.9334532089515,2034.504187368157 2450.575576286319,2049.0246507326647\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "ce6c4dae-21f0-4289-82ce-2e308e9fe2e1",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div data-entity-id=\"city_wall_gate\">\n  <h2>city_wall_gate</h2>\n  <div>\n      <p><strong>name:</strong> <span>建安城東門<span></p>\n    <p><strong>direction:</strong> <span>east<span></p>\n    <p><strong>texture:</strong> <span>unadorned<span></p>\n  </div>\n\n</div>"
+        }
+      ],
+      "created": "2025-05-08T15:36:23.042Z",
+      "creator": {
+        "isGuest": true,
+        "id": "22OagXzwUQ5n7e39pQHu"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "8228acad-4f8f-4fdc-8ee7-2f68a1fb58c0",
+      "target": {
+        "source": "https://nrs.lib.harvard.edu/URN-3:FHCL:14518374:MANIFEST:2/canvas/canvas-drs:50820332",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"2324.6690912481854,1952.5508829117323 2349.1963140118846,1887.1449555418676 2386.8047721503194,1882.2395234643182 2409.6968716801534,1914.9424871492506 2386.8047721503194,1980.348414519116 2368.8181670739878,2001.6053284391312\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "a79ce7f8-a9f7-49a8-9406-ae41f2620e6c",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div data-entity-id=\"city_wall_gate\">\n  <h2>city_wall_gate</h2>\n  <div>\n      <p><strong>name:</strong> <span>建安城政和門<span></p>\n    <p><strong>direction:</strong> <span>east<span></p>\n  </div>\n\n</div>"
+        }
+      ],
+      "created": "2025-05-08T15:36:28.850Z",
+      "creator": {
+        "isGuest": true,
+        "id": "22OagXzwUQ5n7e39pQHu"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "3e9c7cd7-23cb-4835-b19b-de918e9e5d99",
+      "target": {
+        "source": "https://nrs.lib.harvard.edu/URN-3:FHCL:14518374:MANIFEST:2/canvas/canvas-drs:50820332",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"564.1377711799446,1926.9608138282736 599.4569719596718,1912.8331694449316 627.7123056370418,1938.7338807548495 637.1307501961651,2016.4361943273466 590.0384824898623,2049.400817650308 573.5562157390681,2039.9823281804981\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "2e351606-be8f-4314-aa98-abaec860a8c3",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div data-entity-id=\"city_wall_gate_tower\">\n  <h2>city_wall_gate_tower</h2>\n  <div>\n      <p><strong>name:</strong> <span>建安城邀清門樓<span></p>\n  </div>\n\n</div>"
+        }
+      ],
+      "created": "2025-05-08T15:37:08.067Z",
+      "creator": {
+        "isGuest": true,
+        "id": "22OagXzwUQ5n7e39pQHu"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "25692fdc-d4f6-4ca3-9b9c-ecc0b3115ea3",
+      "target": {
+        "source": "https://nrs.lib.harvard.edu/URN-3:FHCL:14518374:MANIFEST:2/canvas/canvas-drs:50820332",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=1968,2283,113,73"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "9a8cc343-3d32-400d-9e51-88fcd2955d7c",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div data-entity-id=\"bridge\">\n  <h2>bridge</h2>\n  <div>\n      <p><strong>id:</strong> <span>chang_qiao<span></p>\n    <p><strong>name:</strong> <span>長橋<span></p>\n    <p><strong>texture:</strong> <span>unadorned<span></p>\n    <p><strong>bridge_type:</strong> <span>text only<span></p>\n    <p><strong>relation to wall:</strong> <span>extramural<span></p>\n    <p><strong>bridge_cover:</strong> <span>no<span></p>\n  </div>\n\n</div>"
+        }
+      ],
+      "created": "2025-05-08T15:46:34.075Z",
+      "creator": {
+        "isGuest": true,
+        "id": "22OagXzwUQ5n7e39pQHu"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "7a84a8cc-bd41-4cb1-83b8-ca473bca1e00",
+      "target": {
+        "source": "https://nrs.lib.harvard.edu/URN-3:FHCL:14518374:MANIFEST:2/canvas/canvas-drs:50820332",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=2696,1104,91,80"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "4a96a8f0-a974-48cd-a83b-7f048ee07397",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div data-entity-id=\"bridge\">\n  <h2>bridge</h2>\n  <div>\n      <p><strong>id:</strong> <span>jian'an_unnamed_qiao1<span></p>\n    <p><strong>name:</strong> <span>建安_unnamed_橋1<span></p>\n    <p><strong>texture:</strong> <span>unadorned<span></p>\n    <p><strong>bridge_type:</strong> <span>arch bridge<span></p>\n    <p><strong>relation to wall:</strong> <span>extramural<span></p>\n    <p><strong>bridge_cover:</strong> <span>no<span></p>\n  </div>\n\n</div>"
+        }
+      ],
+      "created": "2025-05-08T15:47:31.754Z",
+      "creator": {
+        "isGuest": true,
+        "id": "22OagXzwUQ5n7e39pQHu"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "a42c967d-0853-4e63-bc6a-4cfe7538b6ae",
+      "target": {
+        "source": "https://nrs.lib.harvard.edu/URN-3:FHCL:14518374:MANIFEST:2/canvas/canvas-drs:50820332",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=156,1724,182,133"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "fe5a3a5c-32ac-4966-9fc5-133e35734f52",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div data-entity-id=\"bridge\">\n  <h2>bridge</h2>\n  <div>\n      <p><strong>id:</strong> <span>tongdu_qiao<span></p>\n    <p><strong>name:</strong> <span>通都橋<span></p>\n    <p><strong>texture:</strong> <span>unadorned<span></p>\n    <p><strong>bridge_type:</strong> <span>arch bridge<span></p>\n    <p><strong>relation to wall:</strong> <span>extramural<span></p>\n    <p><strong>bridge_pillar_quant:</strong> <span>4<span></p>\n    <p><strong>bridge_cover:</strong> <span>no<span></p>\n  </div>\n\n</div>"
+        }
+      ],
+      "created": "2025-05-08T15:48:29.323Z",
+      "creator": {
+        "isGuest": true,
+        "id": "22OagXzwUQ5n7e39pQHu"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "fb5e609b-a895-4a8a-9aaa-673b33d3fbb5",
+      "target": {
+        "source": "https://nrs.lib.harvard.edu/URN-3:FHCL:14518374:MANIFEST:2/canvas/canvas-drs:50820332",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=301,1179,92,87"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "8f895216-8872-45ea-bc4a-e41cda9cf1bc",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div data-entity-id=\"bridge\">\n  <h2>bridge</h2>\n  <div>\n      <p><strong>id:</strong> <span>jian'an_unnamed_qiao3<span></p>\n    <p><strong>name:</strong> <span>建安_unnamed_橋3<span></p>\n    <p><strong>texture:</strong> <span>striped<span></p>\n    <p><strong>bridge_type:</strong> <span>crossbeam bridge<span></p>\n    <p><strong>relation to wall:</strong> <span>extramural<span></p>\n    <p><strong>bridge_pillar_quant:</strong> <span>5<span></p>\n    <p><strong>bridge_cover:</strong> <span>no<span></p>\n  </div>\n\n</div>"
+        }
+      ],
+      "created": "2025-05-08T15:49:23.946Z",
+      "creator": {
+        "isGuest": true,
+        "id": "22OagXzwUQ5n7e39pQHu"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "015159d7-a7e0-4543-a0b2-e49033f486b6",
+      "target": {
+        "source": "https://nrs.lib.harvard.edu/URN-3:FHCL:14518374:MANIFEST:2/canvas/canvas-drs:50820332",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=281,709,83,127"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "77c01b9b-aea7-47d1-b817-90d5886e4ac6",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div data-entity-id=\"bridge\">\n  <h2>bridge</h2>\n  <div>\n      <p><strong>id:</strong> <span>jian'an_unnamed_qiao2<span></p>\n    <p><strong>name:</strong> <span>建安_unnamed_橋2<span></p>\n    <p><strong>texture:</strong> <span>striped<span></p>\n    <p><strong>bridge_type:</strong> <span>crossbeam bridge<span></p>\n    <p><strong>relation to wall:</strong> <span>extramural<span></p>\n    <p><strong>bridge_pillar_quant:</strong> <span>4<span></p>\n    <p><strong>bridge_cover:</strong> <span>no<span></p>\n  </div>\n\n</div>"
+        }
+      ],
+      "created": "2025-05-08T15:49:33.459Z",
+      "creator": {
+        "isGuest": true,
+        "id": "22OagXzwUQ5n7e39pQHu"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "1355e3b3-814a-4bbb-bde2-69c35c9584a1",
+      "target": {
+        "source": "https://nrs.lib.harvard.edu/URN-3:FHCL:14518374:MANIFEST:2/canvas/canvas-drs:50820332",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=833,1169,67,56"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "67fb58a1-1cdf-4b2d-928e-67339ee46262",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div data-entity-id=\"bridge\">\n  <h2>bridge</h2>\n  <div>\n      <p><strong>id:</strong> <span>jian'an_unnamed_qiao4<span></p>\n    <p><strong>name:</strong> <span>建安_unnamed_橋4<span></p>\n    <p><strong>texture:</strong> <span>unadorned<span></p>\n    <p><strong>bridge_type:</strong> <span>arch bridge<span></p>\n    <p><strong>relation to wall:</strong> <span>intramural<span></p>\n    <p><strong>bridge_pillar_quant:</strong> <span> – <span></p>\n    <p><strong>bridge_cover:</strong> <span>no<span></p>\n  </div>\n\n</div>"
+        }
+      ],
+      "created": "2025-05-08T15:50:50.770Z",
+      "creator": {
+        "isGuest": true,
+        "id": "22OagXzwUQ5n7e39pQHu"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "d85334b5-c606-433f-9ed8-949f2bfddef3",
+      "target": {
+        "source": "https://nrs.lib.harvard.edu/URN-3:FHCL:14518374:MANIFEST:2/canvas/canvas-drs:50820332",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=878,1253,62,58"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "01410dee-d0fb-43a4-be1f-fbcafb953d26",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div data-entity-id=\"bridge\">\n  <h2>bridge</h2>\n  <div>\n      <p><strong>id:</strong> <span>jian'an_unnamed_qiao5<span></p>\n    <p><strong>name:</strong> <span>建安_unnamed_橋5<span></p>\n    <p><strong>texture:</strong> <span>unadorned<span></p>\n    <p><strong>bridge_type:</strong> <span>arch bridge<span></p>\n    <p><strong>relation to wall:</strong> <span>intramural<span></p>\n    <p><strong>bridge_pillar_quant:</strong> <span> – <span></p>\n    <p><strong>bridge_cover:</strong> <span>no<span></p>\n  </div>\n\n</div>"
+        }
+      ],
+      "created": "2025-05-08T15:50:52.692Z",
+      "creator": {
+        "isGuest": true,
+        "id": "22OagXzwUQ5n7e39pQHu"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "62185ee5-3a37-4a6a-9ce1-98184e3cf3cd",
+      "target": {
+        "source": "https://nrs.lib.harvard.edu/URN-3:FHCL:14518374:MANIFEST:2/canvas/canvas-drs:50820332",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=832,1470,118,101"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "fdfb7047-969f-43ad-a80d-7b94bb642b64",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div data-entity-id=\"bridge\">\n  <h2>bridge</h2>\n  <div>\n      <p><strong>id:</strong> <span>jian'an_unnamed_qiao6<span></p>\n    <p><strong>name:</strong> <span>建安_unnamed_橋6<span></p>\n    <p><strong>texture:</strong> <span>unadorned<span></p>\n    <p><strong>bridge_type:</strong> <span>arch bridge<span></p>\n    <p><strong>relation to wall:</strong> <span>intramural<span></p>\n    <p><strong>bridge_pillar_quant:</strong> <span> – <span></p>\n    <p><strong>bridge_cover:</strong> <span>yes<span></p>\n  </div>\n\n</div>"
+        }
+      ],
+      "created": "2025-05-08T15:50:55.562Z",
+      "creator": {
+        "isGuest": true,
+        "id": "22OagXzwUQ5n7e39pQHu"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "b70fa797-51e7-4919-823a-eba555d2aa8e",
+      "target": {
+        "source": "https://nrs.lib.harvard.edu/URN-3:FHCL:14518374:MANIFEST:2/canvas/canvas-drs:50820332",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=861,1645,106,74"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "5f504969-b229-484a-8b06-376f8bd74d31",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div data-entity-id=\"bridge\">\n  <h2>bridge</h2>\n  <div>\n      <p><strong>id:</strong> <span>jian'an_unnamed_qiao7<span></p>\n    <p><strong>name:</strong> <span>建安_unnamed_橋7<span></p>\n    <p><strong>texture:</strong> <span>unadorned<span></p>\n    <p><strong>bridge_type:</strong> <span>arch bridge<span></p>\n    <p><strong>relation to wall:</strong> <span>intramural<span></p>\n    <p><strong>bridge_pillar_quant:</strong> <span> – <span></p>\n    <p><strong>bridge_cover:</strong> <span>no<span></p>\n  </div>\n\n</div>"
+        }
+      ],
+      "created": "2025-05-08T15:50:57.659Z",
+      "creator": {
+        "isGuest": true,
+        "id": "22OagXzwUQ5n7e39pQHu"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "4325b935-9ad9-46a8-a1fa-110c5cb34435",
+      "target": {
+        "source": "https://nrs.lib.harvard.edu/URN-3:FHCL:14518374:MANIFEST:2/canvas/canvas-drs:50820332",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=1046,1738,105,123"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "c82bfeb8-e495-41a2-b8c2-b9eae336e80d",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div data-entity-id=\"bridge\">\n  <h2>bridge</h2>\n  <div>\n      <p><strong>id:</strong> <span>jian'an_unnamed_qiao8<span></p>\n    <p><strong>name:</strong> <span>建安_unnamed_橋8<span></p>\n    <p><strong>texture:</strong> <span>unadorned<span></p>\n    <p><strong>bridge_type:</strong> <span>arch bridge<span></p>\n    <p><strong>relation to wall:</strong> <span>intramural<span></p>\n    <p><strong>bridge_pillar_quant:</strong> <span> – <span></p>\n    <p><strong>bridge_cover:</strong> <span>no<span></p>\n  </div>\n\n</div>"
+        }
+      ],
+      "created": "2025-05-08T15:51:00.802Z",
+      "creator": {
+        "isGuest": true,
+        "id": "22OagXzwUQ5n7e39pQHu"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "e232934f-161e-4741-931a-7f8459fef5b7",
+      "target": {
+        "source": "https://nrs.lib.harvard.edu/URN-3:FHCL:14518374:MANIFEST:2/canvas/canvas-drs:50820332",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=1828,1720,108,149"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "9f926c0f-1df9-4536-b498-3aba017ae731",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div data-entity-id=\"bridge\">\n  <h2>bridge</h2>\n  <div>\n      <p><strong>id:</strong> <span>jian'an_unnamed_qiao9<span></p>\n    <p><strong>name:</strong> <span>建安_unnamed_橋9<span></p>\n    <p><strong>texture:</strong> <span>unadorned<span></p>\n    <p><strong>bridge_type:</strong> <span>arch bridge<span></p>\n    <p><strong>relation to wall:</strong> <span>intramural<span></p>\n    <p><strong>bridge_pillar_quant:</strong> <span> – <span></p>\n    <p><strong>bridge_cover:</strong> <span>no<span></p>\n  </div>\n\n</div>"
+        }
+      ],
+      "created": "2025-05-08T15:51:03.066Z",
+      "creator": {
+        "isGuest": true,
+        "id": "22OagXzwUQ5n7e39pQHu"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "49dd025e-c54a-4556-a756-921973ee0ef2",
+      "target": {
+        "source": "https://nrs.lib.harvard.edu/URN-3:FHCL:14518374:MANIFEST:2/canvas/canvas-drs:50820332",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=1962,1666,78,175"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "9ffcc0e3-404f-45bb-bb66-8dc3090312fa",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div data-entity-id=\"bridge\">\n  <h2>bridge</h2>\n  <div>\n      <p><strong>id:</strong> <span>jian'an_unnamed_qiao10<span></p>\n    <p><strong>name:</strong> <span>建安_unnamed_橋10<span></p>\n    <p><strong>texture:</strong> <span>unadorned<span></p>\n    <p><strong>bridge_type:</strong> <span>arch bridge<span></p>\n    <p><strong>relation to wall:</strong> <span>intramural<span></p>\n    <p><strong>bridge_cover:</strong> <span>yes<span></p>\n  </div>\n\n</div>"
+        }
+      ],
+      "created": "2025-05-08T15:51:05.778Z",
+      "creator": {
+        "isGuest": true,
+        "id": "22OagXzwUQ5n7e39pQHu"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "ea1e4849-5173-4590-9d6e-ac502a78a8f4",
+      "target": {
+        "source": "https://nrs.lib.harvard.edu/URN-3:FHCL:14518374:MANIFEST:2/canvas/canvas-drs:50820332",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=2047,1609,95,132"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "079d892b-7bbf-484e-ac13-7622856df527",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div data-entity-id=\"bridge\">\n  <h2>bridge</h2>\n  <div>\n      <p><strong>id:</strong> <span>jian'an_unnamed_qiao11<span></p>\n    <p><strong>name:</strong> <span>建安_unnamed_橋11<span></p>\n    <p><strong>texture:</strong> <span>unadorned<span></p>\n    <p><strong>bridge_type:</strong> <span>arch bridge<span></p>\n    <p><strong>relation to wall:</strong> <span>intramural<span></p>\n    <p><strong>bridge_pillar_quant:</strong> <span> – <span></p>\n    <p><strong>bridge_cover:</strong> <span>no<span></p>\n  </div>\n\n</div>"
+        }
+      ],
+      "created": "2025-05-08T15:51:07.714Z",
+      "creator": {
+        "isGuest": true,
+        "id": "22OagXzwUQ5n7e39pQHu"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "e1b9e89c-7bcf-4e56-9e16-563ed75280d2",
+      "target": {
+        "source": "https://nrs.lib.harvard.edu/URN-3:FHCL:14518374:MANIFEST:2/canvas/canvas-drs:50820332",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"2155.369815229847,1492.7049171369451 2179.896975617594,1442.2138255504742 2196.345970244448,1408.4690363838408 2216.5789190717846,1391.4330374941258 2241.570022503454,1388.9012725562256 2242.57763522173,1450.4636098358917 2216.687768179174,1506.4379046449205 2196.159516347835,1556.844144335798 2182.6208360637247,1590.5752166233342 2163.545425580027,1643.9729656101538 2145.831387848935,1653.6359556040677 2128.074800577631,1678.0685900675785 2113.2526395256887,1704.8163955097784 2054.6534500224575,1742.07141760021 2029.0431524586695,1755.6936789685358 1957.7892017135368,1803.3831657077333 1911.4442214357346,1815.6467978815672 1762.5969203244372,1815.7600964386056 1702.1891857659364,1812.204853662889 1646.836677564551,1811.7757663820269 1614.5281744188346,1827.790432222242 1545.8890957360495,1822.6450002755173 1461.7943356599978,1845.6244730087867 1318.8366870340667,1858.0081075953863 1202.7889805141303,1849.6612963347598 1136.1252806464984,1844.2608082316226 1121.1386718617946,1831.9982381400646 1040.7438653443512,1788.3942761641624 971.250088305854,1767.9549238610798 920.83295691563,1732.6081807532285 892.1293965430918,1695.8681116594191 869.0081264855089,1620.6684906701726 860.8765671236044,1543.088031839593 882.6795494177269,1451.9367992204118 907.2068260068298,1385.0579267718424 912.657340746303,1333.2782446666913 893.542064254936,1280.0973810035196 866.3281214006644,1232.444085846165 844.3856376183224,1205.1916161087213 813.1798890679692,1145.2361878843415 802.2848591016403,1089.3686197245854 796.8343443621673,1034.863680249698 792.746432317582,978.9909936613589 826.8120194893867,969.4577762708155 821.3615047499136,1007.491158409331 826.8120194893867,1077.1211200109792 830.8999315339719,1104.3962185067137 851.3392838370547,1153.7869554310505 896.3057965278838,1209.2794761733458 929.0087810048008,1261.0826874208833 950.8324458124895,1318.169648237878 952.1741118031281,1360.6113326304521 938.5472247597569,1425.9732103959914 922.1956635704398,1474.9910301234418 907.20682600683,1514.5072359946414 905.8442233119422,1563.561556770134 918.1078554857763,1623.3298492140607 943.9977225283322,1682.2745874942357 982.1511177848004,1722.988619090094 1031.2055425202147,1751.6036915224256 1099.3685222781892,1758.416808956786 1164.74287156216,1785.6692786942301 1213.4904878901161,1803.2301201242885 1269.6647566827698,1817.0096604762591 1343.2464457658523,1821.0974685609224 1442.8103152186934,1796.5703081731765 1544.915972720042,1781.562055700169 1638.9355968732264,1770.6803891506595 1705.7041685219476,1767.9551837608838 1808.0129650802314,1772.0430438255082 1891.1007070075016,1766.592529086035 1960.5155000747077,1737.9774566537035 2021.8327758923267,1721.6260683751668 2061.3488778036044,1679.384657114192 2121.1776531101764,1618.193378236566 2145.9388256888956,1575.6617371877703 2151.2819031852628,1526.7706602486317\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "79b16804-547d-45c6-877c-04c515e27489",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div data-entity-id=\"water\">\n  <h2>water</h2>\n  <div>\n      <p><strong>type:</strong> <span>river<span></p>\n    <p><strong>relation to wall:</strong> <span>intramural<span></p>\n  </div>\n\n</div>"
+        }
+      ],
+      "created": "2025-05-08T15:56:28.162Z",
+      "creator": {
+        "isGuest": true,
+        "id": "22OagXzwUQ5n7e39pQHu"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "d9f704f9-3057-46f6-b59f-b75dac8e7764",
+      "target": {
+        "source": "https://nrs.lib.harvard.edu/URN-3:FHCL:14518374:MANIFEST:2/canvas/canvas-drs:50820332",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><g><path fill-rule=\"evenodd\" d=\"M 121.41116078008889,2457.489079554042 L 135.26503836751573,2235.6507266390345 L 170.63456343702092,2117.920057373278 L 137.49971294986506,1785.360546566422 L 166.6598535645937,1549.4006277080005 L 137.2271862481544,1438.9567059947367 L 133.3028530613057,1130.8597278792624 L 160.7367591976472,1057.1459816970807 L 182.35410681478467,922.2148049892444 L 150.96216289446681,806.3634350103349 L 141.15151943500325,658.0595414095743 L 152.92459384669337,448.1064621565072 L 243.18474367664962,461.84175929997934 L 245.14692898285998,599.194206776696 L 249.07129959528052,703.383432699053 L 302.0500783095282,734.6893677488183 L 408.0076731635951,654.1350210948665 L 549.2844912527322,656.0971689755049 L 663.0907899060685,620.7780580171504 L 771.0105700663456,524.6312774174194 L 888.7412393321026,477.53901719623104 L 1077.1104486319293,389.2408468318402 L 1186.992376672845,393.1651987314751 L 1077.2833335520897,436.3331444786005 L 1007.5880189799705,497.4512098792853 L 904.594192702587,565.6699938595486 L 788.2350758296892,639.4870678743328 L 705.9710201330374,687.7064079654847 L 602.5520913426654,752.2104688321272 L 494.33715909116444,871.9400175776569 L 430.6926728845293,966.4758469250858 L 407.9010188529719,1066.3532157800905 L 372.71706557828395,1299.6537248558914 L 360.9154690807647,1413.4978154036555 L 347.1802093628642,1719.5975255541662 L 356.991098468344,1949.1723455926212 L 368.7642103056056,2113.9954622074256 L 439.4025819246025,2300.4025049138286 L 539.3007491291455,2361.0569593995315 L 771.0621301234128,2396.659602263745 L 940.1482441136824,2374.970556999615 L 1187.0139668749832,2368.9904953884047 L 1459.7135521698144,2364.977922526533 L 1730.484174920448,2333.5727640594923 L 1936.3617659001557,2323.9483543326346 L 2140.6700360537407,2300.402355211542 L 2364.304301765491,2267.0451675803943 L 2444.8156458444905,2243.4990187570143 L 2479.8884172988546,2167.0600235003394 L 2503.7677078206034,2119.6437313317797 L 2533.172882278071,2131.5236513473897 L 2501.653969993883,2211.014308345534 L 2544.819951427062,2236.6483604865957 L 2684.1343386216276,2225.839625495924 L 2852.8825202663265,2208.1799078395784 L 2925.635395990858,2190.702837837067 L 2972.7937898030636,2127.546094400743 L 3047.0938481959747,2080.627444434028 L 3120.0433613024793,2045.3182990649927 L 3121.7232674683655,2206.2176933966716 L 3070.6833094783897,2249.385836654648 L 3004.068484345288,2284.704872761859 L 2900.961428231635,2343.3973356638444 L 2794.698364272818,2366.779292268878 L 2678.3990179615193,2398.395419036719 L 2561.1455051722905,2426.2316382043073 L 2381.92652688551,2427.9865367854495 L 2307.7594885322305,2449.531349433496 L 2172.121633457146,2459.3389020604773 L 2078.458910197515,2440.0852550423306 L 2003.449044273868,2473.4718907296974 L 1930.9364033906616,2528.1936655151094 L 1888.2969641947843,2535.8792221801637 L 1434.2184462632254,2545.6747572453883 L 973.1148893817848,2571.183104105984 L 769.9492113651062,2561.356332462712 L 700.6831471532096,2506.431441197849 L 435.42690083128025,2488.771695012951 L 392.32524571563977,2416.344047693861 L 306.48082904874906,2368.8086774739522 L 243.51982635757864,2391.4020825389057 L 162.30981276480085,2440.0148574432756 Z M 237.29833747016156,1424.8683103946057 L 260.84449109886583,1478.5612487956507 L 284.39069109434195,1452.4374351776246 L 296.1700214973218,1329.130861180382 L 323.5847547038144,1182.010209433675 L 339.4540910815756,1036.6371649100172 L 382.49937645957635,934.7264345413587 L 378.57508069829953,826.8066543810816 L 378.57508069829953,769.9034676288416 L 296.16086251126234,846.4263136516887 L 260.17697985549967,1066.101249294411 L 241.2227080728831,1262.141164571897 Z\" /><path fill-rule=\"evenodd\" d=\"M 2589.56986967926,787.2204038568752 L 2667.272003609013,839.0220061194553 L 2712.0096938585493,900.2418508430707 L 2756.967862084809,884.5842584454383 L 2777.530329492303,809.7591738096373 L 2815.895187016826,730.2202401700278 L 2848.8235108224003,659.3657330409732 L 2836.804095494605,737.3875504839308 L 2808.5488067279216,855.5545627948228 L 2750.27588470368,926.1773485120481 L 2742.3239388097713,980.0322895784041 L 2742.445693857619,1068.174406271807 L 2749.677406370226,1152.0719519314523 L 2747.109547757425,1265.287664957533 L 2693.20016467353,1388.1004298078965 L 2707.300359302272,1512.4413534803502 L 2674.3357359793113,1637.2361144018955 L 2636.6619577428182,1691.4519999117688 L 2629.5980457297746,1750.1403464554073 L 2631.952623186541,1858.4014608886403 L 2617.824978803199,1898.5977151364652 L 2598.943030249512,1912.7253595198072 L 2606.250508825552,1797.3493575321888 L 2627.2230140891734,1648.986663533068 L 2662.561558047551,1552.3403430903345 L 2664.9173712619036,1465.226103424574 L 2655.4989319615993,1406.2704225933696 L 2690.8181372057434,1319.2232129131644 L 2721.428003675082,1236.8488596150514 L 2719.073426228279,1156.7616925954374 L 2702.591204388731,1053.2893913831251 L 2709.6549367590383,973.2345379398307 L 2671.9811585225452,895.3286859943961 L 2629.3955405543147,860.1956003885007 Z\" /></g></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "d7651f8c-5626-49a2-9d84-c4a36e7dd4cf",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div data-entity-id=\"water\">\n  <h2>water</h2>\n  <div>\n      <p><strong>type:</strong> <span>river<span></p>\n    <p><strong>relation to wall:</strong> <span>extramural<span></p>\n  </div>\n\n</div>"
+        }
+      ],
+      "created": "2025-05-08T15:58:37.458Z",
+      "creator": {
+        "isGuest": true,
+        "id": "22OagXzwUQ5n7e39pQHu"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "d617a3df-b922-46c6-907c-1ae2aca18c46",
+      "target": {
+        "source": "https://nrs.lib.harvard.edu/URN-3:FHCL:14518374:MANIFEST:2/canvas/canvas-drs:50820332",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"2641.4996569787218,537.2393136632976 2701.077999243615,446.9704480623086 2846.2101129983885,425.53582086850116 2890.542031599616,433.48447736774085 2940.459083113824,424.42004176506515 3027.838443078318,427.8586139209306 3079.9269426752417,491.3671689136429 3060.8270963941563,531.1477266902718 2984.743659094295,617.4449238667434 2735.853863050733,602.6774596969441 2737.2003380085357,603.8123807392886 2675.8822637726335,569.746793567484\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "e00f2dbc-c2ec-4f63-ae6c-c3020c5b0b84",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div data-entity-id=\"landform\">\n  <h2>landform</h2>\n  <div>\n      <p><strong>id:</strong> <span>baihe_shan<span></p>\n    <p><strong>name:</strong> <span>白鶴山<span></p>\n    <p><strong>type:</strong> <span>mountain<span></p>\n    <p><strong>DILA_PL:</strong> <span>PL56625<span></p>\n    <p><strong>relation to wall:</strong> <span>extramural<span></p>\n  </div>\n\n</div>"
+        }
+      ],
+      "created": "2025-05-08T15:59:17.652Z",
+      "creator": {
+        "isGuest": true,
+        "id": "22OagXzwUQ5n7e39pQHu"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "01105fca-78ee-4ce8-ad71-d07268f546b0",
+      "target": {
+        "source": "https://nrs.lib.harvard.edu/URN-3:FHCL:14518374:MANIFEST:2/canvas/canvas-drs:50820332",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"2663.170266868718,2658.6914923726254 2745.9851247394267,2501.4878596404874 2830.7764570862937,2334.676943434276 2931.5223084813083,2285.231136799392 3050.488347557087,2279.6882327163007 3118.603156086435,2351.160598428803 3120.985924280098,2524.1905388905175 3119.5841930101274,2668.315383701024\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "f40e3010-1d05-437d-8c1b-681e8b805fd4",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div data-entity-id=\"landform\">\n  <h2>landform</h2>\n  <div>\n      <p><strong>id:</strong> <span>li_shan<span></p>\n    <p><strong>name:</strong> <span>梨山<span></p>\n    <p><strong>type:</strong> <span>mountain<span></p>\n    <p><strong>relation to wall:</strong> <span>extramural<span></p>\n  </div>\n\n</div>"
+        }
+      ],
+      "created": "2025-05-08T16:00:33.378Z",
+      "creator": {
+        "isGuest": true,
+        "id": "22OagXzwUQ5n7e39pQHu"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "7a41ee1f-0810-46bd-8bc9-56855112a7b5",
+      "target": {
+        "source": "https://nrs.lib.harvard.edu/URN-3:FHCL:14518374:MANIFEST:2/canvas/canvas-drs:50820332",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"1647.6241140746442,2393.5926240835984 1793.5075782661788,2363.3646825306773 1953.1962219991665,2367.964580685634 1797.2500920010818,2420.5357243839653 1698.2096037705,2429.0880289551706 1653.4819155382218,2423.1643219157095\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "290a3917-5fb7-4516-a82b-ff6f0a32d791",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div data-entity-id=\"landform\">\n  <h2>landform</h2>\n  <div>\n      <p><strong>id:</strong> <span>?xian_shan<span></p>\n    <p><strong>name:</strong> <span>？仙山<span></p>\n    <p><strong>type:</strong> <span>mountain<span></p>\n    <p><strong>relation to wall:</strong> <span>extramural<span></p>\n  </div>\n\n</div>"
+        }
+      ],
+      "created": "2025-05-08T16:01:17.242Z",
+      "creator": {
+        "isGuest": true,
+        "id": "22OagXzwUQ5n7e39pQHu"
+      },
+      "motivation": "commenting"
+    }
+  ]
+}

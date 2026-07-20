@@ -1,0 +1,823 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://fonziedw.github.io/IMMARKUSmanifests/b4f1dd1197fde8b4/annotations-112217883.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "id": "6315aacf-a3db-4f53-b991-e137f9233078",
+      "target": {
+        "source": "https://nrs.lib.harvard.edu/URN-3:FHCL:12229262:MANIFEST:2/canvas/canvas-drs:48635299",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><g><path fill-rule=\"evenodd\" d=\"M 124.90378772562467,1695.7111184488663 L 160.4025858342095,1466.2642630855853 L 295.9048947572169,1411.1057217472512 L 282.2059806540974,1332.708563764149 L 281.3230590819128,831.8374443278951 L 377.7569108425722,774.8853892031156 L 416.3830278811338,682.030230250284 L 510.8693797008912,665.519222343005 L 618.532399631567,746.547696671428 L 1223.0120492199553,691.3503125726411 L 1257.8217532385863,491.0087154105961 L 1348.7528150345133,490.6471604929183 L 1416.2832391029708,710.9546236644956 L 1412.3324148474715,505.9730717255873 L 1510.2276466157582,500.5497479604228 L 1491.8080441289676,601.7248657572164 L 1514.544238713317,686.1907522541816 L 1571.886969861651,608.9895297910274 L 1731.3874850807656,512.6341859344574 L 1813.2504523287082,519.6518994443916 L 1921.134422486852,561.3914060518437 L 1989.2341086120043,668.0902795353793 L 2254.387624664062,616.5687037663151 L 2560.222912250717,662.3857463897987 L 2653.845549544911,527.3248982528835 L 2762.7338389188285,531.9045938768004 L 2854.809824620734,659.3928751268005 L 2789.867569965423,746.8699035175504 L 2843.4270629917437,815.5665032841312 L 2994.992403485323,1039.3615729196956 L 3033.7435853400884,1425.5169781680215 L 3060.5417610123186,1469.0925819110898 L 3138.8951043178713,1514.5156261803004 L 3144.4477710816527,1694.2532290463614 L 3141.0408011155355,1736.7060115002837 L 3025.4034866116363,1774.6291050878053 L 2946.462585865464,2621.458528043101 L 2773.721091139366,2742.0697192559164 L 2609.956799815709,2767.579427336506 L 2478.0512688196095,2789.550810931389 L 2187.520051278014,2828.8228131142355 L 1921.0741633339064,2814.8828623993313 L 1659.5293531627624,2818.558670729054 L 1405.307523738312,2811.387831528447 L 1095.8451501190018,2804.8798430102497 L 801.1578058274072,2826.4526197650157 L 736.1180934140623,2797.869694884166 L 562.772596771948,2764.686987995085 L 210.83905718139331,2538.4741278347724 L 172.49414952324784,2337.8111485236814 L 256.69627257350777,1772.8232933662593 L 165.06218732654068,1767.739475267615 Z M 334.1694568781,2261.0409876701283 L 395.85474311076894,2412.110684106437 L 402.2020405544431,2471.747159138932 L 738.6088050691744,2663.732820425761 L 948.5717803183077,2682.9354038313063 L 1146.8243935115488,2651.600644299244 L 1288.1529243000564,2631.594605521081 L 1553.422315077733,2657.867596205657 L 1776.3990893342498,2639.130832855827 L 1863.0903339095914,2618.55698322461 L 1864.0288318781,2483.9115136116125 L 1780.5699050475105,2442.748748886334 L 1827.9304265529674,2393.2650795197324 L 1915.2420343086333,2410.3028862632223 L 1982.5730628820327,2409.6809152246046 L 2079.7766858100754,2388.5694416887586 L 2212.4271678291393,2484.3413221047035 L 2347.8897436523634,2599.8581183027104 L 2424.696471605403,2568.459749152581 L 2468.607110553493,2522.0575142935936 L 2516.0913230751567,2547.1267509060776 L 2615.994297729838,2571.2540698150447 L 2743.179480380535,2533.3368951392845 L 2833.3977389404918,2252.4038424144956 L 2922.3621531616723,2274.584797821873 L 2933.6573320319453,1677.5131262868406 L 2807.8679444755867,1588.6894454799199 L 2837.656052415361,1373.021937085206 L 2946.1079563874146,1305.3283733281007 L 2843.420844713888,911.2359616735943 L 2539.0518631822592,836.4744392515839 L 2354.739200703923,818.456952520648 L 2194.7086533618008,779.810749097771 L 2074.57431227238,854.1303710648422 L 1919.6480300475105,897.9367465734172 L 1629.6141381054074,931.8260634975627 L 1492.1495126623283,883.6774423928317 L 470.4154016896251,897.5571339547901 L 389.4471865141485,1198.8328123018441 L 432.0905804157949,1344.298407514149 L 468.2931553020798,1459.3361407783495 L 466.1038554806437,1569.3194090088105 L 410.55828035728547,1716.9011689407298 L 340.7778773178747,2093.098728408863 Z\" /></g></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "6a92ca39-1f36-4c66-b298-4937deddd3a3",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div data-entity-id=\"city_wall\">\n  <h2>city_wall</h2>\n  <div>\n      <p><strong>id:</strong> <span>penglai_cheng<span></p>\n    <p><strong>name:</strong> <span>蓬萊縣城<span></p>\n    <p><strong>TGAZ:</strong> <span>hvd_1017<span></p>\n    <p><strong>texture:</strong> <span>striped<span></p>\n    <p><strong>road_presence:</strong> <span>intramural<span></p>\n  </div>\n\n</div>"
+        }
+      ],
+      "created": "2025-05-29T18:22:42.337Z",
+      "creator": {
+        "isGuest": true,
+        "id": "IIxZvmD5_ItpLJZv7S0c"
+      },
+      "modified": "2025-11-03T15:07:13.474Z",
+      "motivation": "commenting"
+    },
+    {
+      "id": "f6116a53-92c1-460d-9d1d-8e5b4e96f378",
+      "target": {
+        "source": "https://nrs.lib.harvard.edu/URN-3:FHCL:12229262:MANIFEST:2/canvas/canvas-drs:48635299",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"2796.164181683152,2284.330282746093 2730.422290931345,2312.583218503546 2707.8872112200424,2372.8965094562427 2739.422869036933,2524.4398753476494 2911.402525126231,2494.384133213292 2926.8205557824413,2390.971661451547 2890.656798012901,2288.5345886623804\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "73ecb9a8-865c-4a3f-b7be-1d93e80a81f7",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div data-entity-id=\"city_wall_watchtower\">\n  <h2>city_wall_watchtower</h2>\n  <div>\n      <p><strong>name:</strong> <span>蓬萊城城樓<span></p>\n  </div>\n\n</div>"
+        }
+      ],
+      "created": "2025-05-29T18:22:55.757Z",
+      "creator": {
+        "isGuest": true,
+        "id": "IIxZvmD5_ItpLJZv7S0c"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "0a60c356-2b9e-4ea8-a965-0772353eb12a",
+      "target": {
+        "source": "https://nrs.lib.harvard.edu/URN-3:FHCL:12229262:MANIFEST:2/canvas/canvas-drs:48635299",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"2385.184869754199,2615.8313956335455 2391.4745114049656,2819.3668902081326 2543.29367976448,2800.551780371562 2560.965218391821,2624.4687217079672\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "017c11f0-e528-45e3-9430-aeabd724c8e1",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div data-entity-id=\"city_wall_watergate\">\n  <h2>city_wall_watergate</h2>\n  <div>\n      <p><strong>name:</strong> <span>蓬萊城小水門<span></p>\n  </div>\n\n</div>"
+        }
+      ],
+      "created": "2025-05-29T18:23:03.733Z",
+      "creator": {
+        "isGuest": true,
+        "id": "IIxZvmD5_ItpLJZv7S0c"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "c98f4e7d-bc33-45f1-8010-655045944f0e",
+      "target": {
+        "source": "https://nrs.lib.harvard.edu/URN-3:FHCL:12229262:MANIFEST:2/canvas/canvas-drs:48635299",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"1877.6141519820844,2638.56828202883 1878.3742904917492,2780.01458683168 1972.4363858956704,2811.960584906 2121.3226304479826,2802.267137185407 2091.226526976829,2678.2434760996534\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "a4a2c73a-56e5-4b1a-bf36-619b63ef819f",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div data-entity-id=\"city_wall_gate\">\n  <h2>city_wall_gate</h2>\n  <div>\n      <p><strong>name:</strong> <span>蓬萊城朝天門<span></p>\n    <p><strong>direction:</strong> <span>south<span></p>\n    <p><strong>texture:</strong> <span>striped<span></p>\n  </div>\n\n</div>"
+        }
+      ],
+      "created": "2025-05-29T18:23:10.541Z",
+      "creator": {
+        "isGuest": true,
+        "id": "IIxZvmD5_ItpLJZv7S0c"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "d3bb35b3-7b5a-4d90-9ea2-28603b5665a5",
+      "target": {
+        "source": "https://nrs.lib.harvard.edu/URN-3:FHCL:12229262:MANIFEST:2/canvas/canvas-drs:48635299",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"3011.1555690184414,1627.8396859743377 3003.614725926988,1770.0394023973868 3139.948594735632,1741.8873699819242 3129.4008320528496,1600.4410651790743\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "69b72537-b781-46fb-8974-850040cb7760",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div data-entity-id=\"city_wall_gate\">\n  <h2>city_wall_gate</h2>\n  <div>\n      <p><strong>name:</strong> <span>蓬萊城宜春門甕城門<span></p>\n    <p><strong>direction:</strong> <span>east<span></p>\n    <p><strong>texture:</strong> <span>striped<span></p>\n  </div>\n\n</div>"
+        }
+      ],
+      "created": "2025-05-29T18:23:27.201Z",
+      "creator": {
+        "isGuest": true,
+        "id": "IIxZvmD5_ItpLJZv7S0c"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "56d12949-0dbd-45b8-bda2-c4cb779e73dd",
+      "target": {
+        "source": "https://nrs.lib.harvard.edu/URN-3:FHCL:12229262:MANIFEST:2/canvas/canvas-drs:48635299",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"2841.8935762734322,1501.7643236014355 2838.6646693297234,1495.3872323876105 2825.486692865711,1631.0685929180465 2932.5451387180606,1640.237343260287 3013.758875241807,1631.6941936383903 3012.41789388743,1537.8204511395188 2950.283946240062,1549.1552598898306\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "ba1ecb25-8a1a-40ac-a459-db55accf545a",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div data-entity-id=\"city_wall_gate\">\n  <h2>city_wall_gate</h2>\n  <div>\n      <p><strong>name:</strong> <span>蓬萊城宜春門<span></p>\n    <p><strong>direction:</strong> <span>east<span></p>\n    <p><strong>texture:</strong> <span>unadorned<span></p>\n  </div>\n\n</div>"
+        }
+      ],
+      "created": "2025-05-29T18:23:33.500Z",
+      "creator": {
+        "isGuest": true,
+        "id": "IIxZvmD5_ItpLJZv7S0c"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "b577c7a0-ae89-4e7a-b1b7-07fe82aca672",
+      "target": {
+        "source": "https://nrs.lib.harvard.edu/URN-3:FHCL:12229262:MANIFEST:2/canvas/canvas-drs:48635299",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"3007.14634289667,1487.758939733098 3096.6005190163396,1533.9793972543982 3110.5924491057453,1565.185437487452 3018.514786094312,1616.2156209769855 3017.0819586380408,1764.8126092822577 3150.220554950307,1741.1339583617255 3155.7567849808743,1603.199089860159 3130.315689020234,1497.775278148062 3052.162834447753,1453.3307194458014 3029.039732611717,1450.8343094220072 3029.039732611717,1450.8343094220072\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "517ca739-8751-47aa-8014-202f78f66d5a",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div data-entity-id=\"city_wall_barbican\">\n  <h2>city_wall_barbican</h2>\n  <div>\n      <p><strong>name:</strong> <span>蓬萊城宜春門甕城<span></p>\n    <p><strong>direction:</strong> <span>east<span></p>\n    <p><strong>texture:</strong> <span>striped<span></p>\n  </div>\n\n</div>"
+        }
+      ],
+      "created": "2025-05-29T18:23:41.365Z",
+      "creator": {
+        "isGuest": true,
+        "id": "IIxZvmD5_ItpLJZv7S0c"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "35f2a1aa-c6f7-46a5-b9e5-5ed826dd0b42",
+      "target": {
+        "source": "https://nrs.lib.harvard.edu/URN-3:FHCL:12229262:MANIFEST:2/canvas/canvas-drs:48635299",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"2899.4554471605643,1335.0181824788892 2893.2260434350173,1338.9601444302432 2840.5616521591537,1376.9805240060168 2822.385596821858,1473.8813667646154 2860.2916189631082,1521.4068408423318 2963.1726664570347,1553.3662926955842 2995.784626588495,1517.0679971367229 3032.0627414789583,1483.9986085215703 3025.564566254744,1441.921914911363 2975.1128952592917,1367.7579585480482\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "22f415e0-84d2-4d03-8dd9-153ee63c955d",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div data-entity-id=\"city_wall_gate_tower\">\n  <h2>city_wall_gate_tower</h2>\n  <div>\n      <p><strong>name:</strong> <span>蓬萊城宜春門樓<span></p>\n  </div>\n\n</div>"
+        }
+      ],
+      "created": "2025-05-29T18:23:48.703Z",
+      "creator": {
+        "isGuest": true,
+        "id": "IIxZvmD5_ItpLJZv7S0c"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "bc1145a9-5dc2-4a33-af1d-e22acce63dc8",
+      "target": {
+        "source": "https://nrs.lib.harvard.edu/URN-3:FHCL:12229262:MANIFEST:2/canvas/canvas-drs:48635299",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"2660.1128422320867,525.9953721020582 2582.652710030402,643.8370217685025 2622.563345232538,731.3874881692775 2803.9337390164555,759.9027726159071 2856.8676322248843,681.3192498733906 2787.358683372083,599.8431646604682 2756.7647900804404,542.6915117568199\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "e13db2c7-04a1-4ed2-aec2-5d5371383e63",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div data-entity-id=\"city_wall_watchtower\">\n  <h2>city_wall_watchtower</h2>\n  <div>\n      <p><strong>name:</strong> <span>蓬萊城城樓<span></p>\n  </div>\n\n</div>"
+        }
+      ],
+      "created": "2025-05-29T18:23:56.723Z",
+      "creator": {
+        "isGuest": true,
+        "id": "IIxZvmD5_ItpLJZv7S0c"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "51e7f512-35f8-49db-a34a-561f21018477",
+      "target": {
+        "source": "https://nrs.lib.harvard.edu/URN-3:FHCL:12229262:MANIFEST:2/canvas/canvas-drs:48635299",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"1618.5806073657798,749.521970223052 1608.1960118753489,901.026696622828 1900.1695291084136,892.7117513443355 1897.0817700968669,757.3398277293383\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "6a53b0a7-f02d-42f4-9a39-076197aba933",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div data-entity-id=\"city_wall_gate\">\n  <h2>city_wall_gate</h2>\n  <div>\n      <p><strong>name:</strong> <span>蓬萊城鎮海門<span></p>\n    <p><strong>direction:</strong> <span>north<span></p>\n    <p><strong>texture:</strong> <span>unadorned<span></p>\n  </div>\n\n</div>"
+        }
+      ],
+      "created": "2025-05-29T18:24:04.453Z",
+      "creator": {
+        "isGuest": true,
+        "id": "IIxZvmD5_ItpLJZv7S0c"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "854feda5-6dc0-4c85-8ccb-7a0eff938517",
+      "target": {
+        "source": "https://nrs.lib.harvard.edu/URN-3:FHCL:12229262:MANIFEST:2/canvas/canvas-drs:48635299",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"1260.2538712344037,495.29384857895883 1223.8681261124837,614.4001534650226 1230.366301336698,868.5218568243827 1433.2694683014747,867.667541862193 1394.4956774191035,723.1134141260231 1330.2807905760915,484.86716990656544\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "880bb098-e622-41f4-ac80-39896407c4aa",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div data-entity-id=\"city_wall_shrine\">\n  <h2>city_wall_shrine</h2>\n  <div>\n      <p><strong>name:</strong> <span>蓬萊城真武廟<span></p>\n  </div>\n\n</div>"
+        }
+      ],
+      "created": "2025-05-29T18:24:12.293Z",
+      "creator": {
+        "isGuest": true,
+        "id": "IIxZvmD5_ItpLJZv7S0c"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "64b56864-8488-4cf5-845d-309e55ae820e",
+      "target": {
+        "source": "https://nrs.lib.harvard.edu/URN-3:FHCL:12229262:MANIFEST:2/canvas/canvas-drs:48635299",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"1579.2333794411932,764.8739439313256 1481.869451814904,740.8298062279196 1513.925382499322,643.172253104587 1592.896256067248,574.9042735738171 1660.7713350204697,527.4589543031868 1764.728845333517,509.48927861248137 1868.411767192518,543.6400031715342 1962.6141595929053,625.9190206058197 2016.4370962341477,719.2478499829975 1947.8112230837032,748.8048945931499 1920.2734076599343,693.7707222750679 1852.4508699655917,601.3044982680817 1786.8694834610212,581.3194721100364 1707.307533290354,587.8580549722343 1594.4508146153132,648.2481815456532 1565.8807075005518,692.1493611767645\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "7f3a49ac-50cd-4c72-8bcc-3a3ef60f8928",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div data-entity-id=\"city_wall_barbican\">\n  <h2>city_wall_barbican</h2>\n  <div>\n      <p><strong>name:</strong> <span>蓬萊城鎮海門甕城<span></p>\n    <p><strong>direction:</strong> <span>north<span></p>\n    <p><strong>texture:</strong> <span>unadorned<span></p>\n  </div>\n\n</div>"
+        }
+      ],
+      "created": "2025-05-29T18:24:22.742Z",
+      "creator": {
+        "isGuest": true,
+        "id": "IIxZvmD5_ItpLJZv7S0c"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "1921a92c-342b-4b3a-aeac-852bce81d047",
+      "target": {
+        "source": "https://nrs.lib.harvard.edu/URN-3:FHCL:12229262:MANIFEST:2/canvas/canvas-drs:48635299",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"1718.494813584566,600.628316073683 1676.14681248023,631.4177199714348 1668.6011214607197,691.0436017163174 1688.6396998904336,766.4291425208648 1789.2900049511911,778.6041117367812 1869.3826814691133,766.1014921369566 1860.4128467017244,732.5870751453144 1841.7724595142329,703.1082727831955 1833.0763112980264,662.9372867993885 1813.3140225760276,639.823501473734 1787.2842436362353,601.2349443196216\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "8a686b5d-1717-49c8-a684-e9fe00732fd8",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div data-entity-id=\"city_wall_gate_tower\">\n  <h2>city_wall_gate_tower</h2>\n  <div>\n      <p><strong>name:</strong> <span>蓬萊城鎮海門樓<span></p>\n  </div>\n\n</div>"
+        }
+      ],
+      "created": "2025-05-29T18:24:35.330Z",
+      "creator": {
+        "isGuest": true,
+        "id": "IIxZvmD5_ItpLJZv7S0c"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "15436f35-d38f-49ec-849c-868949370dfa",
+      "target": {
+        "source": "https://nrs.lib.harvard.edu/URN-3:FHCL:12229262:MANIFEST:2/canvas/canvas-drs:48635299",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"458.72504662983386,677.0805659379524 400.4303606681126,752.801662674871 435.87407218920583,834.7610076270352 593.4867068324706,824.0474943878088 609.6150970162969,767.2736235965743 564.2170450657666,676.6923800884058\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "ba37bc4f-9adb-440e-8cb5-18d36df06180",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div data-entity-id=\"city_wall_watchtower\">\n  <h2>city_wall_watchtower</h2>\n  <div>\n      <p><strong>name:</strong> <span>蓬萊城城樓<span></p>\n  </div>\n\n</div>"
+        }
+      ],
+      "created": "2025-05-29T18:24:43.114Z",
+      "creator": {
+        "isGuest": true,
+        "id": "IIxZvmD5_ItpLJZv7S0c"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "3a6ea2bc-a199-4373-a87f-192f38978b49",
+      "target": {
+        "source": "https://nrs.lib.harvard.edu/URN-3:FHCL:12229262:MANIFEST:2/canvas/canvas-drs:48635299",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"277.24670095697616,883.4927856288909 273.11678800770505,1100.506611930151 400.7017834620153,1102.5709782437557 419.5168229618108,921.8637994917714 444.05035153873524,895.0924342765558\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "cbd5aaef-d94f-4703-b10d-1d7c348f90d5",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div data-entity-id=\"city_wall_watergate\">\n  <h2>city_wall_watergate</h2>\n  <div>\n      <p><strong>name:</strong> <span>蓬萊城下水門<span></p>\n  </div>\n\n</div>"
+        }
+      ],
+      "created": "2025-05-29T18:24:49.146Z",
+      "creator": {
+        "isGuest": true,
+        "id": "IIxZvmD5_ItpLJZv7S0c"
+      },
+      "modified": "2025-11-03T15:06:07.248Z",
+      "motivation": "commenting"
+    },
+    {
+      "id": "b3805334-6c38-4ee8-8ed2-a3184cd8ae7c",
+      "target": {
+        "source": "https://nrs.lib.harvard.edu/URN-3:FHCL:12229262:MANIFEST:2/canvas/canvas-drs:48635299",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"317.6786709931711,1549.1673107513752 316.13824808618875,1635.841170208856 312.6851177398269,1656.3376006709102 436.42508729280064,1668.9066841056274 466.11309280301344,1550.9002256472643\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "755c2a7d-04a0-491e-a962-ecd8048ba8f0",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div data-entity-id=\"city_wall_gate\">\n  <h2>city_wall_gate</h2>\n  <div>\n      <p><strong>name:</strong> <span>蓬萊城迎恩門<span></p>\n    <p><strong>direction:</strong> <span>west<span></p>\n    <p><strong>texture:</strong> <span>unadorned<span></p>\n  </div>\n\n</div>"
+        }
+      ],
+      "created": "2025-05-29T18:31:34.162Z",
+      "creator": {
+        "isGuest": true,
+        "id": "IIxZvmD5_ItpLJZv7S0c"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "3ff6b614-e3ff-44a0-895e-91d23beb5c87",
+      "target": {
+        "source": "https://nrs.lib.harvard.edu/URN-3:FHCL:12229262:MANIFEST:2/canvas/canvas-drs:48635299",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"356.04996965582336,1365.8098619886148 310.9910217156627,1391.6243003146215 284.40859684228104,1531.1680165468206 329.9720614923963,1558.4007074019214 453.11898465107356,1560.8111761272596 493.1215540092454,1521.0832880889518 490.54851878847757,1451.9532873427388 419.54620047421093,1376.8868066427276\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "01c1f450-7e9b-4008-bfb4-7277c0b3854f",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div data-entity-id=\"city_wall_gate_tower\">\n  <h2>city_wall_gate_tower</h2>\n  <div>\n      <p><strong>name:</strong> <span>蓬萊城迎恩門樓<span></p>\n  </div>\n\n</div>"
+        }
+      ],
+      "created": "2025-05-29T18:25:08.439Z",
+      "creator": {
+        "isGuest": true,
+        "id": "IIxZvmD5_ItpLJZv7S0c"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "c49402cc-0df1-49a9-8455-bf983ffd375a",
+      "target": {
+        "source": "https://nrs.lib.harvard.edu/URN-3:FHCL:12229262:MANIFEST:2/canvas/canvas-drs:48635299",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"317.8360235033784,1460.5794571180554 315.0681968890442,1494.3447050768634 246.44468368611467,1503.944536919054 207.77933838240222,1523.1535435054705 188.5351818236755,1586.1994464457134 256.98162237094243,1619.0864616131194 336.19249839288096,1628.7843939266897 301.9694482342991,1773.50127501633 145.80751215031995,1743.1742150068415 139.5197390799608,1617.6943692097263 149.166285432332,1547.3405224727885 168.99659500415555,1480.1333674622042 211.50212781782434,1455.3100603696414 290.36089245432703,1434.2464877290402\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "efe42b05-605e-4724-aecf-f4261fafca49",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div data-entity-id=\"city_wall_barbican\">\n  <h2>city_wall_barbican</h2>\n  <div>\n      <p><strong>name:</strong> <span>蓬萊城迎恩門甕城<span></p>\n    <p><strong>direction:</strong> <span>west<span></p>\n    <p><strong>texture:</strong> <span>striped<span></p>\n  </div>\n\n</div>"
+        }
+      ],
+      "created": "2025-05-29T18:25:26.335Z",
+      "creator": {
+        "isGuest": true,
+        "id": "IIxZvmD5_ItpLJZv7S0c"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "5bea9d80-6512-4df5-aaa5-94d316b2ce79",
+      "target": {
+        "source": "https://nrs.lib.harvard.edu/URN-3:FHCL:12229262:MANIFEST:2/canvas/canvas-drs:48635299",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"215.8839488727993,1500.1513186923587 193.23675433706302,1588.8061161138119 253.94226031723906,1606.8752886518128 316.3995604292018,1589.4040618441284 299.80189496190155,1522.887270797439\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "8b7d9092-1941-45e4-b783-132083025f11",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div data-entity-id=\"city_wall_shrine\">\n  <h2>city_wall_shrine</h2>\n  <div>\n      <p><strong>name:</strong> <span>蓬萊城觀音堂<span></p>\n  </div>\n\n</div>"
+        }
+      ],
+      "created": "2025-05-29T18:25:32.322Z",
+      "creator": {
+        "isGuest": true,
+        "id": "IIxZvmD5_ItpLJZv7S0c"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "f484a0c5-b6ec-4de8-a927-1f05086286c9",
+      "target": {
+        "source": "https://nrs.lib.harvard.edu/URN-3:FHCL:12229262:MANIFEST:2/canvas/canvas-drs:48635299",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"295.9435744666824,2293.234746435368 218.37715741143427,2326.629716500678 241.4073361874385,2434.6447260351015 313.10042514932064,2462.2806612801087 387.4909430873202,2462.5669105509774 393.9731892776861,2423.2386122564494 392.37488034055013,2364.4967226830245 367.68988675589543,2317.1690191556104\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "110c9ad1-22ed-41c6-ae9f-586a365581b9",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div data-entity-id=\"city_wall_watchtower\">\n  <h2>city_wall_watchtower</h2>\n  <div>\n      <p><strong>name:</strong> <span>蓬萊城城樓<span></p>\n  </div>\n\n</div>"
+        }
+      ],
+      "created": "2025-05-29T18:25:54.351Z",
+      "creator": {
+        "isGuest": true,
+        "id": "IIxZvmD5_ItpLJZv7S0c"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "07143579-aa70-4a10-8b48-b47a5020fed0",
+      "target": {
+        "source": "https://nrs.lib.harvard.edu/URN-3:FHCL:12229262:MANIFEST:2/canvas/canvas-drs:48635299",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"1096.126889088017,2674.4629161290272 1109.7892439509174,2800.2164511595156 1431.2710564309664,2823.9173803769604 1437.2757029636257,2670.317204718181 1368.7920010180972,2649.955316294723 1243.552910438395,2633.5525255638336\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "0a50752e-3de4-45ce-8d21-9a7ea79328de",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div data-entity-id=\"city_wall_watergate\">\n  <h2>city_wall_watergate</h2>\n  <div>\n      <p><strong>name:</strong> <span>蓬萊城上水門<span></p>\n  </div>\n\n</div>"
+        }
+      ],
+      "created": "2025-05-29T18:26:01.674Z",
+      "creator": {
+        "isGuest": true,
+        "id": "IIxZvmD5_ItpLJZv7S0c"
+      },
+      "modified": "2025-11-03T15:07:03.191Z",
+      "motivation": "commenting"
+    },
+    {
+      "id": "ce96e467-16d2-4be3-9cab-a9b630bb3fbe",
+      "target": {
+        "source": "https://nrs.lib.harvard.edu/URN-3:FHCL:12229262:MANIFEST:2/canvas/canvas-drs:48635299",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"140.64667548237964,1620.1626198565673 144.90333425358273,1736.4907193931476 316.6139147642378,1758.050400131871 335.1464952432339,1659.9252634904494 270.89797395289213,1650.3528997802455\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "31281093-ad78-4569-94ed-96e7518366f3",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div data-entity-id=\"city_wall_gate\">\n  <h2>city_wall_gate</h2>\n  <div>\n      <p><strong>name:</strong> <span>蓬萊城迎恩門甕城門<span></p>\n    <p><strong>direction:</strong> <span>west<span></p>\n    <p><strong>texture:</strong> <span>striped<span></p>\n  </div>\n\n</div>"
+        }
+      ],
+      "created": "2025-05-29T18:26:39.033Z",
+      "creator": {
+        "isGuest": true,
+        "id": "IIxZvmD5_ItpLJZv7S0c"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "c7351ab4-85c9-492a-ae68-e8a5a50dd4c7",
+      "target": {
+        "source": "https://nrs.lib.harvard.edu/URN-3:FHCL:12229262:MANIFEST:2/canvas/canvas-drs:48635299",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"2088.506926778695,2413.2906693266877 2012.5665250502002,2396.596328896614 1968.6320033611566,2426.4411157773156 1946.0593294151124,2545.6685425857895 1919.5597649965625,2629.2377912077195 2106.4887820562435,2691.17908558946 2315.0055789444273,2637.071276032174 2150.973919889883,2504.3825096549817\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "a16d38c9-c163-4ab0-90de-d71022939bf8",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div data-entity-id=\"city_wall_shrine\">\n  <h2>city_wall_shrine</h2>\n  <div>\n      <p><strong>name:</strong> <span>蓬萊城火神廟<span></p>\n  </div>\n\n</div>"
+        }
+      ],
+      "created": "2025-05-29T18:27:47.389Z",
+      "creator": {
+        "isGuest": true,
+        "id": "IIxZvmD5_ItpLJZv7S0c"
+      },
+      "modified": "2026-06-05T10:07:15.998Z",
+      "motivation": "commenting"
+    },
+    {
+      "id": "314485cd-b8e7-4a33-9c3c-5b3a6da9c03d",
+      "target": {
+        "source": "https://nrs.lib.harvard.edu/URN-3:FHCL:12229262:MANIFEST:2/canvas/canvas-drs:48635299",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"460.12563921529784,962.1963976970565 388.570090812019,934.927440419396 364.57581071199826,971.3368890605527 349.72159185806356,1024.1963706173337 359.49696555823675,1111.940392768547 473.55415116265624,1087.3847879429404 555.9319189814394,1021.8027431530791 762.2843839536926,1010.2028562109213 962.3395748249179,1036.8173154288588 1027.7344190967897,1084.7066033675505 1095.3500606750579,1153.2442501404162 1282.248722355247,1235.0531899685036 1355.9292001572314,1272.0456144160773 1382.5144029977494,1471.9351971965652 1353.1536589886962,1689.57458971937 1381.2745970302904,1754.0016674110943 1353.605602635793,1882.840192481096 1363.866397290256,1971.3886144909598 1326.2764554599507,2089.7049684957624 1273.1301228085076,2155.8626690026763 1292.1214248907231,2280.0924529216345 1251.4024253461903,2405.2438118261307 1265.5932102458394,2506.1734503913026 1239.2543007886643,2626.6931679775953 1323.7940605809838,2663.010989605635 1327.727644176088,2530.2567279342747 1297.3135105918157,2452.4219887120043 1348.2324948314172,2317.2573609227925 1343.0602508701954,2180.9712433426366 1407.520805869112,2090.1305702761288 1416.2249057391296,1957.2256607224028 1454.7070703567638,1781.2856727728793 1502.3285398379164,1680.4520235094478 1454.6291262853938,1493.8059217819175 1450.799040481723,1339.1775358482544 1531.3528947459695,1303.4377282294324 1758.0695198713238,1249.2965847520788 1914.5178846440253,1242.8042949236863 2029.327009176616,1242.1723473777622 2170.5373779025754,1229.514324736033 2290.8123314898594,1253.4490158101476 2468.1683442282124,1327.2524472130024 2515.5363470594275,1471.2701778580451 2491.5879006161654,1620.8897384348834 2524.4409443818936,1740.3429260766054 2558.922570790039,1952.3379738723158 2543.841043899875,2032.5663405588414 2560.6633907640426,2135.8438332473156 2519.553257531807,2227.1531886145167 2544.948532858124,2383.674595673656 2469.50989659429,2488.664678402584 2416.069539846151,2600.5715752846 2500.3309401098277,2607.3324403747233 2595.061323904207,2374.3529083393864 2587.9306574722314,2228.4902436594016 2601.522444192335,2081.812784263967 2592.4630321972504,1975.6894193013648 2617.983070301444,1902.011838117539 2598.49417083353,1853.875080042242 2569.9226868768064,1725.8434834182046 2550.8843216367213,1649.5806913140138 2555.2880759939394,1519.482413730679 2531.6727755168586,1323.1089397756557 2470.6304547372365,1236.7415966941269 2377.917792767708,1206.0660053494555 2251.3233781486433,1175.9496408579896 2140.7417747425307,1150.5723876170669 2013.3467974944033,1161.919703084508 1923.6429951346577,1180.317182743789 1805.8576105904654,1167.7470112002495 1620.1596218465947,1181.3337393382808 1501.4150286815375,1231.2737219840237 1391.0055144736928,1209.9284709206272 1225.920846387893,1147.409599738868 1055.0541975773567,1000.5864260162219 961.3192003015835,965.6742076580834 854.8803568214684,961.6572594128858 740.0479037640167,929.3610504094438 554.4222133739032,958.7983373176055\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "1e02b2c5-b824-4873-a1f1-a86ea6fd296a",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div data-entity-id=\"water\">\n  <h2>water</h2>\n  <div>\n      <p><strong>type:</strong> <span>river<span></p>\n    <p><strong>relation to wall:</strong> <span>both inside and outside the wall<span></p>\n  </div>\n\n</div>"
+        }
+      ],
+      "created": "2025-05-29T18:33:48.466Z",
+      "creator": {
+        "isGuest": true,
+        "id": "IIxZvmD5_ItpLJZv7S0c"
+      },
+      "modified": "2025-11-03T15:07:23.223Z",
+      "motivation": "commenting"
+    },
+    {
+      "id": "77d456ff-a961-4a92-8870-2236ac902952",
+      "target": {
+        "source": "https://nrs.lib.harvard.edu/URN-3:FHCL:12229262:MANIFEST:2/canvas/canvas-drs:48635299",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"1291.3270267087842,1541.1343240946696 1303.6372344316746,1549.5940602871867 1323.4385062639697,1665.0517003268594 1564.3633978688126,1675.4568529529615 1550.9069281809057,1536.0891569951243 1391.4150696964023,1504.0261110440945\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "a574fb01-c834-4eac-b29c-1c0b998d2ce6",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div data-entity-id=\"bridge\">\n  <h2>bridge</h2>\n  <div>\n      <p><strong>id:</strong> <span>penglai_feng_qiao<span></p>\n    <p><strong>name:</strong> <span>蓬萊豐橋<span></p>\n    <p><strong>texture:</strong> <span>brick_arrangement<span></p>\n    <p><strong>bridge_type:</strong> <span>arch bridge<span></p>\n    <p><strong>relation to wall:</strong> <span>intramural<span></p>\n    <p><strong>bridge_pillar_quant:</strong> <span>4<span></p>\n    <p><strong>bridge_cover:</strong> <span>no<span></p>\n  </div>\n\n</div>"
+        }
+      ],
+      "created": "2025-05-29T18:34:13.396Z",
+      "creator": {
+        "isGuest": true,
+        "id": "IIxZvmD5_ItpLJZv7S0c"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "2da4677f-e0bd-47bb-bad7-a09db64b5a91",
+      "target": {
+        "source": "https://nrs.lib.harvard.edu/URN-3:FHCL:12229262:MANIFEST:2/canvas/canvas-drs:48635299",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"2519.813107047008,1903.8206459898558 2527.9499525451547,1962.7749581381156 2642.1806079462176,1972.1853288124546 2625.6889657312245,1881.6871394476518\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "ffdff418-67f3-4419-ba1b-3f865e9bbe82",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div data-entity-id=\"bridge\">\n  <h2>bridge</h2>\n  <div>\n      <p><strong>id:</strong> <span>penglai_unnamed_qiao<span></p>\n    <p><strong>name:</strong> <span>蓬萊unnamed橋<span></p>\n    <p><strong>texture:</strong> <span>brick_arrangement<span></p>\n    <p><strong>bridge_type:</strong> <span>crossbeam bridge<span></p>\n    <p><strong>relation to wall:</strong> <span>intramural<span></p>\n    <p><strong>bridge_cover:</strong> <span>no<span></p>\n  </div>\n\n</div>"
+        }
+      ],
+      "created": "2025-05-29T18:34:19.853Z",
+      "creator": {
+        "isGuest": true,
+        "id": "IIxZvmD5_ItpLJZv7S0c"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "de1d1240-77cd-435a-a3bf-2040fb998061",
+      "target": {
+        "source": "https://nrs.lib.harvard.edu/URN-3:FHCL:12229262:MANIFEST:2/canvas/canvas-drs:48635299",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"2419.342771441679,1511.890547640357 2437.1795154333377,1627.495911012567 2620.022151077614,1639.7623672304053 2647.201558243685,1532.8441055166966 2584.8432928933066,1512.0903061360073\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "3c8e6811-ab5b-4135-97f3-85dc49e11cb9",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div data-entity-id=\"bridge\">\n  <h2>bridge</h2>\n  <div>\n      <p><strong>id:</strong> <span>penglai_jiangjia_qiao<span></p>\n    <p><strong>name:</strong> <span>蓬萊蔣家橋<span></p>\n    <p><strong>texture:</strong> <span>brick_arrangement<span></p>\n    <p><strong>bridge_type:</strong> <span>arch bridge<span></p>\n    <p><strong>relation to wall:</strong> <span>intramural<span></p>\n    <p><strong>bridge_cover:</strong> <span>no<span></p>\n  </div>\n\n</div>"
+        }
+      ],
+      "created": "2025-05-29T18:34:25.331Z",
+      "creator": {
+        "isGuest": true,
+        "id": "IIxZvmD5_ItpLJZv7S0c"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "302d61e2-cd87-47d7-a866-6e1e594d431b",
+      "target": {
+        "source": "https://nrs.lib.harvard.edu/URN-3:FHCL:12229262:MANIFEST:2/canvas/canvas-drs:48635299",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"1670.4975691085256,1111.9641576715946 1689.5642646111269,1262.4312212484315 1800.6063744052776,1258.7260505305255 1822.6920979002468,1156.2405441372036 1776.914269705813,1103.116952645832\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "19c70150-83fc-49fd-9a58-48bd955b2e8e",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div data-entity-id=\"bridge\">\n  <h2>bridge</h2>\n  <div>\n      <p><strong>id:</strong> <span>penglai_cao_qiao<span></p>\n    <p><strong>name:</strong> <span>蓬萊草橋<span></p>\n    <p><strong>texture:</strong> <span>unadorned<span></p>\n    <p><strong>bridge_type:</strong> <span>arch bridge<span></p>\n    <p><strong>relation to wall:</strong> <span>intramural<span></p>\n    <p><strong>bridge_cover:</strong> <span>no<span></p>\n  </div>\n\n</div>"
+        }
+      ],
+      "created": "2025-05-29T18:34:30.089Z",
+      "creator": {
+        "isGuest": true,
+        "id": "IIxZvmD5_ItpLJZv7S0c"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "921fd1ed-1ba9-42f2-9771-cc655622eb2f",
+      "target": {
+        "source": "https://nrs.lib.harvard.edu/URN-3:FHCL:12229262:MANIFEST:2/canvas/canvas-drs:48635299",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"2066.8211689506243,1135.8903581244779 2071.55960898485,1260.8248400439363 2166.990445307932,1260.8248400439363 2139.730398435669,1146.0614149971611\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "9f0d44b6-13b5-4f9e-9c3c-ae4ac5a9256d",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div data-entity-id=\"bridge\">\n  <h2>bridge</h2>\n  <div>\n      <p><strong>id:</strong> <span>penglai_zhujia_qiao<span></p>\n    <p><strong>name:</strong> <span>蓬萊朱家橋<span></p>\n    <p><strong>texture:</strong> <span>unadorned<span></p>\n    <p><strong>bridge_type:</strong> <span>crossbeam bridge<span></p>\n    <p><strong>relation to wall:</strong> <span>intramural<span></p>\n    <p><strong>bridge_cover:</strong> <span>no<span></p>\n  </div>\n\n</div>"
+        }
+      ],
+      "created": "2025-05-29T18:34:33.195Z",
+      "creator": {
+        "isGuest": true,
+        "id": "IIxZvmD5_ItpLJZv7S0c"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "cd7e827f-e8ff-4378-bc40-79cbfc95eca4",
+      "target": {
+        "source": "https://nrs.lib.harvard.edu/URN-3:FHCL:12229262:MANIFEST:2/canvas/canvas-drs:48635299",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=2424,2528,89,81"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "308aac2e-de7c-4937-9263-b8542f2ad2e7",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div data-entity-id=\"city_wall_gate_tower\">\n  <h2>city_wall_gate_tower</h2>\n  <div>\n      <p><strong>name:</strong> <span>蓬萊城小水門樓<span></p>\n  </div>\n\n</div>"
+        }
+      ],
+      "created": "2025-11-03T15:08:22.971Z",
+      "creator": {
+        "isGuest": true,
+        "id": "W5mxsCC2FFPUMTFu9lED"
+      },
+      "motivation": "commenting"
+    }
+  ]
+}
