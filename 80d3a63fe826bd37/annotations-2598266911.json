@@ -1,0 +1,34 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://fonziedw.github.io/IMMARKUSmanifests/80d3a63fe826bd37/annotations-2598266911.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "id": "a81cdcde-b751-4a66-931f-cee5f61d668f",
+      "target": {
+        "source": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00084858/canvas/168",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"146.4082531665044,763.244766939547 2299.433892156934,701.114180804426 2341.983108179261,2248.8419136165635 175.96208004268757,2331.2810196598216\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "3394c145-83be-4d61-ba82-663e15b447f5",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div data-entity-id=\"shadow\">\n  <h2>shadow</h2>\n  <div>\n  \n  </div>\n\n</div>"
+        }
+      ],
+      "created": "2025-08-02T15:59:44.106Z",
+      "creator": {
+        "isGuest": true,
+        "id": "3PbGGOWtAZ4as_ysvE3M"
+      },
+      "motivation": "commenting"
+    }
+  ]
+}

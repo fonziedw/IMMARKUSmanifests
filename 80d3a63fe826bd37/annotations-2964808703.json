@@ -1,0 +1,30 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://fonziedw.github.io/IMMARKUSmanifests/80d3a63fe826bd37/annotations-2964808703.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "id": "fc9ae198-031b-4794-9dac-82411dce583b",
+      "target": {
+        "source": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00084858/canvas/18",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=1900,1283,596,517"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "d859c79a-086e-454b-b2cc-2edf465c05f5",
+          "type": "TextualBody",
+          "format": "text/plain",
+          "value": "Diß ist der schnech\nauß dem grund auff\ngezogen / mit allen\nnotturffigen linien\ndarauß er gemacht\nwirdet.\n\nThis is the sketch drawn from the ground up / with all the necessary lines from which it is made."
+        }
+      ],
+      "motivation": "commenting"
+    }
+  ]
+}
