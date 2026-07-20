@@ -1,0 +1,287 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://fonziedw.github.io/IMMARKUSmanifests/6c6c39976198225b/manifest.json",
+  "type": "Manifest",
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Repository"
+        ]
+      },
+      "value": {
+        "none": [
+          "Bibliothèque nationale de France"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Digitised by"
+        ]
+      },
+      "value": {
+        "none": [
+          "Bibliothèque nationale de France"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Source Images"
+        ]
+      },
+      "value": {
+        "none": [
+          "https://gallica.bnf.fr/ark:/12148/btv1b52525496m"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Metadata Source"
+        ]
+      },
+      "value": {
+        "none": [
+          "http://oai.bnf.fr/oai2/OAIHandler?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:bnf.fr:gallica/ark:/12148/btv1b52525496m"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Shelfmark"
+        ]
+      },
+      "value": {
+        "none": [
+          "Bibliothèque nationale de France, département Estampes et photographie, VH-560-FOL"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Title"
+        ]
+      },
+      "value": {
+        "none": [
+          "Dessins coloriés de villes, châteaux forts et hordes construits sur la longueur de la fameuse muraille de Chine.... Villes de la province de Tche-kiang. Hang-tcheou fou : [plan, dessin]"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Date"
+        ]
+      },
+      "value": {
+        "none": [
+          "1727-1730"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Language"
+        ]
+      },
+      "value": {
+        "none": [
+          "Sans contenu linguistique"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Format"
+        ]
+      },
+      "value": {
+        "none": [
+          "1 dess. ; 40 x 32 cm",
+          "image/jpeg",
+          "Nombre total de vues :  1"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Relation"
+        ]
+      },
+      "value": {
+        "none": [
+          "Notice de recueil : http://catalogue.bnf.fr/ark:/12148/cb40367185d"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Relation"
+        ]
+      },
+      "value": {
+        "none": [
+          "Appartient à : [Recueil. Cartes manuscrites de la Chine pour servir à illustrer le livre de J. B. Du Halde, Description géographique, historique.. . de l'empire de la Chine et de la Tartarie chinoise...]"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Relation"
+        ]
+      },
+      "value": {
+        "none": [
+          "Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb47609785s"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Type"
+        ]
+      },
+      "value": {
+        "none": [
+          "Image"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Source"
+        ]
+      },
+      "value": {
+        "en": [
+          "This manifest is a derivative copy of the <a href=\"https://gallica.bnf.fr/iiif/ark:/12148/btv1b52525496m/manifest.json\">original manifest</a>, annotated with <a href=\"https://immarkus.xmarkus.org\">IMMARKUS</a>."
+        ]
+      }
+    }
+  ],
+  "label": {
+    "none": [
+      "BnF, département Estampes et photographie, VH-560-FOL (annotated with IMMARKUS)"
+    ]
+  },
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Bibliothèque nationale de France"
+      ]
+    }
+  },
+  "summary": {
+    "none": [
+      "Dessins coloriés de villes, châteaux forts et hordes construits sur la longueur de la fameuse muraille de Chine.... Villes de la province de Tche-kiang. Hang-tcheou fou : [plan, dessin]"
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://gallica.bnf.fr/ark:/12148/btv1b52525496m.thumbnail",
+      "type": "Image"
+    }
+  ],
+  "provider": [
+    {
+      "id": "http://example.org/provider",
+      "type": "Agent",
+      "homepage": [
+        {
+          "id": "http://example.org/undefined/97",
+          "type": "unknown"
+        }
+      ],
+      "logo": [
+        {
+          "id": "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+          "type": "Image"
+        }
+      ],
+      "label": {
+        "none": [
+          ""
+        ]
+      }
+    }
+  ],
+  "seeAlso": [
+    {
+      "id": "http://example.org/undefined/98",
+      "type": "unknown"
+    }
+  ],
+  "items": [
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52525496m/canvas/f1",
+      "type": "Canvas",
+      "height": 5359,
+      "width": 6716,
+      "label": {
+        "none": [
+          "NP"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://gallica.bnf.fr/ark:/12148/btv1b52525496m/f1.thumbnail",
+          "type": "Image"
+        }
+      ],
+      "items": [
+        {
+          "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52525496m/canvas/f1/annotation-page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "http://example.org/oa:Annotation/96",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52525496m/canvas/f1",
+              "body": {
+                "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52525496m/f1/full/full/0/native.jpg",
+                "type": "Image",
+                "height": 5359,
+                "width": 6716,
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52525496m/f1",
+                    "@type": "ImageService1",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://fonziedw.github.io/IMMARKUSmanifests/6c6c39976198225b/annotations-1534767165.json",
+          "type": "AnnotationPage"
+        }
+      ]
+    }
+  ]
+}

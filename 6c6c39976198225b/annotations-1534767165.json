@@ -1,0 +1,875 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://fonziedw.github.io/IMMARKUSmanifests/6c6c39976198225b/annotations-1534767165.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "id": "bf28eee8-460a-4de8-a3fc-b7d3e1685c34",
+      "target": {
+        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52525496m/canvas/f1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><g><path fill-rule=\"evenodd\" d=\"M 2947.610708419599,2694.99051536394 L 2990.6999366141245,2693.9860294121754 L 2991.702011688416,2727.134065820406 L 2948.6127834938907,2728.13855177217 Z\" /><path fill-rule=\"evenodd\" d=\"M 2992.704086762707,2692.981543460411 L 3027.776714362902,2691.9770575086463 L 3028.778789437193,2725.1250939168767 L 2993.7061618369985,2726.129579868641 Z\" /></g></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "2b73907d-b20c-4eb2-91fe-a0aa16d16f58",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div data-entity-id=\"label\">\n  <h2>label</h2>\n  <div>\n      <p><strong>hierarchy:</strong> <span>medium<span></p>\n    <p><strong>type:</strong> <span>water gate<span></p>\n  </div>\n\n</div>"
+        },
+        {
+          "id": "92e8a5a3-a3c2-4aa2-a203-92b9002f8f19",
+          "type": "TextualBody",
+          "format": "text/plain",
+          "value": "水 門"
+        }
+      ],
+      "motivation": "commenting"
+    },
+    {
+      "id": "5c722035-8424-470a-89e9-342142115720",
+      "target": {
+        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52525496m/canvas/f1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=3086,2736,91,161"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "1052f369-862e-470a-a92e-59e58bde42f1",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div data-entity-id=\"label\">\n  <h2>label</h2>\n  <div>\n      <p><strong>hierarchy:</strong> <span>medium<span></p>\n    <p><strong>type:</strong> <span>wall gate<span></p>\n  </div>\n\n</div>"
+        },
+        {
+          "id": "393b6fd9-3d67-413f-9b14-34c7f672987c",
+          "type": "TextualBody",
+          "format": "text/plain",
+          "value": "湧金門"
+        }
+      ],
+      "motivation": "commenting"
+    },
+    {
+      "id": "9fe9c0a5-557d-4b26-a376-460ae3dd39e4",
+      "target": {
+        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52525496m/canvas/f1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=2886,3145,87,184"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "863ad508-0192-43a1-964b-c0bac32b6a3d",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div data-entity-id=\"label\">\n  <h2>label</h2>\n  <div>\n      <p><strong>hierarchy:</strong> <span>medium<span></p>\n    <p><strong>type:</strong> <span>wall gate<span></p>\n  </div>\n\n</div>"
+        },
+        {
+          "id": "a7434144-a7e7-4c71-89bb-4784621abbda",
+          "type": "TextualBody",
+          "format": "text/plain",
+          "value": "清\n波\n門"
+        }
+      ],
+      "motivation": "commenting"
+    },
+    {
+      "id": "8690701b-22ad-4222-87d9-91805402b4e9",
+      "target": {
+        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52525496m/canvas/f1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"1875.8816509147762,2458.929034942702 1901.8450593529253,2458.929034942702 1901.8450593529253,2485.7956699598667 1830.0366088073138,2491.5427972991242 1823.953015410215,2460.660995124063\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "47c59970-edeb-4c95-a2f2-688846fdb00d",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div data-entity-id=\"label\">\n  <h2>label</h2>\n  <div>\n      <p><strong>hierarchy:</strong> <span>medium<span></p>\n  </div>\n\n</div>"
+        },
+        {
+          "id": "66963a79-b54b-4dae-ab0b-23b310c291bf",
+          "type": "TextualBody",
+          "format": "text/plain",
+          "value": "岳坆"
+        }
+      ],
+      "modified": "2026-04-16T09:14:20.624Z",
+      "motivation": "commenting"
+    },
+    {
+      "id": "7724c157-48eb-4804-a75b-12e3eca2e7d6",
+      "target": {
+        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52525496m/canvas/f1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=1723,3198,132,161"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "83168280-86bc-476e-8d5b-394f02d47dd2",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div data-entity-id=\"label\">\n  <h2>label</h2>\n  <div>\n      <p><strong>hierarchy:</strong> <span>top<span></p>\n    <p><strong>type:</strong> <span>lake<span></p>\n  </div>\n\n</div>"
+        },
+        {
+          "id": "b5404558-30a2-4cea-b725-fcf4ecbad907",
+          "type": "TextualBody",
+          "format": "text/plain",
+          "value": "西湖"
+        }
+      ],
+      "motivation": "commenting"
+    },
+    {
+      "id": "194c57dd-f58a-42b4-97f5-fc5f7f36db4a",
+      "target": {
+        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52525496m/canvas/f1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=2345,3682,194,77"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "c3674436-4b7a-4ac6-ba8f-35710e85f307",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div data-entity-id=\"label\">\n  <h2>label</h2>\n  <div>\n      <p><strong>hierarchy:</strong> <span>medium<span></p>\n    <p><strong>type:</strong> <span>pagoda<span></p>\n  </div>\n\n</div>"
+        },
+        {
+          "id": "92fe66fb-d6d1-46bb-90a4-93185e22103b",
+          "type": "TextualBody",
+          "format": "text/plain",
+          "value": "塔峰雷"
+        }
+      ],
+      "motivation": "commenting"
+    },
+    {
+      "id": "41098ca4-1bda-49cd-9403-7e1ca74eab78",
+      "target": {
+        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52525496m/canvas/f1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=2174,3596,163,41"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "dece30be-5746-4a6b-9e0e-a55d2611f8f3",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div data-entity-id=\"label\">\n  <h2>label</h2>\n  <div>\n      <p><strong>hierarchy:</strong> <span>medium<span></p>\n    <p><strong>type:</strong> <span>lake<span></p>\n  </div>\n\n</div>"
+        },
+        {
+          "id": "96d00f6e-eb0f-4a55-ab48-c5563556b189",
+          "type": "TextualBody",
+          "format": "text/plain",
+          "value": "放生池"
+        }
+      ],
+      "motivation": "commenting"
+    },
+    {
+      "id": "f879a959-59e0-45c4-9331-4f61bbcca2cd",
+      "target": {
+        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52525496m/canvas/f1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=2075,2959,249,95"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "8b799f61-feb7-4f36-b4d4-7fb7184de71f",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div data-entity-id=\"label\">\n  <h2>label</h2>\n  <div>\n      <p><strong>hierarchy:</strong> <span>medium<span></p>\n    <p><strong>type:</strong> <span>pavillion<span></p>\n  </div>\n\n</div>"
+        },
+        {
+          "id": "3990eb21-1226-4376-a1e2-3ee6d7e8a158",
+          "type": "TextualBody",
+          "format": "text/plain",
+          "value": "湖心亭"
+        }
+      ],
+      "motivation": "commenting"
+    },
+    {
+      "id": "7639e29d-522d-4c3c-9bbb-91fb0e3c7669",
+      "target": {
+        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52525496m/canvas/f1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=2079,2409,97,59"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "e8f253f4-8205-4662-944c-bf745bf0f4fd",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div data-entity-id=\"label\">\n  <h2>label</h2>\n  <div>\n      <p><strong>hierarchy:</strong> <span>medium<span></p>\n    <p><strong>type:</strong> <span>mountain<span></p>\n  </div>\n\n</div>"
+        },
+        {
+          "id": "ee0aaf13-a4ed-424b-bd9a-0252c018dfc5",
+          "type": "TextualBody",
+          "format": "text/plain",
+          "value": "山孤"
+        }
+      ],
+      "motivation": "commenting"
+    },
+    {
+      "id": "3b2e6821-8c13-458d-af73-e72732d099df",
+      "target": {
+        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52525496m/canvas/f1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=2073,2599,142,48"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "2e060474-fec7-47ef-a0ab-280e61025f8e",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div data-entity-id=\"label\">\n  <h2>label</h2>\n  <div>\n      <p><strong>hierarchy:</strong> <span>medium<span></p>\n  </div>\n\n</div>"
+        },
+        {
+          "id": "e0b5d706-8daa-4e56-98a7-a6b844a5b316",
+          "type": "TextualBody",
+          "format": "text/plain",
+          "value": "宮 行"
+        }
+      ],
+      "motivation": "commenting"
+    },
+    {
+      "id": "29c34cad-1d13-4906-b43f-faa7025bc388",
+      "target": {
+        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52525496m/canvas/f1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=2521,2217,70,94"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "3639518e-65df-43b8-992d-e47fab6086d0",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div data-entity-id=\"label\">\n  <h2>label</h2>\n  <div>\n      <p><strong>hierarchy:</strong> <span>medium<span></p>\n    <p><strong>type:</strong> <span>bridge<span></p>\n  </div>\n\n</div>"
+        },
+        {
+          "id": "125b8b8b-1d2c-4e3d-a1a0-9fc53ef34bec",
+          "type": "TextualBody",
+          "format": "text/plain",
+          "value": "断橋"
+        }
+      ],
+      "motivation": "commenting"
+    },
+    {
+      "id": "0ae2c8d0-af4a-4770-a1cb-b358134d0182",
+      "target": {
+        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52525496m/canvas/f1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=2881,2188,106,151"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "9dbb8e03-550e-432e-bb66-b9bc3520cf9c",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div data-entity-id=\"label\">\n  <h2>label</h2>\n  <div>\n      <p><strong>hierarchy:</strong> <span>medium<span></p>\n    <p><strong>type:</strong> <span>wall gate<span></p>\n  </div>\n\n</div>"
+        },
+        {
+          "id": "ebcfcf76-45f3-445d-8a12-e7cc498848c8",
+          "type": "TextualBody",
+          "format": "text/plain",
+          "value": "錢塘門"
+        }
+      ],
+      "motivation": "commenting"
+    },
+    {
+      "id": "cf3171ee-e9e6-496e-9224-9ba41748938e",
+      "target": {
+        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52525496m/canvas/f1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=3265,1665,97,108"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "74f48a67-ea4a-458e-888e-793c54773988",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div data-entity-id=\"label\">\n  <h2>label</h2>\n  <div>\n      <p><strong>hierarchy:</strong> <span>medium<span></p>\n    <p><strong>type:</strong> <span>wall gate<span></p>\n  </div>\n\n</div>"
+        },
+        {
+          "id": "8b832f07-f717-43fc-9fac-63cb91e68200",
+          "type": "TextualBody",
+          "format": "text/plain",
+          "value": "武林門"
+        }
+      ],
+      "motivation": "commenting"
+    },
+    {
+      "id": "75105902-2578-4860-aae8-aafe8fff7dca",
+      "target": {
+        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52525496m/canvas/f1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=3487,1460,55,93"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "5be9dac4-36b4-4578-8495-b5b472c8ca79",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div data-entity-id=\"label\">\n  <h2>label</h2>\n  <div>\n      <p><strong>hierarchy:</strong> <span>medium<span></p>\n    <p><strong>type:</strong> <span>water gate<span></p>\n  </div>\n\n</div>"
+        },
+        {
+          "id": "9dc3f5e2-9c33-4a9f-bf17-19b20edaf34d",
+          "type": "TextualBody",
+          "format": "text/plain",
+          "value": "水門"
+        }
+      ],
+      "motivation": "commenting"
+    },
+    {
+      "id": "68093812-db93-4cb5-ab95-62e46cbf4e19",
+      "target": {
+        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52525496m/canvas/f1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=3882,2165,155,254"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "21775377-017a-43e6-a2d2-4a6b8d145e37",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div data-entity-id=\"label\">\n  <h2>label</h2>\n  <div>\n      <p><strong>hierarchy:</strong> <span>top<span></p>\n    <p><strong>type:</strong> <span>prefecture<span></p>\n  </div>\n\n</div>"
+        },
+        {
+          "id": "1f3114c3-d1e3-4a68-8cf5-dafb9673b0be",
+          "type": "TextualBody",
+          "format": "text/plain",
+          "value": "杭州府"
+        }
+      ],
+      "motivation": "commenting"
+    },
+    {
+      "id": "f18298b9-d16b-4348-88c2-d6f29c27fbc6",
+      "target": {
+        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52525496m/canvas/f1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=3572,3407,87,145"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "3097f1ba-6b6e-4e63-973b-d2c85f1289e1",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div data-entity-id=\"label\">\n  <h2>label</h2>\n  <div>\n      <p><strong>hierarchy:</strong> <span>medium<span></p>\n    <p><strong>type:</strong> <span>wall gate<span></p>\n  </div>\n\n</div>"
+        },
+        {
+          "id": "654ebb67-0d88-4904-a59b-488abc9b03ce",
+          "type": "TextualBody",
+          "format": "text/plain",
+          "value": "鳳山門"
+        }
+      ],
+      "motivation": "commenting"
+    },
+    {
+      "id": "bb9d3aea-dcb3-40ac-8330-bdbd93b4589e",
+      "target": {
+        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52525496m/canvas/f1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=3757,3401,79,92"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "94d51ea5-f35e-4cfa-b240-6f9620f67dab",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div data-entity-id=\"label\">\n  <h2>label</h2>\n  <div>\n      <p><strong>hierarchy:</strong> <span>medium<span></p>\n    <p><strong>type:</strong> <span>water gate<span></p>\n  </div>\n\n</div>"
+        },
+        {
+          "id": "21b08ddd-5a07-454d-bb12-18fdb620f03d",
+          "type": "TextualBody",
+          "format": "text/plain",
+          "value": "水門"
+        }
+      ],
+      "motivation": "commenting"
+    },
+    {
+      "id": "dd99f6db-a45e-45d6-88c6-0254cb0956cd",
+      "target": {
+        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52525496m/canvas/f1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=3911,3319,85,164"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "de209861-d174-4916-bfbf-0bd07daa2ce6",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div data-entity-id=\"label\">\n  <h2>label</h2>\n  <div>\n      <p><strong>hierarchy:</strong> <span>medium<span></p>\n    <p><strong>type:</strong> <span>wall gate<span></p>\n  </div>\n\n</div>"
+        },
+        {
+          "id": "717bf584-5a00-4432-ae02-cba7d94ffbfe",
+          "type": "TextualBody",
+          "format": "text/plain",
+          "value": "候潮門"
+        }
+      ],
+      "motivation": "commenting"
+    },
+    {
+      "id": "9b2fe139-d299-4a34-8d0b-f3a35e8275f0",
+      "target": {
+        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52525496m/canvas/f1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=4070,3251,49,105"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "a0862def-fe0f-4194-b3b7-583a95afcfe0",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div data-entity-id=\"label\">\n  <h2>label</h2>\n  <div>\n      <p><strong>hierarchy:</strong> <span>medium<span></p>\n    <p><strong>type:</strong> <span>water gate<span></p>\n  </div>\n\n</div>"
+        },
+        {
+          "id": "3b6ee20b-ae1c-45e1-82b0-8c50ac9d73c6",
+          "type": "TextualBody",
+          "format": "text/plain",
+          "value": "水門"
+        }
+      ],
+      "motivation": "commenting"
+    },
+    {
+      "id": "a42121a5-569a-4ea6-bc7c-fe04b6751472",
+      "target": {
+        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52525496m/canvas/f1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=4172,3199,137,67"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "b3d7e286-6768-4b52-934c-a671917de672",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div data-entity-id=\"label\">\n  <h2>label</h2>\n  <div>\n      <p><strong>hierarchy:</strong> <span>medium<span></p>\n    <p><strong>type:</strong> <span>wall gate<span></p>\n  </div>\n\n</div>"
+        },
+        {
+          "id": "1874b238-a0d8-4f20-a439-2f00cff95297",
+          "type": "TextualBody",
+          "format": "text/plain",
+          "value": "望江門"
+        }
+      ],
+      "motivation": "commenting"
+    },
+    {
+      "id": "1bdeedff-22cb-49d8-9dea-c8b387849d61",
+      "target": {
+        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52525496m/canvas/f1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=4309,2617,160,79"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "773f83e5-1620-4177-8150-6f98fa0f81e6",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div data-entity-id=\"label\">\n  <h2>label</h2>\n  <div>\n      <p><strong>hierarchy:</strong> <span>medium<span></p>\n    <p><strong>type:</strong> <span>wall gate<span></p>\n  </div>\n\n</div>"
+        },
+        {
+          "id": "e1459a6b-433d-4c7e-a4c0-334f1c91d891",
+          "type": "TextualBody",
+          "format": "text/plain",
+          "value": "清泰門"
+        }
+      ],
+      "motivation": "commenting"
+    },
+    {
+      "id": "6ae7095f-8b1a-424e-8cb2-8413b9fe43f4",
+      "target": {
+        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52525496m/canvas/f1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=4464,2379,99,46"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "f3dfe2a9-91db-4384-81dd-9f1465677709",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div data-entity-id=\"label\">\n  <h2>label</h2>\n  <div>\n      <p><strong>hierarchy:</strong> <span>medium<span></p>\n    <p><strong>type:</strong> <span>water gate<span></p>\n  </div>\n\n</div>"
+        },
+        {
+          "id": "b687b0f7-a0d5-463d-ac16-488ede314d4b",
+          "type": "TextualBody",
+          "format": "text/plain",
+          "value": "門水"
+        }
+      ],
+      "motivation": "commenting"
+    },
+    {
+      "id": "9a9ebf24-6a71-4948-a3f4-441a60427427",
+      "target": {
+        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52525496m/canvas/f1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=4400,2088,175,94"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "87a13d39-5f3d-4eca-9430-bd1e35447f5a",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div data-entity-id=\"label\">\n  <h2>label</h2>\n  <div>\n      <p><strong>hierarchy:</strong> <span>medium<span></p>\n    <p><strong>type:</strong> <span>wall gate<span></p>\n  </div>\n\n</div>"
+        },
+        {
+          "id": "3f165958-0bbd-430c-afaa-f49d6e582822",
+          "type": "TextualBody",
+          "format": "text/plain",
+          "value": "慶春門"
+        }
+      ],
+      "motivation": "commenting"
+    },
+    {
+      "id": "26886b8d-ead6-4758-a985-f9e7a4c59cd2",
+      "target": {
+        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52525496m/canvas/f1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=4230,1265,67,99"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "23592c85-da70-410d-b8c5-4f0a917c63db",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div data-entity-id=\"label\">\n  <h2>label</h2>\n  <div>\n      <p><strong>hierarchy:</strong> <span>medium<span></p>\n    <p><strong>type:</strong> <span>water gate<span></p>\n  </div>\n\n</div>"
+        },
+        {
+          "id": "6e02d7fa-7434-44d1-beb8-e4dd262861ba",
+          "type": "TextualBody",
+          "format": "text/plain",
+          "value": "水門"
+        }
+      ],
+      "motivation": "commenting"
+    },
+    {
+      "id": "0e9a11a2-45a5-4017-83a2-2ebeb46b7d95",
+      "target": {
+        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52525496m/canvas/f1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=4292,1222,81,142"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "6db61eac-3516-456a-aab0-9f26d3b5898a",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div data-entity-id=\"label\">\n  <h2>label</h2>\n  <div>\n      <p><strong>hierarchy:</strong> <span>medium<span></p>\n    <p><strong>type:</strong> <span>wall gate<span></p>\n  </div>\n\n</div>"
+        },
+        {
+          "id": "e44a4758-bce3-43dd-9364-1bda58bcb7d5",
+          "type": "TextualBody",
+          "format": "text/plain",
+          "value": "艮山門"
+        }
+      ],
+      "motivation": "commenting"
+    },
+    {
+      "id": "b953caa1-4e38-4fe5-a477-08e035452a91",
+      "target": {
+        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52525496m/canvas/f1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=4519,1139,131,187"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "f26a9bc9-c52c-4db7-8e37-0aaf0d701978",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div data-entity-id=\"label\">\n  <h2>label</h2>\n  <div>\n      <p><strong>hierarchy:</strong> <span>medium<span></p>\n    <p><strong>type:</strong> <span>pavillion<span></p>\n  </div>\n\n</div>"
+        },
+        {
+          "id": "eaf0ff84-76f6-48e1-83a1-e57b8adddc23",
+          "type": "TextualBody",
+          "format": "text/plain",
+          "value": "跨海楼"
+        }
+      ],
+      "motivation": "commenting"
+    },
+    {
+      "id": "729c0f1c-10b3-493d-a4c0-ae598381eae3",
+      "target": {
+        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52525496m/canvas/f1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=3484,1092,611,247"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "a52da577-a5f2-4fc8-a56c-4dc00b0286a7",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div data-entity-id=\"map note\">\n  <h2>map note</h2>\n  <div>\n      <p><strong>note type:</strong> <span>label?<span></p>\n    <p><strong>note translation:</strong> <span>?<span></p>\n  </div>\n\n</div>"
+        },
+        {
+          "id": "35ce11a9-ae55-4b9d-a066-a1f26dac17ac",
+          "type": "TextualBody",
+          "format": "text/plain",
+          "value": "vile"
+        }
+      ],
+      "motivation": "commenting"
+    },
+    {
+      "id": "120c4c3a-ef74-4227-b3d1-ca8638bdc988",
+      "target": {
+        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52525496m/canvas/f1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=3921,690,764,228"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "03ca674e-d1fe-4598-902b-bbcea6e8809b",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div data-entity-id=\"xref\">\n  <h2>xref</h2>\n  <div>\n      <p><strong>type:</strong> <span>map to text<span></p>\n  </div>\n\n</div>"
+        },
+        {
+          "id": "3fd42f45-f742-4e1a-805c-46ccbfcaa026",
+          "type": "TextualBody",
+          "format": "text/plain",
+          "value": "p. 260. pl. III"
+        }
+      ],
+      "motivation": "commenting"
+    },
+    {
+      "id": "075da179-6908-4a02-8bfb-b87d960eb16c",
+      "target": {
+        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52525496m/canvas/f1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=1481,1516,709,374"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "id": "12acba3f-d024-4d31-8b44-c0f6a8675cd7",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div data-entity-id=\"label\">\n  <h2>label</h2>\n  <div>\n      <p><strong>hierarchy:</strong> <span>top<span></p>\n    <p><strong>type:</strong> <span>lake<span></p>\n  </div>\n\n</div>"
+        },
+        {
+          "id": "7afc4ad7-9fb9-41a2-9f47-9a573eb7ff4c",
+          "type": "TextualBody",
+          "format": "text/plain",
+          "value": "etang\nSí Hou"
+        }
+      ],
+      "motivation": "commenting"
+    },
+    {
+      "id": "ae9496ec-ead6-44c9-8ffe-e85ee07aba6d",
+      "target": {
+        "source": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52525496m/canvas/f1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=2525,667,1370,405"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div><p>Hang-tchoen fou nord</p><p><small>Google Gemini (gemini-3-pro-preview)</small></p></div>"
+        },
+        {
+          "id": "8908bc42-bda7-4f25-b30f-bd75fde8c8dd",
+          "type": "TextualBody",
+          "format": "text/html",
+          "value": "<div data-entity-id=\"map heading\">\n  <h2>map heading</h2>\n  <div>\n  \n  </div>\n\n</div>"
+        }
+      ],
+      "motivation": "commenting"
+    }
+  ]
+}
