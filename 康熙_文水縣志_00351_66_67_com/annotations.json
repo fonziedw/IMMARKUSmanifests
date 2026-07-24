@@ -1,0 +1,1964 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://fonziedw.github.io/IMMARKUSmanifests/康熙_文水縣志_00351_66_67_com/annotations.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "id": "454e7d23-09f2-4ecc-96bd-4b0a6c45463c",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/康熙_文水縣志_00351_66_67_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><g><path fill-rule=\"evenodd\" d=\"M 518.5691661277014,1343.7738444902743 L 551.5819858305634,1277.7480905990153 L 635.6148259570028,1253.7387567709761 L 632.6135876750388,443.4229100545246 L 608.6042538469995,347.38548887821645 L 677.631131534688,302.36794501856747 L 767.6662192539862,287.36209706535107 L 842.695459020068,332.3796409250001 L 1541.9680652283787,350.38664129602967 L 1629.1376183194998,377.39718478464926 L 1674.0195730108965,347.6350139538819 L 1758.3922172778578,344.07274985170426 L 1821.0835151442661,404.40166074727455 L 1857.0908722459226,437.42063384028194 L 2274.2534911395514,425.41590968349504 L 2713.705367431107,429.64561170348634 L 2772.4473684210525,386.4005847953215 L 2883.490780657495,395.40415653429517 L 2940.5128197028625,461.4298245614033 L 2892.4941520467837,539.4603598522162 L 2898.496628610712,1283.7503381918746 L 2961.521144220007,1343.7737300047402 L 2955.518667656079,1439.8111798024318 L 2903.9638022284676,1481.827485380117 L 2892.4943810178524,1907.9938191196375 L 2947.1034159824153,1949.7159503539758 L 2885.9777193564537,1971.5603204440172 L 2895.495504814282,2322.155199731302 L 1836.0825477287785,2337.161047684519 L 611.605377643429,2331.1585711205917 L 611.605377643429,2073.058032119483 L 623.610101800216,1965.015972650539 L 590.5972820973536,1959.0134960866117 L 623.610101800216,1907.993704634103 L 623.610101800216,1499.8345716152971 L 524.5715282060946,1427.8065701311791 Z M 865.7044945729865,1963.2651644552423 L 1664.0156743754183,1981.2723651759566 L 1700.02961787471,1882.233677096301 L 1796.067182157936,1900.2406488459471 L 1850.0892108056778,2026.290793463341 L 2648.399162723771,1999.2793369256028 L 2654.4014103166305,663.7588690893452 L 1631.0026257014872,702.774108113368 L 1609.9944156698773,618.741325229696 L 874.7080949333435,600.7342389945157 Z\" /></g></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/html",
+        "value": "<div data-entity-id=\"city_wall\">\n  <strong><u>city_wall</u></strong><br/>\n  <div>\n      <p><strong>id:</strong> <span>wenshui_cheng<span></p>\n    <p><strong>name:</strong> <span>文水城<span></p>\n    <p><strong>TGAZ:</strong> <span>https://maps.cga.harvard.edu/tgaz/placename/hvd_95609<span></p>\n    <p><strong>texture:</strong> <span>striped,unadorned<span></p>\n    <p><strong>road_presence:</strong> <span>intramural<span></p>\n  </div>\n\n</div><br/><br/>"
+      },
+      "created": "2025-05-28T19:42:25.973Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Evxgoc0r0pqHAUKgV7zS"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "7489bb06-75f1-4e9c-ba8f-b995a7db24af",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/康熙_文水縣志_00351_66_67_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"1619.1666636007901,682.9765716304832 1865.0959019926886,678.8081851277556 1825.4971047590527,545.4228779384388 1617.0825498532695,541.2546106914762\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/html",
+        "value": "<div data-entity-id=\"city_wall_gate\">\n  <strong><u>city_wall_gate</u></strong><br/>\n  <div>\n      <p><strong>name:</strong> <span>文水城拱辰門<span></p>\n    <p><strong>direction:</strong> <span>north<span></p>\n    <p><strong>texture:</strong> <span>striped<span></p>\n  </div>\n\n</div><br/><br/>"
+      },
+      "created": "2025-05-28T19:43:07.117Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Evxgoc0r0pqHAUKgV7zS"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "2ec6139c-44cd-4831-b4f0-bd8338118cc5",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/康熙_文水縣志_00351_66_67_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"1662.9337678333106,526.6656554511459 1806.7397630159949,530.833882946187 1829.6653322540938,468.30951647445215 1800.4874217734334,380.77538751325454 1769.2252385375657,341.1766101555793 1679.6069163250042,347.42905077794495 1631.671584597443,378.69123401381245 1625.419084347195,476.64609072029907\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/html",
+        "value": "<div data-entity-id=\"city_wall_gate_tower\">\n  <strong><u>city_wall_gate_tower</u></strong><br/>\n  <div>\n      <p><strong>name:</strong> <span>文水城拱辰門樓<span></p>\n  </div>\n\n</div><br/><br/>"
+      },
+      "created": "2025-05-28T19:43:13.124Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Evxgoc0r0pqHAUKgV7zS"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "45cfaed7-034c-4d33-9d07-fcdb5a7e45aa",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/康熙_文水縣志_00351_66_67_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"2648.3023884309723,1248.658706000937 2649.1846921889564,1612.6534238524473 2769.4262666352274,1511.5807281281725 2769.1828938794015,1250.742899252301\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/html",
+        "value": "<div data-entity-id=\"city_wall_gate\">\n  <strong><u>city_wall_gate</u></strong><br/>\n  <div>\n      <p><strong>name:</strong> <span>文水城朝陽門<span></p>\n    <p><strong>direction:</strong> <span>east<span></p>\n    <p><strong>texture:</strong> <span>striped<span></p>\n  </div>\n\n</div><br/><br/>"
+      },
+      "created": "2025-05-28T19:43:22.228Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Evxgoc0r0pqHAUKgV7zS"
+      },
+      "modified": "2025-06-28T14:00:41.426Z",
+      "motivation": "commenting"
+    },
+    {
+      "id": "ba9b28b6-2495-4e85-8edc-2cb925ba8a41",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/康熙_文水縣志_00351_66_67_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"2783.7718491197315,1323.687993469325 2785.8561218749387,1454.9891471591995 2844.2121018439457,1477.9147163972984 2923.409696311218,1461.2415679056046 2965.092607292375,1419.5586569244479 2944.251151801797,1340.3611419610188 2890.0633993278298,1302.8465379787467\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/html",
+        "value": "<div data-entity-id=\"city_wall_gate_tower\">\n  <strong><u>city_wall_gate_tower</u></strong><br/>\n  <div>\n      <p><strong>name:</strong> <span>文水城朝陽門樓<span></p>\n  </div>\n\n</div><br/><br/>"
+      },
+      "created": "2025-05-28T19:43:27.276Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Evxgoc0r0pqHAUKgV7zS"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "50ea1ec1-bd64-4acb-835e-d098a845dc71",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/康熙_文水縣志_00351_66_67_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"1656.2492183848262,2330.3301982596454 1845.9065110513948,2332.4144710148526 1831.317396803378,2136.504678098036 1670.8381736251565,2130.252257351631\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/html",
+        "value": "<div data-entity-id=\"city_wall_gate\">\n  <strong><u>city_wall_gate</u></strong><br/>\n  <div>\n      <p><strong>name:</strong> <span>文水城迎？門<span></p>\n    <p><strong>direction:</strong> <span>south<span></p>\n    <p><strong>texture:</strong> <span>striped<span></p>\n  </div>\n\n</div><br/><br/>"
+      },
+      "created": "2025-05-28T19:43:33.964Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Evxgoc0r0pqHAUKgV7zS"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "8f8b56b7-31d1-4e5c-b2d3-c05784c00bad",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/康熙_文水縣志_00351_66_67_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"1670.8381736251565,2096.8617790940857 1645.8284906395372,2030.2078562187173 1702.1003568610238,1880.1546324570052 1810.4759413128,1898.7162981180036 1837.5698970536262,1955.1784767430604 1856.327238796684,2036.7238513921966 1825.0650555608163,2105.251409799139\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/html",
+        "value": "<div data-entity-id=\"city_wall_gate_tower\">\n  <strong><u>city_wall_gate_tower</u></strong><br/>\n  <div>\n      <p><strong>name:</strong> <span>文水城迎？門樓<span></p>\n  </div>\n\n</div><br/><br/>"
+      },
+      "created": "2025-05-28T19:43:38.724Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Evxgoc0r0pqHAUKgV7zS"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "30746d14-b01e-4ce8-94ee-4064e989d561",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/康熙_文水縣志_00351_66_67_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"864.5123948801665,1265.9668146939716 858.5385225733583,1612.8097100272273 793.5269445658131,1566.606457264403 730.8885628016124,1496.6717003730616 735.056830048575,1282.004804224717\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/html",
+        "value": "<div data-entity-id=\"city_wall_gate\">\n  <strong><u>city_wall_gate</u></strong><br/>\n  <div>\n      <p><strong>name:</strong> <span>文水城樂成門<span></p>\n    <p><strong>direction:</strong> <span>west<span></p>\n    <p><strong>texture:</strong> <span>striped<span></p>\n  </div>\n\n</div><br/><br/>"
+      },
+      "created": "2025-05-28T19:43:42.724Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Evxgoc0r0pqHAUKgV7zS"
+      },
+      "modified": "2025-06-28T13:59:51.010Z",
+      "motivation": "commenting"
+    },
+    {
+      "id": "4c3d7f17-4c31-4e64-a5a2-74ed759b9c3f",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/康熙_文水縣志_00351_66_67_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"722.5519885557653,1329.9339627164186 636.7632392312331,1267.414732844344 555.807486695244,1290.3413010536076 539.1471265735821,1350.7815516909352 524.5581117053694,1432.0632201538062 562.072725625622,1482.6672692381085 662.1117159555901,1498.7661229454668 718.3836418049592,1450.820601648786\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/html",
+        "value": "<div data-entity-id=\"city_wall_gate_tower\">\n  <strong><u>city_wall_gate_tower</u></strong><br/>\n  <div>\n      <p><strong>name:</strong> <span>文水城樂成門樓<span></p>\n  </div>\n\n</div><br/><br/>"
+      },
+      "created": "2025-05-28T19:43:48.220Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Evxgoc0r0pqHAUKgV7zS"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "5005af87-c633-4a2d-80cb-4ee391303ce8",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/康熙_文水縣志_00351_66_67_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"664.125908642478,456.1871646719509 837.1100528173525,452.01893717690984 862.1197358029718,333.2225653519622 780.8380275881791,279.03481287799605 668.0781540854535,287.3713473719213 601.2914424208128,351.97988721905926\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/html",
+        "value": "<div data-entity-id=\"city_wall_watchtower\">\n  <strong><u>city_wall_watchtower</u></strong><br/>\n  <div>\n      <p><strong>name:</strong> <span>文水城角樓<span></p>\n    <p><strong>descriptor:</strong> <span>角樓<span></p>\n  </div>\n\n</div><br/><br/>"
+      },
+      "created": "2025-05-28T19:49:13.295Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Evxgoc0r0pqHAUKgV7zS"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "49ef39ba-6fc7-4420-9ab6-f129423b3e9f",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/康熙_文水縣志_00351_66_67_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"2736.6515187392256,515.9719363319967 2887.2896143550824,519.0706420206952 2941.7399884357683,470.9862991169276 2879.207188780316,390.94678514956763 2776.667075119291,385.94481675090634 2729.1487092481516,443.46726252628605\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/html",
+        "value": "<div data-entity-id=\"city_wall_watchtower\">\n  <strong><u>city_wall_watchtower</u></strong><br/>\n  <div>\n      <p><strong>name:</strong> <span>文水城角樓<span></p>\n  </div>\n\n</div><br/><br/>"
+      },
+      "created": "2025-05-28T19:49:19.533Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Evxgoc0r0pqHAUKgV7zS"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "5ebe9658-5756-4613-b122-b307536d4d82",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/康熙_文水縣志_00351_66_67_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"2739.0125297912296,2067.691593708621 2895.3234459705673,2067.691593708621 2899.3185544758153,1972.345106859929 2950.935562621256,1935.0481884004573 2864.1249823596117,1917.572900101654 2768.1905992795764,1896.7914837774238 2705.666232807842,1953.0634295027537\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/html",
+        "value": "<div data-entity-id=\"city_wall_watchtower\">\n  <strong><u>city_wall_watchtower</u></strong><br/>\n  <div>\n      <p><strong>name:</strong> <span>文水城角樓<span></p>\n    <p><strong>descriptor:</strong> <span>角樓<span></p>\n  </div>\n\n</div><br/><br/>"
+      },
+      "created": "2025-05-28T19:49:26.052Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Evxgoc0r0pqHAUKgV7zS"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "5bc59def-a220-4a7d-a311-f2200f1f95f3",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/康熙_文水縣志_00351_66_67_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"621.5206241221289,2053.1025589644473 773.6632531785427,2048.9340929578766 769.4949461796582,1967.6524642469274 811.1778571608149,1944.726815504985 769.8366046079205,1911.5424719587872 739.9223039066602,1898.6775109065434 656.8504224810847,1898.8677050330755 588.1726834351093,1948.89507372759 588.1726834351093,1948.89507372759\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/html",
+        "value": "<div data-entity-id=\"city_wall_watchtower\">\n  <strong><u>city_wall_watchtower</u></strong><br/>\n  <div>\n      <p><strong>name:</strong> <span>文水城角樓<span></p>\n    <p><strong>descriptor:</strong> <span>角樓<span></p>\n  </div>\n\n</div><br/><br/>"
+      },
+      "created": "2025-05-28T19:49:32.077Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Evxgoc0r0pqHAUKgV7zS"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "169b9f2a-e83f-4f90-a07f-8b34cf142dea",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/康熙_文水縣志_00351_66_67_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=325,1357,105,98"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/html",
+        "value": "<div data-entity-id=\"bridge\">\n  <strong><u>bridge</u></strong><br/>\n  <div>\n      <p><strong>id:</strong> <span>wenshui_unnamed_qiao1<span></p>\n    <p><strong>name:</strong> <span>文水unnamed橋1<span></p>\n    <p><strong>texture:</strong> <span>unadorned<span></p>\n    <p><strong>bridge_type:</strong> <span>text only<span></p>\n    <p><strong>relation to wall:</strong> <span>extramural<span></p>\n    <p><strong>bridge_cover:</strong> <span>no<span></p>\n  </div>\n\n</div><br/><br/>"
+      },
+      "created": "2025-05-28T19:50:10.741Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Evxgoc0r0pqHAUKgV7zS"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "a85039ca-ffe0-4a4b-85fa-e9e8c365ef00",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/康熙_文水縣志_00351_66_67_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=842,324,90,130"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/html",
+        "value": "<div data-entity-id=\"city_wall_watchtower\">\n  <strong><u>city_wall_watchtower</u></strong><br/>\n  <div>\n      <p><strong>name:</strong> <span>文水城樓<span></p>\n  </div>\n\n</div><br/><br/>"
+      },
+      "created": "2025-05-28T19:51:23.760Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Evxgoc0r0pqHAUKgV7zS"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "ed5f45cb-a9ac-4fb8-b774-e5cebf08da09",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/康熙_文水縣志_00351_66_67_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=940,322,87,138"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/html",
+        "value": "<div data-entity-id=\"city_wall_watchtower\">\n  <strong><u>city_wall_watchtower</u></strong><br/>\n  <div>\n      <p><strong>name:</strong> <span>文水城樓<span></p>\n  </div>\n\n</div><br/><br/>"
+      },
+      "created": "2025-05-28T19:51:26.868Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Evxgoc0r0pqHAUKgV7zS"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "55664e1c-d8a1-4517-893b-3fd557ed3ac4",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/康熙_文水縣志_00351_66_67_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=1030,327,98,138"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/html",
+        "value": "<div data-entity-id=\"city_wall_watchtower\">\n  <strong><u>city_wall_watchtower</u></strong><br/>\n  <div>\n      <p><strong>name:</strong> <span>文水城樓<span></p>\n  </div>\n\n</div><br/><br/>"
+      },
+      "created": "2025-05-28T19:51:29.543Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Evxgoc0r0pqHAUKgV7zS"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "7c2309ea-bcb0-44a5-83b2-4a2de985600a",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/康熙_文水縣志_00351_66_67_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=1137,335,93,133"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/html",
+        "value": "<div data-entity-id=\"city_wall_watchtower\">\n  <strong><u>city_wall_watchtower</u></strong><br/>\n  <div>\n      <p><strong>name:</strong> <span>文水城樓<span></p>\n  </div>\n\n</div><br/><br/>"
+      },
+      "created": "2025-05-28T19:51:31.908Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Evxgoc0r0pqHAUKgV7zS"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "970802a5-2ed7-4707-8d9b-adcb74b06c43",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/康熙_文水縣志_00351_66_67_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=1235,337,93,128"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/html",
+        "value": "<div data-entity-id=\"city_wall_watchtower\">\n  <strong><u>city_wall_watchtower</u></strong><br/>\n  <div>\n      <p><strong>name:</strong> <span>文水城樓<span></p>\n  </div>\n\n</div><br/><br/>"
+      },
+      "created": "2025-05-28T19:51:34.349Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Evxgoc0r0pqHAUKgV7zS"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "c6d462a0-079b-4a0f-96a8-2c095eccc50a",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/康熙_文水縣志_00351_66_67_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=1335,337,95,118"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/html",
+        "value": "<div data-entity-id=\"city_wall_watchtower\">\n  <strong><u>city_wall_watchtower</u></strong><br/>\n  <div>\n      <p><strong>name:</strong> <span>文水城樓<span></p>\n  </div>\n\n</div><br/><br/>"
+      },
+      "created": "2025-05-28T19:51:36.589Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Evxgoc0r0pqHAUKgV7zS"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "22472ae7-e004-48f5-871d-fc0a4dbe3e72",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/康熙_文水縣志_00351_66_67_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=1430,335,87,125"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/html",
+        "value": "<div data-entity-id=\"city_wall_watchtower\">\n  <strong><u>city_wall_watchtower</u></strong><br/>\n  <div>\n      <p><strong>name:</strong> <span>文水城樓<span></p>\n  </div>\n\n</div><br/><br/>"
+      },
+      "created": "2025-05-28T19:51:38.943Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Evxgoc0r0pqHAUKgV7zS"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "c67c28a0-72cd-4e39-b5d0-cd41d664d2fa",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/康熙_文水縣志_00351_66_67_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=1520,332,83,130"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/html",
+        "value": "<div data-entity-id=\"city_wall_watchtower\">\n  <strong><u>city_wall_watchtower</u></strong><br/>\n  <div>\n      <p><strong>name:</strong> <span>文水城樓<span></p>\n  </div>\n\n</div><br/><br/>"
+      },
+      "created": "2025-05-28T19:51:41.268Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Evxgoc0r0pqHAUKgV7zS"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "b3407b46-f1a3-40f1-8e96-bd1d0e1647ea",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/康熙_文水縣志_00351_66_67_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=1838,422,90,115"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/html",
+        "value": "<div data-entity-id=\"city_wall_watchtower\">\n  <strong><u>city_wall_watchtower</u></strong><br/>\n  <div>\n      <p><strong>name:</strong> <span>文水城樓<span></p>\n  </div>\n\n</div><br/><br/>"
+      },
+      "created": "2025-05-28T19:51:43.901Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Evxgoc0r0pqHAUKgV7zS"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "ef82c698-4671-43fb-ba3d-7490995f24bf",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/康熙_文水縣志_00351_66_67_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=1953,422,93,115"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/html",
+        "value": "<div data-entity-id=\"city_wall_watchtower\">\n  <strong><u>city_wall_watchtower</u></strong><br/>\n  <div>\n      <p><strong>name:</strong> <span>文水城樓<span></p>\n  </div>\n\n</div><br/><br/>"
+      },
+      "created": "2025-05-28T19:51:46.252Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Evxgoc0r0pqHAUKgV7zS"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "3bd0cf14-9988-47e1-9f1c-ac8034813617",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/康熙_文水縣志_00351_66_67_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=2063,412,108,135"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/html",
+        "value": "<div data-entity-id=\"city_wall_watchtower\">\n  <strong><u>city_wall_watchtower</u></strong><br/>\n  <div>\n      <p><strong>name:</strong> <span>文水城樓<span></p>\n  </div>\n\n</div><br/><br/>"
+      },
+      "created": "2025-05-28T19:51:48.116Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Evxgoc0r0pqHAUKgV7zS"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "dd2518c3-6841-4bfe-ba83-b254817539b2",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/康熙_文水縣志_00351_66_67_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=2195,427,98,108"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/html",
+        "value": "<div data-entity-id=\"city_wall_watchtower\">\n  <strong><u>city_wall_watchtower</u></strong><br/>\n  <div>\n      <p><strong>name:</strong> <span>文水城樓<span></p>\n  </div>\n\n</div><br/><br/>"
+      },
+      "created": "2025-05-28T19:51:51.068Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Evxgoc0r0pqHAUKgV7zS"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "5becb585-4a0f-4a80-8214-f34f5799968a",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/康熙_文水縣志_00351_66_67_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=2310,425,105,113"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/html",
+        "value": "<div data-entity-id=\"city_wall_watchtower\">\n  <strong><u>city_wall_watchtower</u></strong><br/>\n  <div>\n      <p><strong>name:</strong> <span>文水城樓<span></p>\n  </div>\n\n</div><br/><br/>"
+      },
+      "created": "2025-05-28T19:51:53.060Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Evxgoc0r0pqHAUKgV7zS"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "2b4f0dea-7987-42cd-aa68-b979019b20bd",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/康熙_文水縣志_00351_66_67_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=2408,412,103,118"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/html",
+        "value": "<div data-entity-id=\"city_wall_watchtower\">\n  <strong><u>city_wall_watchtower</u></strong><br/>\n  <div>\n      <p><strong>name:</strong> <span>文水城樓<span></p>\n  </div>\n\n</div><br/><br/>"
+      },
+      "created": "2025-05-28T19:51:55.389Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Evxgoc0r0pqHAUKgV7zS"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "1d422c06-4c97-4e2d-8150-34a7d7eec1d9",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/康熙_文水縣志_00351_66_67_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=2523,419,92,108"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/html",
+        "value": "<div data-entity-id=\"city_wall_watchtower\">\n  <strong><u>city_wall_watchtower</u></strong><br/>\n  <div>\n      <p><strong>name:</strong> <span>文水城樓<span></p>\n  </div>\n\n</div><br/><br/>"
+      },
+      "created": "2025-05-28T19:51:57.893Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Evxgoc0r0pqHAUKgV7zS"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "89eaa7fe-0455-4929-874f-ff424aa0b258",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/康熙_文水縣志_00351_66_67_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=2641,407,84,133"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/html",
+        "value": "<div data-entity-id=\"city_wall_watchtower\">\n  <strong><u>city_wall_watchtower</u></strong><br/>\n  <div>\n      <p><strong>name:</strong> <span>文水城樓<span></p>\n  </div>\n\n</div><br/><br/>"
+      },
+      "created": "2025-05-28T19:51:59.788Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Evxgoc0r0pqHAUKgV7zS"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "4725e03f-1b39-425f-8288-57b6be5b7b93",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/康熙_文水縣志_00351_66_67_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=2791,537,120,118"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/html",
+        "value": "<div data-entity-id=\"city_wall_watchtower\">\n  <strong><u>city_wall_watchtower</u></strong><br/>\n  <div>\n      <p><strong>name:</strong> <span>文水城樓<span></p>\n  </div>\n\n</div><br/><br/>"
+      },
+      "created": "2025-05-28T19:52:36.693Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Evxgoc0r0pqHAUKgV7zS"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "7e947775-a5b0-4272-9361-e722356dfb0a",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/康熙_文水縣志_00351_66_67_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=2795,672,113,93"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/html",
+        "value": "<div data-entity-id=\"city_wall_watchtower\">\n  <strong><u>city_wall_watchtower</u></strong><br/>\n  <div>\n      <p><strong>name:</strong> <span>文水城樓<span></p>\n  </div>\n\n</div><br/><br/>"
+      },
+      "created": "2025-05-28T19:52:38.741Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Evxgoc0r0pqHAUKgV7zS"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "7edad70b-aefd-41ad-952c-a6571060ef28",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/康熙_文水縣志_00351_66_67_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=2790,775,120,90"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/html",
+        "value": "<div data-entity-id=\"city_wall_watchtower\">\n  <strong><u>city_wall_watchtower</u></strong><br/>\n  <div>\n      <p><strong>name:</strong> <span>文水城樓<span></p>\n  </div>\n\n</div><br/><br/>"
+      },
+      "created": "2025-05-28T19:52:40.758Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Evxgoc0r0pqHAUKgV7zS"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "ee11cf4d-ee51-4b09-92f0-1422d08717fe",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/康熙_文水縣志_00351_66_67_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=2780,870,130,95"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/html",
+        "value": "<div data-entity-id=\"city_wall_watchtower\">\n  <strong><u>city_wall_watchtower</u></strong><br/>\n  <div>\n      <p><strong>name:</strong> <span>文水城樓<span></p>\n  </div>\n\n</div><br/><br/>"
+      },
+      "created": "2025-05-28T19:52:42.764Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Evxgoc0r0pqHAUKgV7zS"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "2f77d75a-30ff-43c4-89a5-0a774351a838",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/康熙_文水縣志_00351_66_67_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=2788,977,123,70"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/html",
+        "value": "<div data-entity-id=\"city_wall_watchtower\">\n  <strong><u>city_wall_watchtower</u></strong><br/>\n  <div>\n      <p><strong>name:</strong> <span>文水城樓<span></p>\n  </div>\n\n</div><br/><br/>"
+      },
+      "created": "2025-05-28T19:52:44.692Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Evxgoc0r0pqHAUKgV7zS"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "eab39d45-b441-4cea-9c07-aabab74cc61c",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/康熙_文水縣志_00351_66_67_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=2790,1057,123,80"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/html",
+        "value": "<div data-entity-id=\"city_wall_watchtower\">\n  <strong><u>city_wall_watchtower</u></strong><br/>\n  <div>\n      <p><strong>name:</strong> <span>文水城樓<span></p>\n  </div>\n\n</div><br/><br/>"
+      },
+      "created": "2025-05-28T19:52:46.780Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Evxgoc0r0pqHAUKgV7zS"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "e7482a18-1884-46eb-9c35-05da89be4a4b",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/康熙_文水縣志_00351_66_67_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=2788,1147,118,73"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/html",
+        "value": "<div data-entity-id=\"city_wall_watchtower\">\n  <strong><u>city_wall_watchtower</u></strong><br/>\n  <div>\n      <p><strong>name:</strong> <span>文水城樓<span></p>\n  </div>\n\n</div><br/><br/>"
+      },
+      "created": "2025-05-28T19:52:48.828Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Evxgoc0r0pqHAUKgV7zS"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "1ecd76ee-b2d9-4dde-a551-a50e4b81e092",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/康熙_文水縣志_00351_66_67_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=2783,1222,125,83"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/html",
+        "value": "<div data-entity-id=\"city_wall_watchtower\">\n  <strong><u>city_wall_watchtower</u></strong><br/>\n  <div>\n      <p><strong>name:</strong> <span>文水城樓<span></p>\n  </div>\n\n</div><br/><br/>"
+      },
+      "created": "2025-05-28T19:52:51.004Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Evxgoc0r0pqHAUKgV7zS"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "baaa02f5-a58b-479a-94d5-7813126c9ca0",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/康熙_文水縣志_00351_66_67_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=2785,1467,123,90"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/html",
+        "value": "<div data-entity-id=\"city_wall_watchtower\">\n  <strong><u>city_wall_watchtower</u></strong><br/>\n  <div>\n      <p><strong>name:</strong> <span>文水城樓<span></p>\n  </div>\n\n</div><br/><br/>"
+      },
+      "created": "2025-05-28T19:52:53.813Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Evxgoc0r0pqHAUKgV7zS"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "7b42cf03-4c80-4146-a158-82423199eafc",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/康熙_文水縣志_00351_66_67_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=2780,1567,128,85"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/html",
+        "value": "<div data-entity-id=\"city_wall_watchtower\">\n  <strong><u>city_wall_watchtower</u></strong><br/>\n  <div>\n      <p><strong>name:</strong> <span>文水城樓<span></p>\n  </div>\n\n</div><br/><br/>"
+      },
+      "created": "2025-05-28T19:52:55.876Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Evxgoc0r0pqHAUKgV7zS"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "d5b4c91d-a789-4805-8cf0-02838bcaa39d",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/康熙_文水縣志_00351_66_67_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=2788,1663,113,80"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/html",
+        "value": "<div data-entity-id=\"city_wall_watchtower\">\n  <strong><u>city_wall_watchtower</u></strong><br/>\n  <div>\n      <p><strong>name:</strong> <span>文水城樓<span></p>\n  </div>\n\n</div><br/><br/>"
+      },
+      "created": "2025-05-28T19:52:58.028Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Evxgoc0r0pqHAUKgV7zS"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "69002690-45a6-4528-bc2c-215c7f781599",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/康熙_文水縣志_00351_66_67_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=2788,1750,123,80"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/html",
+        "value": "<div data-entity-id=\"city_wall_watchtower\">\n  <strong><u>city_wall_watchtower</u></strong><br/>\n  <div>\n      <p><strong>name:</strong> <span>文水城樓<span></p>\n  </div>\n\n</div><br/><br/>"
+      },
+      "created": "2025-05-28T19:53:00.197Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Evxgoc0r0pqHAUKgV7zS"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "e8f0211c-5738-42e7-8499-0362a61c43b9",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/康熙_文水縣志_00351_66_67_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=2792,1828,109,88"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/html",
+        "value": "<div data-entity-id=\"city_wall_watchtower\">\n  <strong><u>city_wall_watchtower</u></strong><br/>\n  <div>\n      <p><strong>name:</strong> <span>文水城樓<span></p>\n  </div>\n\n</div><br/><br/>"
+      },
+      "created": "2025-05-28T19:53:02.181Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Evxgoc0r0pqHAUKgV7zS"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "83f38975-fb81-49fe-8e50-202ba812ac11",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/康熙_文水縣志_00351_66_67_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=2621,1998,87,78"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/html",
+        "value": "<div data-entity-id=\"city_wall_watchtower\">\n  <strong><u>city_wall_watchtower</u></strong><br/>\n  <div>\n      <p><strong>name:</strong> <span>文水城樓<span></p>\n  </div>\n\n</div><br/><br/>"
+      },
+      "created": "2025-05-28T19:53:04.676Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Evxgoc0r0pqHAUKgV7zS"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "ccd629fe-5cc8-40bd-bae3-fbfe483a2c96",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/康熙_文水縣志_00351_66_67_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=2512,1985,88,100"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/html",
+        "value": "<div data-entity-id=\"city_wall_watchtower\">\n  <strong><u>city_wall_watchtower</u></strong><br/>\n  <div>\n      <p><strong>name:</strong> <span>文水城樓<span></p>\n  </div>\n\n</div><br/><br/>"
+      },
+      "created": "2025-05-28T19:53:06.797Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Evxgoc0r0pqHAUKgV7zS"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "5d6eb851-dd36-451a-9611-4a9ee0fbfed2",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/康熙_文水縣志_00351_66_67_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=2393,1993,95,90"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/html",
+        "value": "<div data-entity-id=\"city_wall_watchtower\">\n  <strong><u>city_wall_watchtower</u></strong><br/>\n  <div>\n      <p><strong>name:</strong> <span>文水城樓<span></p>\n  </div>\n\n</div><br/><br/>"
+      },
+      "created": "2025-05-28T19:53:09.268Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Evxgoc0r0pqHAUKgV7zS"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "86ea37a1-117f-46c1-8e07-16e890b6bc77",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/康熙_文水縣志_00351_66_67_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=2285,2000,83,98"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/html",
+        "value": "<div data-entity-id=\"city_wall_watchtower\">\n  <strong><u>city_wall_watchtower</u></strong><br/>\n  <div>\n      <p><strong>name:</strong> <span>文水城樓<span></p>\n  </div>\n\n</div><br/><br/>"
+      },
+      "created": "2025-05-28T19:53:11.133Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Evxgoc0r0pqHAUKgV7zS"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "35fed5a4-b42e-454d-b987-1bedd5851633",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/康熙_文水縣志_00351_66_67_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=2203,1998,68,88"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/html",
+        "value": "<div data-entity-id=\"city_wall_watchtower\">\n  <strong><u>city_wall_watchtower</u></strong><br/>\n  <div>\n      <p><strong>name:</strong> <span>文水城樓<span></p>\n  </div>\n\n</div><br/><br/>"
+      },
+      "created": "2025-05-28T19:53:13.205Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Evxgoc0r0pqHAUKgV7zS"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "45ff7c2a-c9c0-4469-82d2-1184335dc8a5",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/康熙_文水縣志_00351_66_67_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=2098,2013,88,78"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/html",
+        "value": "<div data-entity-id=\"city_wall_watchtower\">\n  <strong><u>city_wall_watchtower</u></strong><br/>\n  <div>\n      <p><strong>name:</strong> <span>文水城樓<span></p>\n  </div>\n\n</div><br/><br/>"
+      },
+      "created": "2025-05-28T19:53:17.612Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Evxgoc0r0pqHAUKgV7zS"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "71896e53-2524-4bf1-831d-ffc286d24930",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/康熙_文水縣志_00351_66_67_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=1995,2010,83,78"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/html",
+        "value": "<div data-entity-id=\"city_wall_watchtower\">\n  <strong><u>city_wall_watchtower</u></strong><br/>\n  <div>\n      <p><strong>name:</strong> <span>文水城樓<span></p>\n  </div>\n\n</div><br/><br/>"
+      },
+      "created": "2025-05-28T19:53:19.861Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Evxgoc0r0pqHAUKgV7zS"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "10adc050-b2aa-44d6-85ef-50322cdfff3c",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/康熙_文水縣志_00351_66_67_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=1880,2000,93,110"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/html",
+        "value": "<div data-entity-id=\"city_wall_watchtower\">\n  <strong><u>city_wall_watchtower</u></strong><br/>\n  <div>\n      <p><strong>name:</strong> <span>文水城樓<span></p>\n  </div>\n\n</div><br/><br/>"
+      },
+      "created": "2025-05-28T19:53:21.581Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Evxgoc0r0pqHAUKgV7zS"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "72df521c-39e7-4eeb-8e7e-0cf5ce90a0b9",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/康熙_文水縣志_00351_66_67_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=1550,1963,88,118"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/html",
+        "value": "<div data-entity-id=\"city_wall_watchtower\">\n  <strong><u>city_wall_watchtower</u></strong><br/>\n  <div>\n      <p><strong>name:</strong> <span>文水城樓<span></p>\n  </div>\n\n</div><br/><br/>"
+      },
+      "created": "2025-05-28T19:53:23.684Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Evxgoc0r0pqHAUKgV7zS"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "f22ec435-c24f-46c4-95f5-d1727f700d53",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/康熙_文水縣志_00351_66_67_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=1452,1950,85,133"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/html",
+        "value": "<div data-entity-id=\"city_wall_watchtower\">\n  <strong><u>city_wall_watchtower</u></strong><br/>\n  <div>\n      <p><strong>name:</strong> <span>文水城樓<span></p>\n  </div>\n\n</div><br/><br/>"
+      },
+      "created": "2025-05-28T19:53:26.206Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Evxgoc0r0pqHAUKgV7zS"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "0ada0690-e30f-43c3-a878-f3875a44f3f0",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/康熙_文水縣志_00351_66_67_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=1350,1953,100,140"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/html",
+        "value": "<div data-entity-id=\"city_wall_watchtower\">\n  <strong><u>city_wall_watchtower</u></strong><br/>\n  <div>\n      <p><strong>name:</strong> <span>文水城樓<span></p>\n  </div>\n\n</div><br/><br/>"
+      },
+      "created": "2025-05-28T19:53:28.028Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Evxgoc0r0pqHAUKgV7zS"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "6155ac23-bb76-40a1-98e0-b54b4340ece3",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/康熙_文水縣志_00351_66_67_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=1260,1950,90,143"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/html",
+        "value": "<div data-entity-id=\"city_wall_watchtower\">\n  <strong><u>city_wall_watchtower</u></strong><br/>\n  <div>\n      <p><strong>name:</strong> <span>文水城樓<span></p>\n  </div>\n\n</div><br/><br/>"
+      },
+      "created": "2025-05-28T19:53:29.676Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Evxgoc0r0pqHAUKgV7zS"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "c39333df-d8bf-4c25-9a56-7c3391b0efe4",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/康熙_文水縣志_00351_66_67_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=1160,1958,88,127"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/html",
+        "value": "<div data-entity-id=\"city_wall_watchtower\">\n  <strong><u>city_wall_watchtower</u></strong><br/>\n  <div>\n      <p><strong>name:</strong> <span>文水城樓<span></p>\n  </div>\n\n</div><br/><br/>"
+      },
+      "created": "2025-05-28T19:53:31.925Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Evxgoc0r0pqHAUKgV7zS"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "ec16f263-651c-488b-a5cc-541ed5a9a103",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/康熙_文水縣志_00351_66_67_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=1005,1935,125,140"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/html",
+        "value": "<div data-entity-id=\"city_wall_watchtower\">\n  <strong><u>city_wall_watchtower</u></strong><br/>\n  <div>\n      <p><strong>name:</strong> <span>文水城樓<span></p>\n  </div>\n\n</div><br/><br/>"
+      },
+      "created": "2025-05-28T19:53:34.268Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Evxgoc0r0pqHAUKgV7zS"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "7346611b-5c97-4560-b79c-6c0a628d938e",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/康熙_文水縣志_00351_66_67_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=903,1935,105,135"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/html",
+        "value": "<div data-entity-id=\"city_wall_watchtower\">\n  <strong><u>city_wall_watchtower</u></strong><br/>\n  <div>\n      <p><strong>name:</strong> <span>文水城樓<span></p>\n  </div>\n\n</div><br/><br/>"
+      },
+      "created": "2025-05-28T19:53:36.374Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Evxgoc0r0pqHAUKgV7zS"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "df0efc28-83f4-4c92-9809-140f246b4d15",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/康熙_文水縣志_00351_66_67_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=785,1935,110,127"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/html",
+        "value": "<div data-entity-id=\"city_wall_watchtower\">\n  <strong><u>city_wall_watchtower</u></strong><br/>\n  <div>\n      <p><strong>name:</strong> <span>文水城樓<span></p>\n  </div>\n\n</div><br/><br/>"
+      },
+      "created": "2025-05-28T19:53:38.813Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Evxgoc0r0pqHAUKgV7zS"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "04cea012-ec8d-41aa-887f-67509c3c9a2d",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/康熙_文水縣志_00351_66_67_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=620,1790,115,95"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/html",
+        "value": "<div data-entity-id=\"city_wall_watchtower\">\n  <strong><u>city_wall_watchtower</u></strong><br/>\n  <div>\n      <p><strong>name:</strong> <span>文水城樓<span></p>\n  </div>\n\n</div><br/><br/>"
+      },
+      "created": "2025-05-28T19:53:41.084Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Evxgoc0r0pqHAUKgV7zS"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "d60f3fc9-4220-451c-a150-ca27c3a8a46a",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/康熙_文水縣志_00351_66_67_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=620,1720,115,73"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/html",
+        "value": "<div data-entity-id=\"city_wall_watchtower\">\n  <strong><u>city_wall_watchtower</u></strong><br/>\n  <div>\n      <p><strong>name:</strong> <span>文水城樓<span></p>\n  </div>\n\n</div><br/><br/>"
+      },
+      "created": "2025-05-28T19:53:43.373Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Evxgoc0r0pqHAUKgV7zS"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "132385d2-17f7-45f4-aa88-6650674b7eb9",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/康熙_文水縣志_00351_66_67_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=592,1607,138,110"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/html",
+        "value": "<div data-entity-id=\"city_wall_watchtower\">\n  <strong><u>city_wall_watchtower</u></strong><br/>\n  <div>\n      <p><strong>name:</strong> <span>文水城樓<span></p>\n  </div>\n\n</div><br/><br/>"
+      },
+      "created": "2025-05-28T19:53:46.148Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Evxgoc0r0pqHAUKgV7zS"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "8c8ad298-3281-40c2-846c-bfd708ad7d60",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/康熙_文水縣志_00351_66_67_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=590,1492,150,123"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/html",
+        "value": "<div data-entity-id=\"city_wall_watchtower\">\n  <strong><u>city_wall_watchtower</u></strong><br/>\n  <div>\n      <p><strong>name:</strong> <span>文水城樓<span></p>\n  </div>\n\n</div><br/><br/>"
+      },
+      "created": "2025-05-28T19:53:48.484Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Evxgoc0r0pqHAUKgV7zS"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "4d878540-b1d7-4299-a229-99ab752752df",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/康熙_文水縣志_00351_66_67_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=609,1192,133,110"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/html",
+        "value": "<div data-entity-id=\"city_wall_watchtower\">\n  <strong><u>city_wall_watchtower</u></strong><br/>\n  <div>\n      <p><strong>name:</strong> <span>文水城樓<span></p>\n  </div>\n\n</div><br/><br/>"
+      },
+      "created": "2025-05-28T19:53:50.692Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Evxgoc0r0pqHAUKgV7zS"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "132ab5b5-3592-4ec2-8284-3b41492ebf13",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/康熙_文水縣志_00351_66_67_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=622,1095,123,90"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/html",
+        "value": "<div data-entity-id=\"city_wall_watchtower\">\n  <strong><u>city_wall_watchtower</u></strong><br/>\n  <div>\n      <p><strong>name:</strong> <span>文水城樓<span></p>\n  </div>\n\n</div><br/><br/>"
+      },
+      "created": "2025-05-28T19:53:53.012Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Evxgoc0r0pqHAUKgV7zS"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "d7e5f01b-65b3-44b9-ae49-7095a36ab089",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/康熙_文水縣志_00351_66_67_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=617,987,130,100"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/html",
+        "value": "<div data-entity-id=\"city_wall_watchtower\">\n  <strong><u>city_wall_watchtower</u></strong><br/>\n  <div>\n      <p><strong>name:</strong> <span>文水城樓<span></p>\n  </div>\n\n</div><br/><br/>"
+      },
+      "created": "2025-05-28T19:53:55.420Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Evxgoc0r0pqHAUKgV7zS"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "b0444898-9d2b-473a-a4ed-ca7903228dca",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/康熙_文水縣志_00351_66_67_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=631,875,116,105"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/html",
+        "value": "<div data-entity-id=\"city_wall_watchtower\">\n  <strong><u>city_wall_watchtower</u></strong><br/>\n  <div>\n      <p><strong>name:</strong> <span>文水城樓<span></p>\n  </div>\n\n</div><br/><br/>"
+      },
+      "created": "2025-05-28T19:53:57.452Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Evxgoc0r0pqHAUKgV7zS"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "603df644-ec1f-4fa4-8ee0-8ef4679fc9d2",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/康熙_文水縣志_00351_66_67_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=617,757,133,115"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/html",
+        "value": "<div data-entity-id=\"city_wall_watchtower\">\n  <strong><u>city_wall_watchtower</u></strong><br/>\n  <div>\n      <p><strong>name:</strong> <span>文水城樓<span></p>\n  </div>\n\n</div><br/><br/>"
+      },
+      "created": "2025-05-28T19:53:59.828Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Evxgoc0r0pqHAUKgV7zS"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "ae26a609-fd1b-40b4-aed3-ee3591b18a3b",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/康熙_文水縣志_00351_66_67_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=617,647,133,108"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/html",
+        "value": "<div data-entity-id=\"city_wall_watchtower\">\n  <strong><u>city_wall_watchtower</u></strong><br/>\n  <div>\n      <p><strong>name:</strong> <span>文水城樓<span></p>\n  </div>\n\n</div><br/><br/>"
+      },
+      "created": "2025-05-28T19:54:02.253Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Evxgoc0r0pqHAUKgV7zS"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "5ad9e8b5-9dbd-4c6e-b121-f4562ee6f196",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/康熙_文水縣志_00351_66_67_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=622,567,130,93"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/html",
+        "value": "<div data-entity-id=\"city_wall_watchtower\">\n  <strong><u>city_wall_watchtower</u></strong><br/>\n  <div>\n      <p><strong>name:</strong> <span>文水城樓<span></p>\n  </div>\n\n</div><br/><br/>"
+      },
+      "created": "2025-05-28T19:54:04.324Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Evxgoc0r0pqHAUKgV7zS"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "9be7b8b7-9ee1-4af4-b1c8-4d1f595ea6cc",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/康熙_文水縣志_00351_66_67_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=630,470,110,93"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/html",
+        "value": "<div data-entity-id=\"city_wall_watchtower\">\n  <strong><u>city_wall_watchtower</u></strong><br/>\n  <div>\n      <p><strong>name:</strong> <span>文水城樓<span></p>\n  </div>\n\n</div><br/><br/>"
+      },
+      "created": "2025-05-28T19:54:06.773Z",
+      "creator": {
+        "isGuest": true,
+        "id": "Evxgoc0r0pqHAUKgV7zS"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "1bdcc43e-cbe9-42dd-8788-96959e42246d",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/康熙_文水縣志_00351_66_67_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"2166.8443192459104,360.4836585244883 2290.723854433295,359.1851215160942 2273.6372692324794,311.9785752006777 2269.3652970265534,179.6478259712808 2206.713832812119,168.25658584876842 2185.3552754053776,198.15856825511742 2183.9310673995874,302.1035758118584 2182.5071852995193,329.9807627353955\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/html",
+        "value": "<div data-entity-id=\"stele\">\n  <strong><u>stele</u></strong><br/>\n  <div>\n      <p><strong>name:</strong> <span>邑？壇<span></p>\n    <p><strong>relation to wall:</strong> <span>extramural<span></p>\n  </div>\n\n</div><br/><br/>"
+      },
+      "created": "2025-06-28T13:56:05.620Z",
+      "creator": {
+        "isGuest": true,
+        "id": "zfqom3XWO___DFZhGSso"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "39d265a5-6771-4a33-a92f-74d4710f51b3",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/康熙_文水縣志_00351_66_67_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"1336.8361414013145,602.4452690249005 1611.6496234888184,612.4126474164526 1621.6170426185856,447.4731831206628 1525.81584058426,462.568826628213 1469.2550102669477,509.88814169374314 1437.9333185583196,475.7178474227346 1399.4878500450407,505.6198196445297 1425.1179722755555,537.0381803110647\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/html",
+        "value": "<div data-entity-id=\"city_wall_stair\">\n  <strong><u>city_wall_stair</u></strong><br/>\n  <div>\n      <p><strong>name:</strong> <span>文水城拱辰門階<span></p>\n  </div>\n\n</div><br/><br/>"
+      },
+      "created": "2025-06-28T13:58:04.205Z",
+      "creator": {
+        "isGuest": true,
+        "id": "zfqom3XWO___DFZhGSso"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "39b8935a-31d2-4b0b-91f7-41b160b45567",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/康熙_文水縣志_00351_66_67_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"860.2150430013412,1751.8049723059944 862.5115528888962,1606.8882623852442 740.36966389855,1503.8083709774 737.9965270651035,1604.6683159274912 772.4075882747956,1643.8254810615126 749.8623470263873,1664.191520228686 789.019749799998,1698.4092023940625 803.2587744917539,1697.2221461664683\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/html",
+        "value": "<div data-entity-id=\"city_wall_stair\">\n  <strong><u>city_wall_stair</u></strong><br/>\n  <div>\n      <p><strong>name:</strong> <span>文水城樂成門階<span></p>\n  </div>\n\n</div><br/><br/>"
+      },
+      "created": "2025-06-28T14:00:00.827Z",
+      "creator": {
+        "isGuest": true,
+        "id": "zfqom3XWO___DFZhGSso"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "096c9312-ff34-4d7f-b245-a07f9a1c0eb5",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/康熙_文水縣志_00351_66_67_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"2650.050347279566,1613.1534578492628 2653.7071182565865,1746.6680130567481 2710.5428465297728,1686.4149098467635 2738.028912507706,1700.9488247999368 2747.09568503296,1657.6196979818715 2770.69102583948,1637.873010943226 2768.7089712488137,1524.159412073652\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/html",
+        "value": "<div data-entity-id=\"city_wall_stair\">\n  <strong><u>city_wall_stair</u></strong><br/>\n  <div>\n      <p><strong>name:</strong> <span>文水城朝陽門階<span></p>\n  </div>\n\n</div><br/><br/>"
+      },
+      "created": "2025-06-28T14:00:49.075Z",
+      "creator": {
+        "isGuest": true,
+        "id": "zfqom3XWO___DFZhGSso"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "78abf512-d896-4e1b-995b-f820b9acf6c6",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/康熙_文水縣志_00351_66_67_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"1510.4484011121558,539.586417629401 1481.9288423634646,570.3014347504455 1408.7699310806422,566.7483298287202 1400.0900766857542,507.23160452620976 1433.569555610205,478.71199847598865\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/html",
+        "value": "<div data-entity-id=\"city_wall_room\">\n  <strong><u>city_wall_room</u></strong><br/>\n  <div>\n  \n  </div>\n\n</div><br/><br/>"
+      },
+      "created": "2025-12-12T14:54:31.099Z",
+      "creator": {
+        "isGuest": true,
+        "id": "UG0CdxwFKT1r5ubl8ZYp"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "e613e0a4-4586-40d7-9978-b70a96593ffb",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/康熙_文水縣志_00351_66_67_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"826.51290030124,1680.3230296461957 838.416651961227,1627.7223281424153 808.6571309066696,1588.3750961016244 774.4336887891579,1614.4258980656164 753.601953098673,1672.4678637383427 792.2893730409744,1700.7394300258604\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/html",
+        "value": "<div data-entity-id=\"city_wall_room\">\n  <strong><u>city_wall_room</u></strong><br/>\n  <div>\n  \n  </div>\n\n</div><br/><br/>"
+      },
+      "created": "2025-12-12T14:55:11.307Z",
+      "creator": {
+        "isGuest": true,
+        "id": "UG0CdxwFKT1r5ubl8ZYp"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "a9698cbd-4d3f-4749-bf64-b8e3844a48ae",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/康熙_文水縣志_00351_66_67_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=1817,313,135,87"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/html",
+        "value": "<div><p>天啓 文水縣志 卷二\n總鋪 在北關</p></div>"
+      },
+      "created": "2025-12-12T15:29:13.629Z",
+      "creator": {
+        "isGuest": true,
+        "id": "CCPoA5lMMT1cCEykD0YD"
+      },
+      "motivation": "commenting"
+    },
+    {
+      "id": "d2a56b5f-7484-40e8-9741-fda7f6bc52d3",
+      "target": {
+        "source": "https://fonziedw.github.io/IMMARKUSmanifests/康熙_文水縣志_00351_66_67_com/canvas/1",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"2751.441123411556,1695.7112073118042 2706.8256681344687,1690.4622192772429 2690.4113625571567,1596.238349718309 2744.637690249923,1541.518234914199\" /></svg>"
+        }
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "type": "Annotation",
+      "body": {
+        "type": "TextualBody",
+        "format": "text/html",
+        "value": "<div data-entity-id=\"city_wall_room\">\n  <strong><u>city_wall_room</u></strong><br/>\n  <div>\n  \n  </div>\n\n</div><br/><br/>"
+      },
+      "created": "2026-06-01T08:05:10.910Z",
+      "creator": {
+        "isGuest": true,
+        "id": "VotMWsQQywXaas6eLEH9"
+      },
+      "motivation": "commenting"
+    }
+  ]
+}

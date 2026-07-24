@@ -1,0 +1,94 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://fonziedw.github.io/IMMARKUSmanifests/康熙_文水縣志_00351_66_67_com/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "康熙_文水縣志_00351_66_67_com.png"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Volume"
+        ]
+      },
+      "value": {
+        "en": [
+          "圖"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Page"
+        ]
+      },
+      "value": {
+        "en": [
+          "3b-4a"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Image_title"
+        ]
+      },
+      "value": {
+        "en": [
+          "城池圖"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Image_format"
+        ]
+      },
+      "value": {
+        "en": [
+          "png"
+        ]
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": "https://fonziedw.github.io/IMMARKUSmanifests/康熙_文水縣志_00351_66_67_com/canvas/1",
+      "type": "Canvas",
+      "height": 2566,
+      "width": 3249,
+      "items": [
+        {
+          "id": "https://fonziedw.github.io/IMMARKUSmanifests/康熙_文水縣志_00351_66_67_com/page/p1/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://fonziedw.github.io/IMMARKUSmanifests/康熙_文水縣志_00351_66_67_com/annotation/p0001-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://fonziedw.github.io/IMMARKUSmanifests/康熙_文水縣志_00351_66_67_com/康熙_文水縣志_00351_66_67_com.png",
+                "type": "Image",
+                "height": 2566,
+                "width": 3249
+              },
+              "target": "https://fonziedw.github.io/IMMARKUSmanifests/康熙_文水縣志_00351_66_67_com/canvas/1"
+            }
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://fonziedw.github.io/IMMARKUSmanifests/康熙_文水縣志_00351_66_67_com/annotations.json",
+          "type": "AnnotationPage"
+        }
+      ]
+    }
+  ]
+}
